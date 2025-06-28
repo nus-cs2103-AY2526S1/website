@@ -55,7 +55,8 @@
     title: "Tour 3: Using the Revision History of a Repo",
     lessons: {
       log: {path: "gitAndGithub/log", title: "Examining the Revision History"},
-      checkout: {path: "gitAndGithub/checkout", title: "Traversing to a Specific Snapshot"},
+      show: {path: "gitAndGithub/show", title: "Examining a Commit"},
+      checkout: {path: "gitAndGithub/checkout", title: "Traversing to a Specific Commit"},
       tag: {path: "gitAndGithub/tag", title: "Tagging Commits"},
       diff: {path: "gitAndGithub/diff", title: "Comparing Points of History"}
     }
@@ -118,7 +119,10 @@
 {% macro show_git_term(term, current_page="") -%}<span class="badge text-dark" style="background-color: rgba(13, 202, 240, 0.2);">{% if current_page %}<trigger for="pop:{{ current_page }}-{{ term }}">{% endif %}++{{ term }}++{% if current_page %}</trigger>{% endif %}</span>{%- endmacro %}
 <!-- ============================================================ -->
 
-{% macro show_ref(text, style="success", arrow="←") -%}<span class="badge rounded-pill bg-light pt-0 pb-0 pe-0"> <span class="text-{{ style }}">{{ arrow }}</span> <span class="badge bg-{{ style }} text-white">{{ text }}</span></span>{%- endmacro %}
+{% macro show_ref(text, style="success") -%}<span class="badge bg-{{ style }} text-white ps-1 pe-1">{{ text }}</span>{%- endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_head() -%}<span style="position: relative; left: -5px;"><span class="text-danger m-0 p-0">←</span><span class="badge bg-danger text-white me-2 ps-1 pe-1">HEAD</span></span>{%- endmacro %}
 <!-- ============================================================ -->
 
 {% macro show_commit(text, edge='|', desc='', style="info", msg='') %}
@@ -184,6 +188,43 @@
   </div>
 {% endfor %}
 </div>
+{%- endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_transformation_columns(a, b, c) -%}
+<div class="d-flex flex-column flex-md-row align-items-center justify-content-left gap-2">
+<div class="flex-shrink-0">
+
+{{ a }}
+</div>
+
+<div class="flex-shrink-0 justify-content-center align-items-center text-center p-3" style="min-height: 30px;">
+
+→<br>
+{{ b }}
+</div>
+
+<div class="flex-shrink-0">
+
+{{ c }}
+</div>
+</div>
+
+
+{%- endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_git_tabs_from_text(cli, sourcetree, indent_level='') -%}
+{% if indent_level %}<div class="indented-level{{ indent_level }}">{% endif %}
+<tabs>
+  <tab header="CLI">
+{{ cli }}
+  </tab>
+  <tab header="Sourcetree" class="d-print-none">
+{{ sourcetree }}
+  </tab>
+</tabs>
+{% if indent_level %}</div>{% endif %}
 {%- endmacro %}
 <!-- ============================================================ -->
 

@@ -1419,7 +1419,8 @@
         "lesson-updating-the-remote-repo": "Lesson: Updating the Remote Repo",
         "lesson-omitting-files-from-revision-control": "Lesson: Omitting files from revision control",
         "lesson-examining-the-revision-history": "Lesson: Examining the Revision History",
-        "lesson-traversing-to-a-specific-snapshot": "Lesson: Traversing to a Specific Snapshot",
+        "lesson-examining-a-commit": "Lesson: Examining a Commit",
+        "lesson-traversing-to-a-specific-commit": "Lesson: Traversing to a Specific Commit",
         "lesson-tagging-commits": "Lesson: Tagging Commits",
         "lesson-comparing-points-of-history": "Lesson: Comparing Points of History",
         "git-and-github": "Git and GitHub"
