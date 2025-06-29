@@ -1420,8 +1420,8 @@
         "lesson-omitting-files-from-revision-control": "Lesson: Omitting files from revision control",
         "lesson-examining-the-revision-history": "Lesson: Examining the Revision History",
         "lesson-examining-a-commit": "Lesson: Examining a Commit",
-        "lesson-traversing-to-a-specific-commit": "Lesson: Traversing to a Specific Commit",
         "lesson-tagging-commits": "Lesson: Tagging Commits",
+        "lesson-traversing-to-a-specific-commit": "Lesson: Traversing to a Specific Commit",
         "lesson-comparing-points-of-history": "Lesson: Comparing Points of History",
         "git-and-github": "Git and GitHub"
       },
