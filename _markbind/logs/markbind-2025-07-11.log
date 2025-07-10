@@ -1,0 +1,500 @@
+2025-07-10T16:00:36.101Z - info: [00:00:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:00:36.112Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:00:36.113Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:00:36.113Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:00:36.113Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:00:37.117Z - info: Rebuilding 2 pages
+2025-07-10T16:00:37.155Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:00:37.390Z - info: Site data built
+2025-07-10T16:00:37.390Z - info: Pages rebuilt
+2025-07-10T16:00:37.390Z - info: Website regeneration complete! Total build time: 0.275s
+2025-07-10T16:02:13.145Z - info: [00:02:13] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:02:13.147Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:02:13.148Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:02:13.148Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:02:13.148Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:02:14.157Z - info: Rebuilding 2 pages
+2025-07-10T16:02:14.188Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:02:14.389Z - info: Site data built
+2025-07-10T16:02:14.389Z - info: Pages rebuilt
+2025-07-10T16:02:14.389Z - info: Website regeneration complete! Total build time: 0.235s
+2025-07-10T16:03:19.488Z - info: [00:03:19] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:03:19.490Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:03:19.491Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:03:19.491Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:03:19.491Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:03:20.498Z - info: Rebuilding 2 pages
+2025-07-10T16:03:20.538Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:03:20.769Z - info: Site data built
+2025-07-10T16:03:20.769Z - info: Pages rebuilt
+2025-07-10T16:03:20.769Z - info: Website regeneration complete! Total build time: 0.274s
+2025-07-10T16:04:14.580Z - info: [00:04:14] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:04:14.581Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:04:14.581Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:04:14.581Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:04:14.581Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:04:15.588Z - info: Rebuilding 2 pages
+2025-07-10T16:04:15.631Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:04:15.875Z - info: Site data built
+2025-07-10T16:04:15.875Z - info: Pages rebuilt
+2025-07-10T16:04:15.875Z - info: Website regeneration complete! Total build time: 0.29s
+2025-07-10T16:05:06.062Z - info: [00:05:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:05:06.063Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:05:06.063Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:05:06.063Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:05:06.063Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:05:07.068Z - info: Rebuilding 2 pages
+2025-07-10T16:05:07.101Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:05:07.353Z - info: Site data built
+2025-07-10T16:05:07.353Z - info: Pages rebuilt
+2025-07-10T16:05:07.353Z - info: Website regeneration complete! Total build time: 0.287s
+2025-07-10T16:06:55.119Z - info: [00:06:55] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:06:55.145Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:06:55.145Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:06:55.146Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:06:55.146Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:06:56.151Z - info: Rebuilding 2 pages
+2025-07-10T16:06:56.191Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:06:56.437Z - info: Site data built
+2025-07-10T16:06:56.437Z - info: Pages rebuilt
+2025-07-10T16:06:56.437Z - info: Website regeneration complete! Total build time: 0.288s
+2025-07-10T16:07:06.927Z - info: [00:07:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:07:06.928Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:07:06.928Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:07:06.928Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:07:06.928Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:07:07.932Z - info: Rebuilding 2 pages
+2025-07-10T16:07:07.968Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:07:08.206Z - info: Site data built
+2025-07-10T16:07:08.206Z - info: Pages rebuilt
+2025-07-10T16:07:08.206Z - info: Website regeneration complete! Total build time: 0.276s
+2025-07-10T16:09:16.879Z - info: [00:09:16] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:09:16.879Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:09:16.880Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:09:16.880Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:09:16.880Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:09:17.889Z - info: Rebuilding 2 pages
+2025-07-10T16:09:17.925Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:09:18.171Z - info: Site data built
+2025-07-10T16:09:18.171Z - info: Pages rebuilt
+2025-07-10T16:09:18.171Z - info: Website regeneration complete! Total build time: 0.285s
+2025-07-10T16:12:27.156Z - info: [00:12:27] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:12:27.157Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:12:27.157Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:12:27.157Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:12:27.157Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:12:28.165Z - info: Rebuilding 2 pages
+2025-07-10T16:12:28.210Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:12:28.459Z - info: Site data built
+2025-07-10T16:12:28.459Z - info: Pages rebuilt
+2025-07-10T16:12:28.459Z - info: Website regeneration complete! Total build time: 0.297s
+2025-07-10T16:12:50.165Z - info: [00:12:50] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:12:50.166Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:12:50.166Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:12:50.166Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:12:50.166Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:12:51.172Z - info: Rebuilding 2 pages
+2025-07-10T16:12:51.210Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:12:51.453Z - info: Site data built
+2025-07-10T16:12:51.453Z - info: Pages rebuilt
+2025-07-10T16:12:51.453Z - info: Website regeneration complete! Total build time: 0.283s
+2025-07-10T16:16:31.591Z - info: [00:16:31] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:16:31.592Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:16:31.592Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:16:31.592Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:16:31.592Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:16:32.601Z - info: Rebuilding 2 pages
+2025-07-10T16:16:32.650Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:16:32.888Z - info: Site data built
+2025-07-10T16:16:32.888Z - info: Pages rebuilt
+2025-07-10T16:16:32.888Z - info: Website regeneration complete! Total build time: 0.29s
+2025-07-10T16:17:41.448Z - info: [00:17:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T16:17:41.449Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:17:41.450Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:17:41.450Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T16:17:41.450Z - info: 2. se-book-adapted/git-trail/index
+2025-07-10T16:17:42.458Z - info: Rebuilding 2 pages
+2025-07-10T16:17:42.499Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T16:17:42.776Z - info: Site data built
+2025-07-10T16:17:42.776Z - info: Pages rebuilt
+2025-07-10T16:17:42.776Z - info: Website regeneration complete! Total build time: 0.32s
+2025-07-10T16:55:39.967Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/branchingLocally/index as some of its dependencies were changed since the last visit
+2025-07-10T16:55:40.240Z - info: Site data built
+2025-07-10T16:55:40.240Z - info: Lazy website regeneration complete! Total build time: 0.274s
+2025-07-10T16:58:11.380Z - info: [00:58:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/merge/text.md
+2025-07-10T16:58:11.381Z - info: Synchronizing opened pages list before reload
+2025-07-10T16:58:11.382Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T16:58:11.382Z - info: 1. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T16:58:11.382Z - info: 2. book/gitAndGithub/branchDelete/index
+2025-07-10T16:58:12.390Z - info: Rebuilding 1 pages
+2025-07-10T16:58:12.660Z - info: Site data built
+2025-07-10T16:58:12.660Z - info: Pages rebuilt
+2025-07-10T16:58:12.660Z - info: Website regeneration complete! Total build time: 0.273s
+2025-07-10T17:56:20.602Z - info: [01:56:20] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T17:56:20.605Z - info: Synchronizing opened pages list before reload
+2025-07-10T17:56:20.605Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T17:56:20.605Z - info: 1. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T17:56:20.605Z - info: 2. book/gitAndGithub/branchDelete/index
+2025-07-10T17:56:21.634Z - info: Rebuilding 1 pages
+2025-07-10T17:56:21.906Z - info: Site data built
+2025-07-10T17:56:21.906Z - info: Pages rebuilt
+2025-07-10T17:56:21.906Z - info: Website regeneration complete! Total build time: 0.292s
+2025-07-10T17:56:25.827Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/index as some of its dependencies were changed since the last visit
+2025-07-10T17:56:25.861Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T17:56:25.910Z - info: Site data built
+2025-07-10T17:56:25.910Z - info: Lazy website regeneration complete! Total build time: 0.083s
+2025-07-10T18:00:10.749Z - info: [02:00:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T18:00:10.756Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:00:10.760Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:00:10.760Z - info: 1. book/gitAndGithub/branchRename/index
+2025-07-10T18:00:10.760Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:00:10.760Z - info: 3. book/gitAndGithub/branchDelete/index
+2025-07-10T18:00:11.781Z - info: Rebuilding 2 pages
+2025-07-10T18:00:11.818Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T18:00:12.077Z - info: Site data built
+2025-07-10T18:00:12.077Z - info: Pages rebuilt
+2025-07-10T18:00:12.077Z - info: Website regeneration complete! Total build time: 0.31s
+2025-07-10T18:00:35.184Z - info: [02:00:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T18:00:35.185Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:00:35.185Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:00:35.185Z - info: 1. book/gitAndGithub/branchRename/index
+2025-07-10T18:00:35.185Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:00:35.185Z - info: 3. book/gitAndGithub/branchDelete/index
+2025-07-10T18:00:36.197Z - info: Rebuilding 2 pages
+2025-07-10T18:00:36.234Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T18:00:36.486Z - info: Site data built
+2025-07-10T18:00:36.487Z - info: Pages rebuilt
+2025-07-10T18:00:36.487Z - info: Website regeneration complete! Total build time: 0.293s
+2025-07-10T18:01:10.586Z - info: [02:01:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T18:01:10.587Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:01:10.587Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:01:10.588Z - info: 1. book/gitAndGithub/branchRename/index
+2025-07-10T18:01:10.588Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:01:10.588Z - info: 3. book/gitAndGithub/branchDelete/index
+2025-07-10T18:01:11.593Z - info: Rebuilding 2 pages
+2025-07-10T18:01:11.630Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T18:01:11.879Z - info: Site data built
+2025-07-10T18:01:11.879Z - info: Pages rebuilt
+2025-07-10T18:01:11.879Z - info: Website regeneration complete! Total build time: 0.289s
+2025-07-10T18:03:33.332Z - info: [02:03:33] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T18:03:33.333Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:03:33.334Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:03:33.334Z - info: 1. book/gitAndGithub/branchRename/index
+2025-07-10T18:03:33.334Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:03:33.334Z - info: 3. book/gitAndGithub/branchDelete/index
+2025-07-10T18:03:34.347Z - info: Rebuilding 2 pages
+2025-07-10T18:03:34.388Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T18:03:34.679Z - info: Site data built
+2025-07-10T18:03:34.679Z - info: Pages rebuilt
+2025-07-10T18:03:34.679Z - info: Website regeneration complete! Total build time: 0.335s
+2025-07-10T18:03:48.786Z - info: [02:03:48] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T18:03:48.786Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:03:48.786Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:03:48.786Z - info: 1. book/gitAndGithub/branchRename/index
+2025-07-10T18:03:48.786Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:03:48.786Z - info: 3. book/gitAndGithub/branchDelete/index
+2025-07-10T18:03:49.801Z - info: Rebuilding 2 pages
+2025-07-10T18:03:49.836Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T18:03:50.125Z - info: Site data built
+2025-07-10T18:03:50.125Z - info: Pages rebuilt
+2025-07-10T18:03:50.125Z - info: Website regeneration complete! Total build time: 0.326s
+2025-07-10T18:05:01.343Z - info: [02:05:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T18:05:01.344Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:05:01.345Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:05:01.345Z - info: 1. book/gitAndGithub/branchRename/index
+2025-07-10T18:05:01.345Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:05:01.345Z - info: 3. book/gitAndGithub/branchDelete/index
+2025-07-10T18:05:02.351Z - info: Rebuilding 2 pages
+2025-07-10T18:05:02.392Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T18:05:02.681Z - info: Site data built
+2025-07-10T18:05:02.681Z - info: Pages rebuilt
+2025-07-10T18:05:02.681Z - info: Website regeneration complete! Total build time: 0.333s
+2025-07-10T18:05:35.556Z - info: [02:05:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T18:05:35.557Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:05:35.557Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:05:35.557Z - info: 1. book/gitAndGithub/branchRename/index
+2025-07-10T18:05:35.557Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:05:35.557Z - info: 3. book/gitAndGithub/branchDelete/index
+2025-07-10T18:05:36.562Z - info: Rebuilding 2 pages
+2025-07-10T18:05:36.596Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T18:05:36.839Z - info: Site data built
+2025-07-10T18:05:36.839Z - info: Pages rebuilt
+2025-07-10T18:05:36.839Z - info: Website regeneration complete! Total build time: 0.279s
+2025-07-10T18:05:49.220Z - info: [02:05:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T18:05:49.221Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:05:49.221Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:05:49.221Z - info: 1. book/gitAndGithub/branchRename/index
+2025-07-10T18:05:49.221Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:05:49.221Z - info: 3. book/gitAndGithub/branchDelete/index
+2025-07-10T18:05:50.233Z - info: Rebuilding 2 pages
+2025-07-10T18:05:50.265Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T18:05:50.520Z - info: Site data built
+2025-07-10T18:05:50.520Z - info: Pages rebuilt
+2025-07-10T18:05:50.520Z - info: Website regeneration complete! Total build time: 0.289s
+2025-07-10T18:07:44.927Z - info: [02:07:44] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:07:44.928Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:07:44.929Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:07:44.929Z - info: 1. book/gitAndGithub/branchRename/index
+2025-07-10T18:07:44.929Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:07:44.929Z - info: 3. book/gitAndGithub/branchDelete/index
+2025-07-10T18:07:44.930Z - info: [02:07:44] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T18:07:44.930Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:07:44.930Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:07:44.930Z - info: 1. book/gitAndGithub/branchRename/index
+2025-07-10T18:07:44.930Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:07:44.930Z - info: 3. book/gitAndGithub/branchDelete/index
+2025-07-10T18:07:45.938Z - info: Rebuilding 3 pages
+2025-07-10T18:07:45.978Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T18:07:46.245Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:07:46.299Z - info: Site data built
+2025-07-10T18:07:46.300Z - info: Pages rebuilt
+2025-07-10T18:07:46.300Z - info: Website regeneration complete! Total build time: 0.364s
+2025-07-10T18:08:47.159Z - info: [02:08:47] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:08:47.159Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:08:47.160Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:08:47.160Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:08:47.160Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:08:48.167Z - info: Rebuilding 2 pages
+2025-07-10T18:08:48.210Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:08:48.494Z - info: Site data built
+2025-07-10T18:08:48.494Z - info: Pages rebuilt
+2025-07-10T18:08:48.494Z - info: Website regeneration complete! Total build time: 0.33s
+2025-07-10T18:08:58.860Z - info: [02:08:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:08:58.860Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:08:58.861Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:08:58.861Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:08:58.862Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:08:59.869Z - info: Rebuilding 2 pages
+2025-07-10T18:08:59.907Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:09:00.175Z - info: Site data built
+2025-07-10T18:09:00.175Z - info: Pages rebuilt
+2025-07-10T18:09:00.175Z - info: Website regeneration complete! Total build time: 0.308s
+2025-07-10T18:11:33.952Z - info: [02:11:33] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/images/sourcetreeRightClickToDelete.png
+2025-07-10T18:11:33.953Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:11:33.953Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:11:33.953Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:11:33.953Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:11:35.125Z - info: Assets built
+2025-07-10T18:11:50.117Z - info: [02:11:50] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:11:50.117Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:11:50.117Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:11:50.117Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:11:50.117Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:11:51.128Z - info: Rebuilding 2 pages
+2025-07-10T18:11:51.176Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:11:51.483Z - info: Site data built
+2025-07-10T18:11:51.483Z - info: Pages rebuilt
+2025-07-10T18:11:51.483Z - info: Website regeneration complete! Total build time: 0.359s
+2025-07-10T18:12:37.663Z - info: [02:12:37] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:12:37.664Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:12:37.664Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:12:37.664Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:12:37.664Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:12:38.669Z - info: Rebuilding 2 pages
+2025-07-10T18:12:38.711Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:12:38.988Z - info: Site data built
+2025-07-10T18:12:38.989Z - info: Pages rebuilt
+2025-07-10T18:12:38.989Z - info: Website regeneration complete! Total build time: 0.322s
+2025-07-10T18:15:34.205Z - info: [02:15:34] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/images/sourcetreeDeleteBranchDialog.png
+2025-07-10T18:15:34.206Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:15:34.206Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:15:34.206Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:15:34.207Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:15:35.333Z - info: Assets built
+2025-07-10T18:16:27.080Z - info: [02:16:27] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:16:27.081Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:16:27.082Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:16:27.082Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:16:27.082Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:16:28.087Z - info: Rebuilding 2 pages
+2025-07-10T18:16:28.134Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:16:28.419Z - info: Site data built
+2025-07-10T18:16:28.419Z - info: Pages rebuilt
+2025-07-10T18:16:28.419Z - info: Website regeneration complete! Total build time: 0.336s
+2025-07-10T18:17:19.911Z - info: [02:17:19] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:17:19.912Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:17:19.912Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:17:19.912Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:17:19.912Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:17:20.917Z - info: Rebuilding 2 pages
+2025-07-10T18:17:20.951Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:17:21.226Z - info: Site data built
+2025-07-10T18:17:21.226Z - info: Pages rebuilt
+2025-07-10T18:17:21.226Z - info: Website regeneration complete! Total build time: 0.311s
+2025-07-10T18:19:04.598Z - info: [02:19:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:19:04.599Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:19:04.600Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:19:04.600Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:19:04.600Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:19:05.606Z - info: Rebuilding 2 pages
+2025-07-10T18:19:05.657Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:19:05.929Z - info: Site data built
+2025-07-10T18:19:05.929Z - info: Pages rebuilt
+2025-07-10T18:19:05.929Z - info: Website regeneration complete! Total build time: 0.326s
+2025-07-10T18:20:40.016Z - info: [02:20:40] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/images/sourcetreeBranchDeletionFailed.png
+2025-07-10T18:20:40.016Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:20:40.017Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:20:40.017Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:20:40.017Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:20:41.151Z - info: Assets built
+2025-07-10T18:21:18.888Z - info: [02:21:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:21:18.888Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:21:18.889Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:21:18.889Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:21:18.889Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:21:19.900Z - info: Rebuilding 2 pages
+2025-07-10T18:21:19.930Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:21:20.222Z - info: Site data built
+2025-07-10T18:21:20.222Z - info: Pages rebuilt
+2025-07-10T18:21:20.222Z - info: Website regeneration complete! Total build time: 0.324s
+2025-07-10T18:21:30.175Z - info: [02:21:30] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:21:30.175Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:21:30.175Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:21:30.175Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:21:30.175Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:21:31.179Z - info: Rebuilding 2 pages
+2025-07-10T18:21:31.208Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:21:31.495Z - info: Site data built
+2025-07-10T18:21:31.495Z - info: Pages rebuilt
+2025-07-10T18:21:31.495Z - info: Website regeneration complete! Total build time: 0.318s
+2025-07-10T18:21:39.229Z - info: [02:21:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:21:39.229Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:21:39.229Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:21:39.229Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:21:39.229Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:21:40.233Z - info: Rebuilding 2 pages
+2025-07-10T18:21:40.281Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:21:40.551Z - info: Site data built
+2025-07-10T18:21:40.551Z - info: Pages rebuilt
+2025-07-10T18:21:40.552Z - info: Website regeneration complete! Total build time: 0.321s
+2025-07-10T18:24:01.600Z - info: [02:24:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-10T18:24:01.601Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:24:01.601Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:24:01.601Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:24:01.601Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:24:02.607Z - info: Rebuilding 2 pages
+2025-07-10T18:24:02.653Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:24:02.923Z - info: Site data built
+2025-07-10T18:24:02.923Z - info: Pages rebuilt
+2025-07-10T18:24:02.923Z - info: Website regeneration complete! Total build time: 0.319s
+2025-07-10T18:25:07.099Z - info: [02:25:07] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-10T18:25:07.099Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:25:07.099Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:25:07.099Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:25:07.099Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:25:08.105Z - info: Rebuilding 1 pages
+2025-07-10T18:25:08.376Z - info: Site data built
+2025-07-10T18:25:08.376Z - info: Pages rebuilt
+2025-07-10T18:25:08.376Z - info: Website regeneration complete! Total build time: 0.273s
+2025-07-10T18:25:43.387Z - info: [02:25:43] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branch/text.md
+2025-07-10T18:25:43.387Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:25:43.387Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:25:43.387Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:25:43.387Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:25:44.394Z - info: Rebuilding 1 pages
+2025-07-10T18:25:44.658Z - info: Site data built
+2025-07-10T18:25:44.658Z - info: Pages rebuilt
+2025-07-10T18:25:44.658Z - info: Website regeneration complete! Total build time: 0.266s
+2025-07-10T18:26:24.800Z - info: [02:26:24] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/mergeConflicts/text.md
+2025-07-10T18:26:24.800Z - info: Synchronizing opened pages list before reload
+2025-07-10T18:26:24.800Z - info: Current opened pages, from most-to-least recent:
+2025-07-10T18:26:24.800Z - info: 1. book/gitAndGithub/branchDelete/index
+2025-07-10T18:26:24.800Z - info: 2. book/gitAndGithub/trail/branchingLocally/index
+2025-07-10T18:26:25.804Z - info: Rebuilding 1 pages
+2025-07-10T18:26:26.087Z - info: Site data built
+2025-07-10T18:26:26.087Z - info: Pages rebuilt
+2025-07-10T18:26:26.087Z - info: Website regeneration complete! Total build time: 0.285s
+2025-07-10T18:27:05.070Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-10T18:27:05.353Z - info: Site data built
+2025-07-10T18:27:05.353Z - info: Lazy website regeneration complete! Total build time: 0.283s
+2025-07-10T18:28:44.121Z - info: Website generation started at 02:28:43
+2025-07-10T18:28:44.525Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-10T18:28:44.525Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-10T18:28:44.544Z - info: Building assets...
+2025-07-10T18:28:46.655Z - info: Assets built
+2025-07-10T18:28:46.656Z - info: Generating pages...
+2025-07-10T18:28:53.223Z - debug:  
+2025-07-10T18:28:53.224Z - debug:  
+2025-07-10T18:28:53.224Z - debug:  
+2025-07-10T18:28:53.224Z - debug:  
+2025-07-10T18:28:53.224Z - debug:  
+2025-07-10T18:28:53.224Z - debug:  
+2025-07-10T18:28:53.224Z - debug:  
+2025-07-10T18:28:53.224Z - debug:  
+2025-07-10T18:28:53.224Z - debug:  
+2025-07-10T18:28:53.294Z - debug:  
+2025-07-10T18:28:55.300Z - debug:  
+2025-07-10T18:28:55.300Z - debug:  
+2025-07-10T18:28:55.300Z - debug:  
+2025-07-10T18:28:55.300Z - debug:  
+2025-07-10T18:28:55.300Z - debug:  
+2025-07-10T18:28:55.300Z - debug:  
+2025-07-10T18:28:55.300Z - debug:  
+2025-07-10T18:29:05.179Z - debug:  
+2025-07-10T18:29:08.338Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pushTag/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pushTag/text.md is empty
+2025-07-10T18:29:09.500Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md is empty
+2025-07-10T18:29:09.524Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md is empty
+2025-07-10T18:29:36.065Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/topics.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-07-10T18:29:36.068Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/topics.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-07-10T18:29:36.221Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/topics.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-07-10T18:29:36.262Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/topics.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-07-10T18:29:53.441Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/topics.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-07-10T18:29:53.442Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/topics.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-07-10T18:29:57.082Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/topics.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-07-10T18:29:57.083Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/topics.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-07-10T18:29:59.766Z - debug:  
+2025-07-10T18:30:10.879Z - debug:  
+2025-07-10T18:30:11.197Z - debug:  
+2025-07-10T18:30:17.698Z - info: Pages built
+2025-07-10T18:30:17.780Z - info: Site data built
+2025-07-10T18:30:17.780Z - info: Website generation complete! Total build time: 94.365s
+2025-07-10T18:30:17.780Z - info: Build success!
+2025-07-10T18:31:57.343Z - info: Website generation started at 02:31:56
+2025-07-10T18:31:57.693Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-10T18:31:57.694Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-10T18:31:57.713Z - info: Building assets...

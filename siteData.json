@@ -1432,6 +1432,8 @@
         "lesson-creating-branches": "Lesson: Creating Branches",
         "lesson-merging-branches": "Lesson: Merging Branches",
         "lesson-resolving-merge-conflicts": "Lesson: Resolving Merge Conflicts",
+        "lesson-renaming-branches": "Lesson: Renaming Branches",
+        "lesson-deleting-branches": "Lesson: Deleting Branches",
         "git-and-github": "Git and GitHub"
       },
       "headingKeywords": {}
