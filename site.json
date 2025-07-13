@@ -65,6 +65,9 @@
     "filterTags" : {
       "tags": ["m--cs2103"]
     },
+    "mermaid": {
+      "address": "https://unpkg.com/mermaid@11.7.0/dist/mermaid.esm.min.mjs"
+    },
     "googleAnalytics": {
        "trackingID": "UA-122519234-1"
     },
