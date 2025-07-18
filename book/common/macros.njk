@@ -310,14 +310,16 @@
 {% endmacro %}
 <!-- ============================================================ -->
 
-{% macro show_exercise(identifier) %}
+{% macro show_exercise(identifier, has_download=1) %}
 <panel class="non-printable" type="danger" header="{{ icon_exercise }} EXERCISE: `{{ identifier }}`">
-
+{% if has_download %}
 **To download** the exercise,
 
 * navigate inside the `gitmastery-exercies` folder.
 * run `gitmastery download {{ identifier }}` command.
-
+{% else %}
+**#r#No download##** required for this exercise.
+{% endif %}
 ---{.dashed .border-danger}
 
 **Your task:**{.text-danger}
