@@ -5582,7 +5582,7 @@ after staging, you can now proceed to <strong>save the snapshot, aka creating a 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>git version 2._._
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>git version 2._._
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
     <span class="tooltiptext">Copy</span>
@@ -5973,7 +5973,7 @@ e.g., Sourcetree (<a href="https://se-education.org/guides/tutorials/sourcetree.
 
     </div>
     </div>
-    </button></div></pre><p>The <code class="line-numbers hljs inline no-lang">gitmastery setup</code> command will perform the following tasks:</p> <ul style="list-style-type:none;padding-inline-start:0px;"><li texts="[&#39;a)&#39;, &#39;b)&#39;, &#39;c)&#39;, &#39;d)&#39;, &#39;e)&#39;, &#39;f)&#39;]" style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">a)</span><div>Check if Git is installed.</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">b)</span><div>Check if <code class="line-numbers hljs inline no-lang">user.name</code> and <code class="line-numbers hljs inline no-lang">user.email</code> are set.</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">c)</span><div>Prompt you to specify a name for the <strong>git-mastery</strong> <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">exercises directory</span></span> -- you can accept the default.</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">d)</span><div>Set up a mechanism to locally track the progress of your exercises.</div></li></ul> <p>Notes:</p> <ul><li>If the command failed due to checks (a) or (b) failing, you can rectify the problem and run the command again.</li> <li>If you wish to check the Git set up again at a later time, you can run the <code class="line-numbers hljs inline no-lang">gitmastery check git</code> command.</li></ul><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-outline-secondary" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="display:none;" data-v-4484e25a></div><!----></div></div> <p></p></div></div></div> <div></div></div></div><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-seamless" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="" data-v-4484e25a></div><!----></div></div> <div class="card-container" data-v-4484e25a><div class="card expandable-card card-seamless border-0" data-v-4484e25a><div class="card-header header-toggle bg-transparent border-0" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><span class="glyphicon glyphicon-chevron-down" data-v-4484e25a></span></div><div class="header-wrapper-seamless header-wrapper card-title bg-transparent" data-v-4484e25a><!--[--><!--[--><div class="card-title"><h4 id="lesson-putting-a-folder-under-git-s-control"><span class="text-success">Lesson: Putting a Folder Under Git&#39;s Control</span><a class="fa fa-anchor" href="#lesson-putting-a-folder-under-git-s-control" onclick="event.stopPropagation()"></a></h4></div><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="display:none;" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light seamless-button close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="" type="button" class="btn-outline-light seamless-button popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <div><div class="indented"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>To be able to save snapshots of a folder using Git, <strong>you must first put the folder under Git&#39;s control by initialising a Git <em>repository</em></strong> in that folder.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>Normally, we use Git to manage a revision history of a specific folder</strong>, which gives us the ability to revision-control any file in that folder and its subfolders.</p> <p><strong>To put a folder under the control of Git, we <em>initialise</em> a <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="trigger" tabindex="0"><span><!--[--><span class="large">repository</span><!--]--></span></span></span> (short name: <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">repo</span></span>)</strong> in that folder. This way, we can initialise repos in different folders, to revision-control different clusters of files independently of each other <span class="dimmed">e.g., files belonging to different projects</span>.</p> <span class="trigger" data-mb-component-type="popover" tabindex="0" id="pop:init-repository"><!----><!-- do not delete this comment, it is for the stray space issue (#2419)
+    </button></div></pre><p>The <code class="line-numbers hljs inline no-lang">gitmastery setup</code> command will perform the following tasks:</p> <ul style="list-style-type:none;padding-inline-start:0px;"><li texts="[&#39;a)&#39;, &#39;b)&#39;, &#39;c)&#39;, &#39;d)&#39;, &#39;e)&#39;, &#39;f)&#39;]" style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">a)</span><div>Checks if Git is installed.</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">b)</span><div>Checks if <code class="line-numbers hljs inline no-lang">user.name</code> and <code class="line-numbers hljs inline no-lang">user.email</code> are set.</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">c)</span><div>Prompts you to specify a name for the <strong>git-mastery</strong> <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">exercises directory</span></span> -- you can accept the default.</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">d)</span><div>Sets up a mechanism to locally track the progress of your exercises.</div></li></ul> <p>Notes:</p> <ul><li>If the command failed due to checks (a) or (b) failing, you can rectify the problem and run the command again.</li> <li>If you wish to check the Git set up again at a later time, you can run the <code class="line-numbers hljs inline no-lang">gitmastery check git</code> command.</li></ul><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-outline-secondary" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="display:none;" data-v-4484e25a></div><!----></div></div> <p></p></div></div></div> <div></div></div></div><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-seamless" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="" data-v-4484e25a></div><!----></div></div> <div class="card-container" data-v-4484e25a><div class="card expandable-card card-seamless border-0" data-v-4484e25a><div class="card-header header-toggle bg-transparent border-0" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><span class="glyphicon glyphicon-chevron-down" data-v-4484e25a></span></div><div class="header-wrapper-seamless header-wrapper card-title bg-transparent" data-v-4484e25a><!--[--><!--[--><div class="card-title"><h4 id="lesson-putting-a-folder-under-git-s-control"><span class="text-success">Lesson: Putting a Folder Under Git&#39;s Control</span><a class="fa fa-anchor" href="#lesson-putting-a-folder-under-git-s-control" onclick="event.stopPropagation()"></a></h4></div><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="display:none;" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light seamless-button close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="" type="button" class="btn-outline-light seamless-button popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <div><div class="indented"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>To be able to save snapshots of a folder using Git, <strong>you must first put the folder under Git&#39;s control by initialising a Git <em>repository</em></strong> in that folder.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>Normally, we use Git to manage a revision history of a specific folder</strong>, which gives us the ability to revision-control any file in that folder and its subfolders.</p> <p><strong>To put a folder under the control of Git, we <em>initialise</em> a <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="trigger" tabindex="0"><span><!--[--><span class="large">repository</span><!--]--></span></span></span> (short name: <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">repo</span></span>)</strong> in that folder. This way, we can initialise repos in different folders, to revision-control different clusters of files independently of each other <span class="dimmed">e.g., files belonging to different projects</span>.</p> <span class="trigger" data-mb-component-type="popover" tabindex="0" id="pop:init-repository"><!----><!-- do not delete this comment, it is for the stray space issue (#2419)
  --><!----></span> <p>You can follow the hands-on practical below to learn how to initialise a repo in a folder.</p> <div class="indented-level2 non-printable"><div class="callout shadow"><p><strong class="text-info">What is this?</strong> <span class="badge bg-secondary text-white"><span><span aria-hidden="true" class="fas fa-laptop-code"></span></span> HANDS-ON</span> panels contain hands-on activities you can do as you learn Git. If you are new to Git, <mark>we strongly recommend that you do them yourself</mark> (even if they appear straightforward), as hands-on usage will help you internalise the concepts and operations better.</p></div></div> <div class="non-printable"><span style="position:relative;top:10px;" class="badge rounded-pill bg-secondary fs-6"><span><span aria-hidden="true" class="fas fa-laptop-code"></span></span> HANDS-ON: Initialise a git repo in a folder</span> <div class="indented-level1"><div class="alert box-container seamless" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><div class="alert-default vertical-divider" aria-hidden="true" data-v-19514615></div><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">1</span> <strong>First, choose a folder.</strong> The folder may or may not have any files in it already. For this practical, let us create a folder named <code class="line-numbers hljs inline no-lang">things</code> for this purpose.</p> <pre><code class="no-line-numbers hljs bash"><span><span class="hljs-built_in">cd</span> my-projects
 </span><span>mkdir things
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -6101,7 +6101,7 @@ e.g., Sourcetree (<a href="https://se-education.org/guides/tutorials/sourcetree.
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>fatal: not a git repository (or any of the parent directories): .git
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>fatal: not a git repository (or any of the parent directories): .git
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
     <span class="tooltiptext">Copy</span>
@@ -6185,7 +6185,7 @@ e.g., Sourcetree (<a href="https://se-education.org/guides/tutorials/sourcetree.
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span><span>Initialized empty Git repository in things/<span class="highlighted">.git</span>/
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span><span>Initialized empty Git repository in things/<span class="highlighted">.git</span>/
 </span></span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
     <span class="tooltiptext">Copy</span>
@@ -6270,7 +6270,7 @@ Enter the location of the directory and click <code class="line-numbers hljs inl
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
 </span><span>
 </span><span>No commits yet
 </span><span>
@@ -6410,7 +6410,7 @@ They can be skipped the first time you are taking a tour. But we recommend that 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><div class="code-block"><div class="code-block-heading"><span>things/fruits.txt</span></div><div class="code-block-content"><pre><code heading="things/fruits.txt" class="line-numbers hljs txt"><span>apples
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><div class="code-block"><div class="code-block-heading"><span>things/fruits.txt</span></div><div class="code-block-content"><pre><code heading="things/fruits.txt" class="line-numbers hljs txt"><span>apples
 </span><span>bananas
 </span><span>cherries
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -6496,7 +6496,7 @@ They can be skipped the first time you are taking a tour. But we recommend that 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
 </span><span>
 </span><span>No commits yet
 </span><span>
@@ -6630,7 +6630,7 @@ They can be skipped the first time you are taking a tour. But we recommend that 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
 </span><span>
 </span><span>No commits yet
 </span><span>
@@ -6978,7 +6978,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><div class="code-block"><div class="code-block-heading"><span>things/fruits.txt</span></div><div class="code-block-content"><pre><code heading="things/fruits.txt" class="line-numbers hljs txt"><span>apples
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><div class="code-block"><div class="code-block-heading"><span>things/fruits.txt</span></div><div class="code-block-content"><pre><code heading="things/fruits.txt" class="line-numbers hljs txt"><span>apples
 </span><span>bananas
 </span><span>cherries
 </span><span><span class="highlighted">dragon fruits</span>
@@ -7065,7 +7065,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
 </span><span>
 </span><span>No commits yet
 </span><span>
@@ -7161,7 +7161,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
 </span><span>
 </span><span>No commits yet
 </span><span>
@@ -7251,7 +7251,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>[master (root-commit) d5f91de] Add fruits.txt
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>[master (root-commit) d5f91de] Add fruits.txt
 </span><span> 1 file changed, 5 insertions(+)
 </span><span> create mode 100644 fruits.txt
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -7337,7 +7337,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
 </span><span>nothing to commit, working tree clean
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
@@ -7428,7 +7428,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>commit d5f91de... (HEAD -&gt; master)
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>commit d5f91de... (HEAD -&gt; master)
 </span><span>Author: ... &lt;...@...&gt;
 </span><span>Date:   ...
 </span><span>
@@ -7591,7 +7591,7 @@ To back up your Git repo on the cloud, <strong>you’ll need to use a <em>remote
 
 </span></div> <p>   <a href="/website/book/gitAndGithub/remoteRepos/index.html" target="_blank"><span aria-hidden="true" class="glyphicon glyphicon-new-window"></span></a> <strong><a href="#lesson-remote-repositories">Lesson: Remote Repositories</a></strong> covers that part.</p></div> <div class="indented-level1 non-printable"><div class="border border-success pt-2 ps-2 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><span>
 
-To use GitHub, <strong>you need to prepare some tools/settings</strong> first.
+To use GitHub, <strong>you need to sign up for an account, and configure related tools/settings</strong> first.
 
 
 </span></div> <p>   <a href="/website/book/gitAndGithub/githubPrep/index.html" target="_blank"><span aria-hidden="true" class="glyphicon glyphicon-new-window"></span></a> <strong><a href="#lesson-preparing-to-use-github">Lesson: Preparing to use GitHub</a></strong> covers that part.</p></div> <div class="indented-level1 non-printable"><div class="border border-success pt-2 ps-2 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><span>
@@ -7616,7 +7616,260 @@ The third step of backing up a local repo on GitHub: <strong>push a copy of the 
 Git allows you to <strong>specify which files should be omitted from reversion control</strong>.
 
 
-</span></div> <p>   <a href="/website/book/gitAndGithub/ignore/index.html" target="_blank"><span aria-hidden="true" class="glyphicon glyphicon-new-window"></span></a> <strong><a href="#lesson-omitting-files-from-revision-control">Lesson: Omitting Files from Revision Control</a></strong> covers that part.</p></div></div></div> <div class="card-container" data-v-4484e25a><div class="card expandable-card card-seamless border-0" data-v-4484e25a><div class="card-header header-toggle bg-transparent border-0" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><span class="glyphicon glyphicon-chevron-down" data-v-4484e25a></span></div><div class="header-wrapper-seamless header-wrapper card-title bg-transparent" data-v-4484e25a><!--[--><!--[--><div class="card-title"><h4 id="lesson-remote-repositories"><span class="text-success">Lesson: Remote Repositories</span><a class="fa fa-anchor" href="#lesson-remote-repositories" onclick="event.stopPropagation()"></a></h4></div><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="display:none;" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light seamless-button close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="" type="button" class="btn-outline-light seamless-button popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <div><div class="indented"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>To back up your Git repo on the cloud, <strong>you’ll need to use a <em>remote repository</em> service, such as GitHub</strong>.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>A repo you have on your computer is called a <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">local repo</span></span>. A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">remote repo</span></span> is a repo hosted on a remote computer</strong> and allows remote access. Some use cases for remote repositories:</p> <ul style="list-style-type:none;padding-inline-start:0px;"><li texts="[&#39;a)&#39;, &#39;b)&#39;, &#39;c)&#39;]" style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">a)</span><div>as a back of your local repo</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">b)</span><div>as an intermediary repo to work on the same files from multiple computers</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">c)</span><div>for sharing the revision history of a codebase among team members of a multi-person project</div></li></ul> <p><strong>It is possible to set up a Git remote repo on your own server</strong>, but an easier option is to use a remote repo hosting service such as GitHub.</p> <p><strong>GitHub is a web-based services that host Git repositories and add collaboration features</strong> on top of Git. Two other similar platforms are GitLab or Bitbucket. While Git manages version control locally, these platforms make it easier for individuals and teams to work together by providing shared access to repositories, issue tracking, pull requests, and permission controls. They are widely used in both open-source and commercial software development. Here we&#39;ll be GitHub.</p> <p><strong>A Git repo can be put in one of two spaces:</strong></p> <ul><li><strong>A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">GitHub user acccount</span></span> represents an individual user.</strong> It is created when you sign up for GitHub and includes a username, profile page, and personal settings. With a user account, you can create your own repositories, contribute to others’ projects, and manage collaboration settings for any repositories you own.</li> <li><strong>A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">GitHub organisation</span></span> (<span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">org</span></span> for short) is a shared account used by a group</strong> such as a team, company, or open-source project. Organisations can own repositories and manage access to them through teams, roles, and permissions. Organisations are especially useful when managing repositories with shared ownership or when working at scale.</li></ul> <p>Every GitHub user must have a user account, even if they primarily work within an organisation.</p></div> <div></div></div></div><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-seamless" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="" data-v-4484e25a></div><!----></div></div> <div class="card-container" data-v-4484e25a><div class="card expandable-card card-seamless border-0" data-v-4484e25a><div class="card-header header-toggle bg-transparent border-0" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><span class="glyphicon glyphicon-chevron-down" data-v-4484e25a></span></div><div class="header-wrapper-seamless header-wrapper card-title bg-transparent" data-v-4484e25a><!--[--><!--[--><div class="card-title"><h4 id="lesson-preparing-to-use-github"><span class="text-success">Lesson: Preparing to use GitHub</span><a class="fa fa-anchor" href="#lesson-preparing-to-use-github" onclick="event.stopPropagation()"></a></h4></div><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="display:none;" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light seamless-button close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="" type="button" class="btn-outline-light seamless-button popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <div><div class="indented"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>To use GitHub, <strong>you need to prepare some tools/settings</strong> first.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <ol><li>Create a GitHub account.</li> <li>(Optional) Set user.email to no-reply email</li> <li>Set up authentication.</li> <li>Install GitHub CLI.</li></ol></div> <div></div></div></div><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-seamless" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="" data-v-4484e25a></div><!----></div></div> <div class="card-container" data-v-4484e25a><div class="card expandable-card card-seamless border-0" data-v-4484e25a><div class="card-header header-toggle bg-transparent border-0" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><span class="glyphicon glyphicon-chevron-down" data-v-4484e25a></span></div><div class="header-wrapper-seamless header-wrapper card-title bg-transparent" data-v-4484e25a><!--[--><!--[--><div class="card-title"><h4 id="lesson-creating-a-repo-on-github"><span class="text-success">Lesson: Creating a Repo on GitHub</span><a class="fa fa-anchor" href="#lesson-creating-a-repo-on-github" onclick="event.stopPropagation()"></a></h4></div><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="display:none;" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light seamless-button close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="" type="button" class="btn-outline-light seamless-button popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <div><div class="indented"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>The first step of backing up a local repo on GitHub: <strong>create an empty repository on GitHub</strong>.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>You can create a remote repository based on an existing local repository</strong>, to serve as a remote copy of you local repo. For example, suppose you created a local repo and worked with it for a while, but now you want to upload it onto GitHub. The first step is to create an empty repository on GitHub.</p> <div class="non-printable"><span style="position:relative;top:10px;" class="badge rounded-pill bg-secondary fs-6"><span><span aria-hidden="true" class="fas fa-laptop-code"></span></span> HANDS-ON: Creating an empty remote repo</span> <div class="indented-level1"><div class="alert box-container seamless" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><div class="alert-default vertical-divider" aria-hidden="true" data-v-19514615></div><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">1</span> <strong>Login to your GitHub account and choose to create a new repo.</strong> <br> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/createRemoteRepo/images/createNewRemoteRepo.png" width="150" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">2</span> <strong>In the next screen, provide a name for your repo</strong> but <span class="mkb-text-red">keep the <code class="line-numbers hljs inline no-lang">Initialize this repo ...</code> tick box unchecked</span>.<br> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/createRemoteRepo/images/fillNewRepoInfo.png" width="600" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">3</span> <strong>Note the URL of the repo.</strong> It will be of the form <code class="line-numbers hljs inline no-lang">https://github.com/{your_user_name}/{repo_name}.git</code>.<br>
+</span></div> <p>   <a href="/website/book/gitAndGithub/ignore/index.html" target="_blank"><span aria-hidden="true" class="glyphicon glyphicon-new-window"></span></a> <strong><a href="#lesson-omitting-files-from-revision-control">Lesson: Omitting Files from Revision Control</a></strong> covers that part.</p></div></div></div> <div class="card-container" data-v-4484e25a><div class="card expandable-card card-seamless border-0" data-v-4484e25a><div class="card-header header-toggle bg-transparent border-0" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><span class="glyphicon glyphicon-chevron-down" data-v-4484e25a></span></div><div class="header-wrapper-seamless header-wrapper card-title bg-transparent" data-v-4484e25a><!--[--><!--[--><div class="card-title"><h4 id="lesson-remote-repositories"><span class="text-success">Lesson: Remote Repositories</span><a class="fa fa-anchor" href="#lesson-remote-repositories" onclick="event.stopPropagation()"></a></h4></div><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="display:none;" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light seamless-button close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="" type="button" class="btn-outline-light seamless-button popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <div><div class="indented"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>To back up your Git repo on the cloud, <strong>you’ll need to use a <em>remote repository</em> service, such as GitHub</strong>.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>A repo you have on your computer is called a <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">local repo</span></span>. A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">remote repo</span></span> is a repo hosted on a remote computer</strong> and allows remote access. Some use cases for remote repositories:</p> <ul style="list-style-type:none;padding-inline-start:0px;"><li texts="[&#39;a)&#39;, &#39;b)&#39;, &#39;c)&#39;]" style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">a)</span><div>as a back of your local repo</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">b)</span><div>as an intermediary repo to work on the same files from multiple computers</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">c)</span><div>for sharing the revision history of a codebase among team members of a multi-person project</div></li></ul> <p><strong>It is possible to set up a Git remote repo on your own server</strong>, but an easier option is to use a remote repo hosting service such as GitHub.</p></div> <div></div></div></div><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-seamless" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="" data-v-4484e25a></div><!----></div></div> <div class="card-container" data-v-4484e25a><div class="card expandable-card card-seamless border-0" data-v-4484e25a><div class="card-header header-toggle bg-transparent border-0" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><span class="glyphicon glyphicon-chevron-down" data-v-4484e25a></span></div><div class="header-wrapper-seamless header-wrapper card-title bg-transparent" data-v-4484e25a><!--[--><!--[--><div class="card-title"><h4 id="lesson-preparing-to-use-github"><span class="text-success">Lesson: Preparing to use GitHub</span><a class="fa fa-anchor" href="#lesson-preparing-to-use-github" onclick="event.stopPropagation()"></a></h4></div><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="display:none;" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light seamless-button close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="" type="button" class="btn-outline-light seamless-button popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <div><div class="indented"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>To use GitHub, <strong>you need to sign up for an account, and configure related tools/settings</strong> first.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>GitHub is a web-based services that host Git repositories and add collaboration features</strong> on top of Git. Two other similar platforms are GitLab or Bitbucket. While Git manages version control locally, these platforms make it easier for individuals and teams to work together by providing shared access to repositories, issue tracking, pull requests, and permission controls. They are widely used in both open-source and commercial software development. Here we&#39;ll be GitHub.</p> <p><strong>On GitHub, a Git repo can be put in one of two spaces:</strong></p> <ul><li><strong>A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">GitHub user acccount</span></span> represents an individual user.</strong> It is created when you sign up for GitHub and includes a username, profile page, and personal settings. With a user account, you can create your own repositories, contribute to others’ projects, and manage collaboration settings for any repositories you own.</li> <li><strong>A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">GitHub organisation</span></span> (<span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">org</span></span> for short) is a shared account used by a group</strong> such as a team, company, or open-source project. Organisations can own repositories and manage access to them through teams, roles, and permissions. Organisations are especially useful when managing repositories with shared ownership or when working at scale.</li></ul> <p><strong>Every GitHub user must have a user account</strong>, even if they primarily work within an organisation.</p> <div class="non-printable"><div class="card-container" data-v-4484e25a><div class="card expandable-card border-dark" data-v-4484e25a><div class="card-header header-toggle bg-dark border-dark" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><!----></div><div class="header-wrapper card-title bg-dark text-white" data-v-4484e25a><!--[--><!--[--><p><span aria-hidden="true" class="fas fa-gear"></span> PREPARATION: <strong>Create a GitHub account</strong></p><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="display:none;" type="button" class="btn-outline-light popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <p><strong>Create a personal GitHub account</strong> as described in <a href="https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github">GitHub Docs → Creating an account on GitHub</a>, if you don&#39;t have one yet.</p> <div class="alert box-container seamless" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><div class="icon-wrapper text-success" style="" data-v-19514615><!--[--><i class="fas fa-lightbulb" data-v-19514615></i><!--]--></div><!-- Icon -- content divider for seamless boxes without the header attribute --><div class="alert-success vertical-divider" aria-hidden="true" data-v-19514615></div><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><strong>Choose a sensible GitHub username</strong> as you are likely to use it for years to come in professional contexts e.g., in job applications.</p><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div> <p><strong>[Optional, but recommended] Set up your GitHub profile</strong>, as explained in <a href="https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile">GitHub Docs → Setting up your profile</a>.</p><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-outline-secondary" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="display:none;" data-v-4484e25a></div><!----></div></div> <p></p></div> <p><strong>Before you can interact with GitHub from your local Git client, you need to set up authentication.</strong>  In the past, you could simply enter your GitHub username and password, but GitHub no longer accepts passwords for Git operations. Instead, you’ll use a more secure method — such as a Personal Access Token (PAT) or SSH keys — to prove your identity.</p> <div class="alert box-container seamless" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><div class="icon-wrapper text-info" style="" data-v-19514615><!--[--><i class="fas fa-info" data-v-19514615></i><!--]--></div><!-- Icon -- content divider for seamless boxes without the header attribute --><div class="alert-info vertical-divider" aria-hidden="true" data-v-19514615></div><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p>A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">Personal Access Token (PAT)</span></span> is essentially a long, random string that acts like a password, but it can be scoped to specific permissions (e.g., read-only or full access) and revoked at any time. This makes it more secure and flexible than a traditional password.</p><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div> <p><strong>Git supports two main protocols for communicating with GitHub: HTTPS and SSH.</strong></p> <ul><li><strong>With HTTPS, you connect over the web</strong> and authenticate using your GitHub username and a Personal Access Token.</li> <li><strong>With SSH, you connect using a cryptographic key pair</strong> you generate on your machine. Once you add your public key to your GitHub account, GitHub recognises your machine and lets you authenticate without typing anything further.</li></ul> <div class="non-printable"><div class="card-container" data-v-4484e25a><div class="card expandable-card border-dark" data-v-4484e25a><div class="card-header header-toggle bg-dark border-dark" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><!----></div><div class="header-wrapper card-title bg-dark text-white" data-v-4484e25a><!--[--><!--[--><p><span aria-hidden="true" class="fas fa-gear"></span> PREPARATION: <strong>Set up authentication with GitHub</strong></p><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="display:none;" type="button" class="btn-outline-light popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <p>Set up your computer&#39;s GitHub authentication, as described in the se-edu guide <a href="https://se-education.org/guides/tutorials/githubAuthentication.html">Setting up GitHub Authentication</a>.</p><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-outline-secondary" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="display:none;" data-v-4484e25a></div><!----></div></div> <p></p></div> <p><strong>GitHub associates a commit to a user based on the email address in the commit metadata.</strong> When you push a commit, GitHub checks if the email matches a verified email on a GitHub account. If it does, the commit is shown as authored by that user. If the email doesn’t match any account, the commit is still accepted but won’t be linked to any profile.</p> <p><strong>GitHub provides a no-reply email</strong> (e.g., <code class="line-numbers hljs inline no-lang">12345678+username@users.noreply.github.com</code>) that you can use as your Git <code class="line-numbers hljs inline no-lang">user.email</code> to hide your real email while still associating commits with your GitHub account.</p> <div class="non-printable"><div class="card-container" data-v-4484e25a><div class="card expandable-card border-dark" data-v-4484e25a><div class="card-header header-toggle bg-dark border-dark" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><!----></div><div class="header-wrapper card-title bg-dark text-white" data-v-4484e25a><!--[--><!--[--><p><span aria-hidden="true" class="fas fa-gear"></span> PREPARATION: <strong>[Optional] Configure <code class="line-numbers hljs inline no-lang">user.email</code> to use the no-reply email from GitHub</strong></p><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="display:none;" type="button" class="btn-outline-light popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <p><strong>If you prefer not to include your real email address in commits,</strong> you can do the following:</p> <ol><li><p><strong>Find your no-reply email provided by GitHub:</strong>  Navigate to the email settings of your GitHub account and select the option to <code class="line-numbers hljs inline no-lang">Keep my email address private</code>. The no-reply address will then be displayed, typically in the format <code class="line-numbers hljs inline no-lang">ID+USERNAME@users.noreply.github.com</code>.<br> <span class="image-wrapper"><img src="/website/book/gitAndGithub/githubPrep/images/seeNoReplyEmail.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p></li> <li><p><strong>Update your <code class="line-numbers hljs inline no-lang">user.email</code></strong> with that email address e.g.,</p> <pre><code class="no-line-numbers hljs bash"><span>git config --global user.email <span class="hljs-string">&quot;12345678+username@users.noreply.github.com&quot;</span>
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Copy</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button><button onclick="toggleCodeBlockWrap(this)" class="function-btn d-print-none wrap-button">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Wrap Text</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path id="path17964" d="M 1.109375 0 L 1.109375 2.5351562 L 2.0410156 2.5351562 L
+      2.0410156 0.93164062 L 4.8203125 0.93164062 L 4.8203125 9.3222656 L 3.4746094
+      9.3222656 L 3.4746094 10.144531 L 8.8027344 10.144531 L 8.8027344 9.3222656 L
+      7.4492188 9.3222656 L 7.4492188 0.93164062 L 10.25 0.93164062 L 10.25 2.5351562 L
+      11.166016 2.5351562 L 11.166016 0 L 1.109375 0 z M 10.84375 5.1054688 L 10.84375
+      6.6074219 C 12.268027 6.6074219 13.40625 7.7456444 13.40625 9.1699219 C 13.40625
+      10.185673 12.827237 11.055036 11.978516 11.470703 L 11.978516 9.5175781 L 7.1386719
+      12.3125 L 11.978516 15.105469 L 11.978516 13.072266 C 13.66701 12.577757 14.910156
+      11.012746 14.910156 9.1699219 C 14.910156 6.9333638 13.080308 5.1054688 10.84375
+      5.1054688 z "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button></div></pre></li></ol><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-outline-secondary" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="display:none;" data-v-4484e25a></div><!----></div></div> <p></p></div> <p><strong>If you are using Git-Mastery exercises</strong> (strongly recommended), you need to install and configure GitHub CLI** because it is needed by Git-Mastery exercises involving GitHub.</p> <p><strong>GitHub offers its own clients to make working with GitHub more convenient.</strong></p> <ul><li><strong>The <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">GitHub Desktop</span></span> app provides a GUI for performing GitHub operations</strong> from your desktop, without needing to visit the GitHub web UI.</li> <li><strong>The <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">GitHub CLI (<code class="line-numbers hljs inline no-lang">gh</code>)</span></span> brings GitHub-specific commands to your terminal</strong>, letting you perform operations on GitHub from your commandline.</li></ul> <div class="non-printable"><div class="card-container" data-v-4484e25a><div class="card expandable-card border-dark" data-v-4484e25a><div class="card-header header-toggle bg-dark border-dark" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><!----></div><div class="header-wrapper card-title bg-dark text-white" data-v-4484e25a><!--[--><!--[--><p><span aria-hidden="true" class="fas fa-gear"></span> PREPARATION: <strong>Set up GitHub CLI</strong></p><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="display:none;" type="button" class="btn-outline-light popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <div class="printable-tabs" data-v-78737a60><!-- Nav tabs --><ul class="nav-tabs nav nav-tabs d-print-none" role="tablist" data-v-78737a60><!--[--><!--]--></ul><div class="tab-content" data-v-78737a60><!--[--><div role="tabpanel" class="tab-pane active printable-tab-pane tab-pane-hide" data-v-65067870><div class="nav-tabs printable-tab-header" data-v-65067870><div class="nav-link active" data-v-65067870><!--[--><span aria-hidden="true" class="fab fa-windows"></span> Windows<!--]--></div></div><!--[--> <p><strong>1. Download and run the .msi installer</strong> from the <a href="https://github.com/cli/cli/releases">GitHub CLI releases page</a>.</p><!--]--><hr data-v-65067870></div> <div role="tabpanel" class="tab-pane active printable-tab-pane tab-pane-hide algolia-no-index" data-v-65067870><div class="nav-tabs printable-tab-header" data-v-65067870><div class="nav-link active" data-v-65067870><!--[--><span aria-hidden="true" class="fab fa-apple"></span> MacOS<!--]--></div></div><!--[--> <p><strong>1. Installx GitHub CLI using Homebrew</strong>:</p> <pre><code class="no-line-numbers hljs bash"><span>brew install gh
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Copy</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button><button onclick="toggleCodeBlockWrap(this)" class="function-btn d-print-none wrap-button">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Wrap Text</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path id="path17964" d="M 1.109375 0 L 1.109375 2.5351562 L 2.0410156 2.5351562 L
+      2.0410156 0.93164062 L 4.8203125 0.93164062 L 4.8203125 9.3222656 L 3.4746094
+      9.3222656 L 3.4746094 10.144531 L 8.8027344 10.144531 L 8.8027344 9.3222656 L
+      7.4492188 9.3222656 L 7.4492188 0.93164062 L 10.25 0.93164062 L 10.25 2.5351562 L
+      11.166016 2.5351562 L 11.166016 0 L 1.109375 0 z M 10.84375 5.1054688 L 10.84375
+      6.6074219 C 12.268027 6.6074219 13.40625 7.7456444 13.40625 9.1699219 C 13.40625
+      10.185673 12.827237 11.055036 11.978516 11.470703 L 11.978516 9.5175781 L 7.1386719
+      12.3125 L 11.978516 15.105469 L 11.978516 13.072266 C 13.66701 12.577757 14.910156
+      11.012746 14.910156 9.1699219 C 14.910156 6.9333638 13.080308 5.1054688 10.84375
+      5.1054688 z "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button></div></pre><!--]--><hr data-v-65067870></div> <div role="tabpanel" class="tab-pane active printable-tab-pane tab-pane-hide algolia-no-index" data-v-65067870><div class="nav-tabs printable-tab-header" data-v-65067870><div class="nav-link active" data-v-65067870><!--[--><span aria-hidden="true" class="fab fa-linux"></span> Linux<!--]--></div></div><!--[--> <p><strong>1. Install GitHub CLI</strong>, as explained in the <a href="https://github.com/cli/cli/blob/trunk/docs/install_linux.md">GitHub CLI Linux installation guide</a> for your distribution.
+...</p><!--]--><hr data-v-65067870></div><!--]--></div></div> <p><strong>2. Authenticate yourself to GitHub account:</strong></p> <pre><code class="no-line-numbers hljs bash"><span>gh auth login
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Copy</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button><button onclick="toggleCodeBlockWrap(this)" class="function-btn d-print-none wrap-button">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Wrap Text</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path id="path17964" d="M 1.109375 0 L 1.109375 2.5351562 L 2.0410156 2.5351562 L
+      2.0410156 0.93164062 L 4.8203125 0.93164062 L 4.8203125 9.3222656 L 3.4746094
+      9.3222656 L 3.4746094 10.144531 L 8.8027344 10.144531 L 8.8027344 9.3222656 L
+      7.4492188 9.3222656 L 7.4492188 0.93164062 L 10.25 0.93164062 L 10.25 2.5351562 L
+      11.166016 2.5351562 L 11.166016 0 L 1.109375 0 z M 10.84375 5.1054688 L 10.84375
+      6.6074219 C 12.268027 6.6074219 13.40625 7.7456444 13.40625 9.1699219 C 13.40625
+      10.185673 12.827237 11.055036 11.978516 11.470703 L 11.978516 9.5175781 L 7.1386719
+      12.3125 L 11.978516 15.105469 L 11.978516 13.072266 C 13.66701 12.577757 14.910156
+      11.012746 14.910156 9.1699219 C 14.910156 6.9333638 13.080308 5.1054688 10.84375
+      5.1054688 z "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button></div></pre><p>When prompted, choose the protocol (i.e., <code class="line-numbers hljs inline no-lang">HTTPS</code> or <code class="line-numbers hljs inline no-lang">SSH</code>) you used previously to set up your GitHub authentication.</p> <p><strong>3. Verify the setup</strong> by checking the status of your GitHub CLI with your GitHub account.</p> <pre><code class="no-line-numbers hljs bash"><span>gh auth status
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Copy</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button><button onclick="toggleCodeBlockWrap(this)" class="function-btn d-print-none wrap-button">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Wrap Text</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path id="path17964" d="M 1.109375 0 L 1.109375 2.5351562 L 2.0410156 2.5351562 L
+      2.0410156 0.93164062 L 4.8203125 0.93164062 L 4.8203125 9.3222656 L 3.4746094
+      9.3222656 L 3.4746094 10.144531 L 8.8027344 10.144531 L 8.8027344 9.3222656 L
+      7.4492188 9.3222656 L 7.4492188 0.93164062 L 10.25 0.93164062 L 10.25 2.5351562 L
+      11.166016 2.5351562 L 11.166016 0 L 1.109375 0 z M 10.84375 5.1054688 L 10.84375
+      6.6074219 C 12.268027 6.6074219 13.40625 7.7456444 13.40625 9.1699219 C 13.40625
+      10.185673 12.827237 11.055036 11.978516 11.470703 L 11.978516 9.5175781 L 7.1386719
+      12.3125 L 11.978516 15.105469 L 11.978516 13.072266 C 13.66701 12.577757 14.910156
+      11.012746 14.910156 9.1699219 C 14.910156 6.9333638 13.080308 5.1054688 10.84375
+      5.1054688 z "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button></div></pre><p>You should see confirmation that you’re logged in.</p> <p><strong>4. Verify that Github and Github CLI is setup for Git-Mastery:</strong></p> <pre><code class="no-line-numbers hljs bash"><span>gitmastery check github
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Copy</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button><button onclick="toggleCodeBlockWrap(this)" class="function-btn d-print-none wrap-button">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Wrap Text</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path id="path17964" d="M 1.109375 0 L 1.109375 2.5351562 L 2.0410156 2.5351562 L
+      2.0410156 0.93164062 L 4.8203125 0.93164062 L 4.8203125 9.3222656 L 3.4746094
+      9.3222656 L 3.4746094 10.144531 L 8.8027344 10.144531 L 8.8027344 9.3222656 L
+      7.4492188 9.3222656 L 7.4492188 0.93164062 L 10.25 0.93164062 L 10.25 2.5351562 L
+      11.166016 2.5351562 L 11.166016 0 L 1.109375 0 z M 10.84375 5.1054688 L 10.84375
+      6.6074219 C 12.268027 6.6074219 13.40625 7.7456444 13.40625 9.1699219 C 13.40625
+      10.185673 12.827237 11.055036 11.978516 11.470703 L 11.978516 9.5175781 L 7.1386719
+      12.3125 L 11.978516 15.105469 L 11.978516 13.072266 C 13.66701 12.577757 14.910156
+      11.012746 14.910156 9.1699219 C 14.910156 6.9333638 13.080308 5.1054688 10.84375
+      5.1054688 z "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button></div></pre><p><strong>5. [Optional, Recommended] Ask Git-Mastery to switch on the &#39;progress sync&#39; feature.</strong></p> <pre><code class="no-line-numbers hljs bash"><span>gitmastery progress sync on
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Copy</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button><button onclick="toggleCodeBlockWrap(this)" class="function-btn d-print-none wrap-button">
+    <div class="tooltip-container">
+    <span class="tooltiptext">Wrap Text</span>
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path id="path17964" d="M 1.109375 0 L 1.109375 2.5351562 L 2.0410156 2.5351562 L
+      2.0410156 0.93164062 L 4.8203125 0.93164062 L 4.8203125 9.3222656 L 3.4746094
+      9.3222656 L 3.4746094 10.144531 L 8.8027344 10.144531 L 8.8027344 9.3222656 L
+      7.4492188 9.3222656 L 7.4492188 0.93164062 L 10.25 0.93164062 L 10.25 2.5351562 L
+      11.166016 2.5351562 L 11.166016 0 L 1.109375 0 z M 10.84375 5.1054688 L 10.84375
+      6.6074219 C 12.268027 6.6074219 13.40625 7.7456444 13.40625 9.1699219 C 13.40625
+      10.185673 12.827237 11.055036 11.978516 11.470703 L 11.978516 9.5175781 L 7.1386719
+      12.3125 L 11.978516 15.105469 L 11.978516 13.072266 C 13.66701 12.577757 14.910156
+      11.012746 14.910156 9.1699219 C 14.910156 6.9333638 13.080308 5.1054688 10.84375
+      5.1054688 z "></path>
+    </g>
+</svg>
+
+    </div>
+    </div>
+    </button></div></pre><div class="alert box-container seamless" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><div class="icon-wrapper text-info" style="" data-v-19514615><!--[--><i class="fas fa-info" data-v-19514615></i><!--]--></div><!-- Icon -- content divider for seamless boxes without the header attribute --><div class="alert-info vertical-divider" aria-hidden="true" data-v-19514615></div><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><strong>What happens when you switch on the Git-Mastery &#39;progress sync&#39; feature?</strong></p> <ul><li>You Git-Mastery exercises progress will be backed up to your GitHub account. If you wipe out your local progress data by mistake, the remote copy will still be preserved.</li> <li>Git-Mastery will create a repo in your GitHub account, to back up your progress data. This repo will be publicly visible.</li></ul><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-outline-secondary" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="display:none;" data-v-4484e25a></div><!----></div></div> <p></p></div></div> <div></div></div></div><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-seamless" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="" data-v-4484e25a></div><!----></div></div> <div class="card-container" data-v-4484e25a><div class="card expandable-card card-seamless border-0" data-v-4484e25a><div class="card-header header-toggle bg-transparent border-0" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><span class="glyphicon glyphicon-chevron-down" data-v-4484e25a></span></div><div class="header-wrapper-seamless header-wrapper card-title bg-transparent" data-v-4484e25a><!--[--><!--[--><div class="card-title"><h4 id="lesson-creating-a-repo-on-github"><span class="text-success">Lesson: Creating a Repo on GitHub</span><a class="fa fa-anchor" href="#lesson-creating-a-repo-on-github" onclick="event.stopPropagation()"></a></h4></div><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="display:none;" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light seamless-button close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="" type="button" class="btn-outline-light seamless-button popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <div><div class="indented"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>The first step of backing up a local repo on GitHub: <strong>create an empty repository on GitHub</strong>.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>You can create a remote repository based on an existing local repository</strong>, to serve as a remote copy of you local repo. For example, suppose you created a local repo and worked with it for a while, but now you want to upload it onto GitHub. The first step is to create an empty repository on GitHub.</p> <div class="non-printable"><span style="position:relative;top:10px;" class="badge rounded-pill bg-secondary fs-6"><span><span aria-hidden="true" class="fas fa-laptop-code"></span></span> HANDS-ON: Creating an empty remote repo</span> <div class="indented-level1"><div class="alert box-container seamless" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><div class="alert-default vertical-divider" aria-hidden="true" data-v-19514615></div><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">1</span> <strong>Login to your GitHub account and choose to create a new repo.</strong> <br> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/createRemoteRepo/images/createNewRemoteRepo.png" width="150" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">2</span> <strong>In the next screen, provide a name for your repo</strong> but <span class="mkb-text-red">keep the <code class="line-numbers hljs inline no-lang">Initialize this repo ...</code> tick box unchecked</span>.<br> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/createRemoteRepo/images/fillNewRepoInfo.png" width="600" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">3</span> <strong>Note the URL of the repo.</strong> It will be of the form <code class="line-numbers hljs inline no-lang">https://github.com/{your_user_name}/{repo_name}.git</code>.<br>
 e.g., <code class="line-numbers hljs inline no-lang">https://github.com/johndoe/foobar.git</code> (note the <code class="line-numbers hljs inline no-lang">.git</code> at the end)<br> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/createRemoteRepo/images/newRepoUrl.png" width="450" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div></div></div></div> <div><div class="card-container non-printable algolia-no-index" data-v-4484e25a><div class="card expandable-card border-danger" data-v-4484e25a><div class="card-header header-toggle bg-danger border-danger" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><!----></div><div class="header-wrapper card-title bg-danger text-white" data-v-4484e25a><!--[--><!--[--><p><span><span aria-hidden="true" class="fas fa-dumbbell"></span></span> EXERCISE: <code class="line-numbers hljs inline no-lang">remote-control</code></p><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="display:none;" type="button" class="btn-outline-light popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><!----><hr style="display:none;" data-v-4484e25a></div><!----></div></div></div></div></div><!--]--><!--]--><!----><div class="bottom-button-wrapper" data-v-4484e25a><button type="button" class="collapse-button btn btn-seamless" style="" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button></div></div><hr style="" data-v-4484e25a></div><!----></div></div> <div class="card-container" data-v-4484e25a><div class="card expandable-card card-seamless border-0" data-v-4484e25a><div class="card-header header-toggle bg-transparent border-0" data-v-4484e25a><div class="caret-wrapper" data-v-4484e25a><span class="glyphicon glyphicon-chevron-down" data-v-4484e25a></span></div><div class="header-wrapper-seamless header-wrapper card-title bg-transparent" data-v-4484e25a><!--[--><!--[--><div class="card-title"><h4 id="lesson-linking-a-local-repo-with-a-remote-repo"><span class="text-success">Lesson: Linking a Local Repo With a Remote Repo</span><a class="fa fa-anchor" href="#lesson-linking-a-local-repo-with-a-remote-repo" onclick="event.stopPropagation()"></a></h4></div><!--]--><!--]--></div><div class="button-wrapper" data-v-4484e25a><!--[--><button type="button" class="collapse-button btn btn-outline-light" style="display:none;" data-v-4484e25a><span class="collapse-icon glyphicon glyphicon-menu-down opened" aria-hidden="true"></span></button><button style="" type="button" class="btn-outline-light seamless-button close-button btn" data-v-4484e25a><span class="glyphicon glyphicon-remove" aria-hidden="true" data-v-4484e25a></span></button><button style="" type="button" class="btn-outline-light seamless-button popup-button btn" data-v-4484e25a><span class="glyphicon glyphicon-new-window" aria-hidden="true" data-v-4484e25a></span></button><!--]--></div></div><div class="card-collapse" data-v-4484e25a><div class="card-body" data-v-4484e25a><!--[--><!--[--> <div><div class="indented"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>The second step of backing up a local repo on GitHub: <strong>link the <em>local</em> repo with the <em>remote</em> repo</strong> on GitHub.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>A Git <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">remote</span></span> is a reference to a repository hosted elsewhere</strong>, usually on a server like GitHub, GitLab, or Bitbucket. It allows your local Git repo to communicate with another remote copy — for example, to upload to commits that you created locally but missing in the remote copy.</p> <p><strong>By <em>adding a remote</em>, you are informing the local repo details of a remote repo it can communicate with</strong>, for example, where the repo exists, what name to use to refer to the remote, and which network protocol to use to communicate with it (e.g., HTTPS vs SSH).</p> <p><strong>A Git repo can have multiple remotes.</strong> You simply need to specify different names for each remote (e.g., <code class="line-numbers hljs inline no-lang">upstream</code>, <code class="line-numbers hljs inline no-lang">central</code>, <code class="line-numbers hljs inline no-lang">production</code>, <code class="line-numbers hljs inline no-lang">other-backup</code> ...).</p> <div class="non-printable"><span style="position:relative;top:10px;" class="badge rounded-pill bg-secondary fs-6"><span><span aria-hidden="true" class="fas fa-laptop-code"></span></span> HANDS-ON: Add a remote to a repo</span> <div class="indented-level1"><div class="alert box-container seamless" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><div class="alert-default vertical-divider" aria-hidden="true" data-v-19514615></div><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p>Add the empty remote repo you created on GitHub as a remote of a local repo you have.</p> <div class="printable-tabs" data-v-78737a60><!-- Nav tabs --><ul class="nav-tabs nav nav-tabs d-print-none" role="tablist" data-v-78737a60><!--[--><!--]--></ul><div class="tab-content" data-v-78737a60><!--[--><div role="tabpanel" class="tab-pane active printable-tab-pane tab-pane-hide" data-v-65067870><div class="nav-tabs printable-tab-header" data-v-65067870><div class="nav-link active" data-v-65067870><!--[-->CLI<!--]--></div></div><!--[--> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">1</span> In a terminal, navigate to the folder containing the local repo <code class="line-numbers hljs inline no-lang">things</code> your created earlier.</p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">2</span> <strong>List the current list of remotes</strong> using the <code class="line-numbers hljs inline no-lang">git remote -v</code> command, for a sanity check. No output is expected if there are no remotes yet.</p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">3</span> <strong>Add a new remote repo</strong> using the <code class="line-numbers hljs inline no-lang">git remote add &lt;remote-name&gt; &lt;remote-url&gt;</code> command.<br>
 i.e., <code class="line-numbers hljs inline no-lang">git remote add origin https://github.com/{YOUR-GITHUB-USERNAME}/things.git</code></p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">4</span> <strong>List the remotes again to verify</strong> the new remote was added.</p> <pre><code class="no-line-numbers hljs bash"><span>git remote -v
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -7660,7 +7913,7 @@ i.e., <code class="line-numbers hljs inline no-lang">git remote add origin https
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span><span><span class="highlighted">origin</span><span>  https://github.com/johndoe/things.git (<span class="highlighted">fetch</span>)
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span><span><span class="highlighted">origin</span><span>  https://github.com/johndoe/things.git (<span class="highlighted">fetch</span>)
 </span></span></span><span><span><span class="highlighted">origin</span><span>  https://github.com/johndoe/things.git (<span class="highlighted">push</span>)
 </span></span></span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
@@ -8113,7 +8366,7 @@ Git repo URL: <code class="line-numbers hljs inline no-lang">https://github.com/
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
 </span><span><span class="highlighted">Your branch is up to date with <span class="hljs-string">&#39;origin/master&#39;</span>.</span>
 </span><span>
 </span><span>nothing to commit, working tree clean
@@ -8200,7 +8453,7 @@ Git repo URL: <code class="line-numbers hljs inline no-lang">https://github.com/
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>remote: Enumerating objects: 8, <span class="hljs-keyword">done</span>.
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>remote: Enumerating objects: 8, <span class="hljs-keyword">done</span>.
 </span><span>... <span class="hljs-comment"># more output ...</span>
 </span><span>   afbe966..cc6a151  master     -&gt; origin/master
 </span><span> * [new tag]         beta       -&gt; beta
@@ -8287,7 +8540,7 @@ Git repo URL: <code class="line-numbers hljs inline no-lang">https://github.com/
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
 </span><span><span class="highlighted">Your branch is behind </span><span class="hljs-string highlighted">&#39;origin/master&#39;</span><span><span class="highlighted"> by 2 commits</span>, and can be fast-forwarded.
 </span></span><span>  (use <span class="hljs-string">&quot;git pull&quot;</span> to update your <span class="hljs-built_in">local</span> branch)
 </span><span>
@@ -8619,7 +8872,7 @@ Git can also <strong><em>reset</em> the revision history to a specific point</st
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span><span class="highlighted">commit f761ea63738a...</span><span> (<span style="background-color:pink;">HEAD</span><span> -&gt; <span style="background-color:#e6fff2;">master</span><span>, <span style="background-color:#e6fff2;">origin/master</span>)
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span><span class="highlighted">commit f761ea63738a...</span><span> (<span style="background-color:pink;">HEAD</span><span> -&gt; <span style="background-color:#e6fff2;">master</span><span>, <span style="background-color:#e6fff2;">origin/master</span>)
 </span></span></span></span></span><span>Author: ... &lt;...@...&gt;
 </span><span>Date:   Sat ...
 </span><span>
@@ -8719,7 +8972,7 @@ Git can also <strong><em>reset</em> the revision history to a specific point</st
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>f761ea6 (HEAD -&gt; master, origin/master) Add colours.txt, shapes.txt
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>f761ea6 (HEAD -&gt; master, origin/master) Add colours.txt, shapes.txt
 </span><span>2bedace Add figs to fruits.txt
 </span><span>d5f91de Add fruits.txt
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -8805,7 +9058,7 @@ Git can also <strong><em>reset</em> the revision history to a specific point</st
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>* f761ea6 (HEAD -&gt; master, origin/master) Add colours.txt, shapes.txt
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>* f761ea6 (HEAD -&gt; master, origin/master) Add colours.txt, shapes.txt
 </span><span>* 2bedace Add figs to fruits.txt
 </span><span>* d5f91de Add fruits.txt
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -9369,7 +9622,7 @@ All changes in the commit:
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span> e60deae (HEAD -&gt; master, origin/master) Update fruits list
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span> e60deae (HEAD -&gt; master, origin/master) Update fruits list
 </span><span> f761ea6 Add colours.txt, shapes.txt
 </span><span> 2bedace Add figs to fruits.txt
 </span><span> d5f91de Add fruits.txt
@@ -9456,7 +9709,7 @@ All changes in the commit:
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span>commit e60deaeb2964bf2ebc907b7416efc890c9d4914b (HEAD -&gt; master, origin/master)
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span>commit e60deaeb2964bf2ebc907b7416efc890c9d4914b (HEAD -&gt; master, origin/master)
 </span><span>Author: damithc &lt;...@...&gt;
 </span><span>Date:   Sat Jun ...
 </span><span>
@@ -9646,7 +9899,7 @@ To view tags:</p> <pre><code class="no-line-numbers hljs bash"><span>git tag
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>v1.0
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>v1.0
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
     <span class="tooltiptext">Copy</span>
@@ -9730,7 +9983,7 @@ To view tags:</p> <pre><code class="no-line-numbers hljs bash"><span>git tag
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span>e60deae (HEAD -&gt; master, <span class="highlighted">tag: v1.0</span>, origin/master) Update fruits list
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span>e60deae (HEAD -&gt; master, <span class="highlighted">tag: v1.0</span>, origin/master) Update fruits list
 </span></span><span>f761ea6 Add colours.txt, shapes.txt
 </span><span>2bedace Add figs to fruits.txt
 </span><span>d5f91de Add fruits.txt
@@ -9859,7 +10112,7 @@ To view tags:</p> <pre><code class="no-line-numbers hljs bash"><span>git tag
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span class="highlighted">tag v0.9</span>
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span class="highlighted">tag v0.9</span>
 </span><span><span class="highlighted">Tagger: ... &lt;...@...&gt;</span>
 </span><span><span class="highlighted">Date:   Sun Jun ...</span>
 </span><span><span class="highlighted"></span>
@@ -10169,7 +10422,7 @@ Example use case: To verify the next commit will include exactly what you intend
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/shapes.txt b/shapes.txt</span>
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/shapes.txt b/shapes.txt</span>
 </span><span><span class="hljs-comment">index 5c2644b..949c676 100644</span>
 </span><span><span class="hljs-comment">--- a/shapes.txt</span>
 </span><span><span class="hljs-comment">+++ b/shapes.txt</span>
@@ -10302,7 +10555,7 @@ Example use case: Suppose you’re trying to improve the performance of a piece 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/colours.txt b/colours.txt</span>
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/colours.txt b/colours.txt</span>
 </span><span>new file mode 100644
 </span><span><span class="hljs-comment">index 0000000..55c8449</span>
 </span><span><span class="hljs-comment">--- /dev/null</span>
@@ -10393,7 +10646,7 @@ Example use case: Suppose you’re trying to improve the performance of a piece 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/colours.txt b/colours.txt</span>
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/colours.txt b/colours.txt</span>
 </span><span>deleted file mode 100644
 </span><span><span class="hljs-comment">index 55c8449..0000000</span>
 </span><span><span class="hljs-comment">--- a/colours.txt</span>
@@ -10529,7 +10782,7 @@ Example use case: Similar to other use cases but when you are interested in a sp
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>e60deae (HEAD -&gt; master, origin/master) Update fruits list
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>e60deae (HEAD -&gt; master, origin/master) Update fruits list
 </span><span>f761ea6 (tag: v1.0) Add colours.txt, shapes.txt
 </span><span>2bedace (tag: v0.9) Add figs to fruits.txt
 </span><span>d5f91de Add fruits.txt
@@ -10616,7 +10869,7 @@ Example use case: Similar to other use cases but when you are interested in a sp
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>Note: switching to <span class="hljs-string">&#39;HEAD~2&#39;</span>.
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>Note: switching to <span class="hljs-string">&#39;HEAD~2&#39;</span>.
 </span><span>
 </span><span>You are <span class="hljs-keyword">in</span> <span class="hljs-string">&#39;detached HEAD&#39;</span> state.
 </span><span><span class="hljs-comment"># rest of the warning about the detached head ...</span>
@@ -10705,7 +10958,7 @@ Example use case: Similar to other use cases but when you are interested in a sp
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span>2bedace (<span style="background-color:pink;">HEAD</span>, tag: v0.9) Add figs to fruits.txt
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span>2bedace (<span style="background-color:pink;">HEAD</span>, tag: v0.9) Add figs to fruits.txt
 </span></span><span>d5f91de Add fruits.txt
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
@@ -10790,7 +11043,7 @@ Example use case: Similar to other use cases but when you are interested in a sp
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span class="highlighted">e60deae (origin/master, master) Update fruits list</span>
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span class="highlighted">e60deae (origin/master, master) Update fruits list</span>
 </span><span><span class="highlighted">f761ea6 (tag: v1.0) Add colours.txt, shapes.txt</span>
 </span><span>2bedace (HEAD, tag: v0.9) Add figs to fruits.txt
 </span><span>d5f91de Add fruits.txt
@@ -11412,7 +11665,7 @@ Unstaging can be done similarly:<br> <span class="image-wrapper"><img src="/webs
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>pick 97a8c4a C3: Add Sheldon.txt
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>pick 97a8c4a C3: Add Sheldon.txt
 </span><span>pick 60bd28d C2: Add Stuart.txt
 </span><span>pick 8b9a36f X: Incorrectly update Stuart.txt
 </span><span>pick 8ab6941 C4: Adddd Howard.txt
@@ -11680,7 +11933,7 @@ At this point, the repo&#39;s working directory reflects the code at commit <cod
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>on branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>on branch master
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
     <span class="tooltiptext">Copy</span>
@@ -12505,7 +12758,7 @@ Furthermore, observe (e.g., <code class="line-numbers hljs inline no-lang">git s
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
 </span><span>|\
 </span><span>| * 4969163 (study-books) Add textbooks.txt
 </span><span>|/
@@ -12683,7 +12936,7 @@ Furthermore, observe (e.g., <code class="line-numbers hljs inline no-lang">git s
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
 </span><span>|\
 </span><span>| * 4969163 Add textbooks.txt
 </span><span>|/
@@ -12773,7 +13026,7 @@ Furthermore, observe (e.g., <code class="line-numbers hljs inline no-lang">git s
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>error: the branch <span class="hljs-string">&#39;fantasy&#39;</span> is not fully merged
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>error: the branch <span class="hljs-string">&#39;fantasy&#39;</span> is not fully merged
 </span><span>hint: If you are sure you want to delete it, run <span class="hljs-string">&#39;git branch -D fantasy&#39;</span>
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
@@ -12900,7 +13153,7 @@ Furthermore, observe (e.g., <code class="line-numbers hljs inline no-lang">git s
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
 </span><span>|\
 </span><span>| * 4969163 Add textbooks.txt
 </span><span>|/
@@ -13221,7 +13474,7 @@ After forking, go to the fork and ensure both branches (<code class="line-number
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>* hiring
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>* hiring
 </span><span>  master
 </span><span>  remotes/origin/HEAD -&gt; origin/master
 </span><span>  remotes/origin/hiring
@@ -13619,7 +13872,7 @@ After forking, go to the fork and ensure all three branches are in there.</p> <p
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>fatal: not a git repository (or any of the parent directories): .git
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>fatal: not a git repository (or any of the parent directories): .git
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
     <span class="tooltiptext">Copy</span>
@@ -13703,7 +13956,7 @@ After forking, go to the fork and ensure all three branches are in there.</p> <p
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span><span>Initialized empty Git repository in things/<span class="highlighted">.git</span>/
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span><span>Initialized empty Git repository in things/<span class="highlighted">.git</span>/
 </span></span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
     <span class="tooltiptext">Copy</span>
@@ -13788,7 +14041,7 @@ Enter the location of the directory and click <code class="line-numbers hljs inl
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
 </span><span>
 </span><span>No commits yet
 </span><span>
@@ -13882,7 +14135,7 @@ They can be skipped the first time you are taking a tour. But we recommend that 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><div class="code-block"><div class="code-block-heading"><span>things/fruits.txt</span></div><div class="code-block-content"><pre><code heading="things/fruits.txt" class="line-numbers hljs txt"><span>apples
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><div class="code-block"><div class="code-block-heading"><span>things/fruits.txt</span></div><div class="code-block-content"><pre><code heading="things/fruits.txt" class="line-numbers hljs txt"><span>apples
 </span><span>bananas
 </span><span>cherries
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -13968,7 +14221,7 @@ They can be skipped the first time you are taking a tour. But we recommend that 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
 </span><span>
 </span><span>No commits yet
 </span><span>
@@ -14102,7 +14355,7 @@ They can be skipped the first time you are taking a tour. But we recommend that 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
 </span><span>
 </span><span>No commits yet
 </span><span>
@@ -14450,7 +14703,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><div class="code-block"><div class="code-block-heading"><span>things/fruits.txt</span></div><div class="code-block-content"><pre><code heading="things/fruits.txt" class="line-numbers hljs txt"><span>apples
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><div class="code-block"><div class="code-block-heading"><span>things/fruits.txt</span></div><div class="code-block-content"><pre><code heading="things/fruits.txt" class="line-numbers hljs txt"><span>apples
 </span><span>bananas
 </span><span>cherries
 </span><span><span class="highlighted">dragon fruits</span>
@@ -14537,7 +14790,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span>On branch master
 </span><span>
 </span><span>No commits yet
 </span><span>
@@ -14633,7 +14886,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
 </span><span>
 </span><span>No commits yet
 </span><span>
@@ -14723,7 +14976,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>[master (root-commit) d5f91de] Add fruits.txt
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>[master (root-commit) d5f91de] Add fruits.txt
 </span><span> 1 file changed, 5 insertions(+)
 </span><span> create mode 100644 fruits.txt
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -14809,7 +15062,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
 </span><span>nothing to commit, working tree clean
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
@@ -14900,7 +15153,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>commit d5f91de... (HEAD -&gt; master)
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>commit d5f91de... (HEAD -&gt; master)
 </span><span>Author: ... &lt;...@...&gt;
 </span><span>Date:   ...
 </span><span>
@@ -15055,7 +15308,7 @@ The example below shows how the status of a file changes when it is modified <em
 
     </div>
     </div>
-    </button></div></pre></div><!--]--><hr data-v-65067870></div> <div role="tabpanel" class="tab-pane active printable-tab-pane tab-pane-hide d-print-none algolia-no-index" data-v-65067870><div class="nav-tabs printable-tab-header" data-v-65067870><div class="nav-link active" data-v-65067870><!--[-->Sourcetree<!--]--></div></div><!--[--> <div><p>To see the list of commits, click on the <code class="line-numbers hljs inline no-lang">History</code> item (listed under the <code class="line-numbers hljs inline no-lang">WORKSPACE</code> section) on the menu on the right edge of Sourcetree.</p> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/commit/images/sourcetree_8.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p>After adding two more commits, the list of commits should look something like this:</p> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/commit/images/sourcetree_7.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p></p></div><!--]--><hr data-v-65067870></div><!--]--></div></div></div><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div></div></div></div></div></div> <div class="indented-less"><h4 id="remote-repositories">Remote Repositories <span class="badge bg-light text-dark"><small><small><span style="color:Crimson;"><span aria-hidden="true" class="glyphicon glyphicon-flash"></span></span></small></small></span><a class="fa fa-anchor" href="#remote-repositories" onclick="event.stopPropagation()"></a></h4> <div class="indented-less"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>To back up your Git repo on the cloud, <strong>you’ll need to use a <em>remote repository</em> service, such as GitHub</strong>.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>A repo you have on your computer is called a <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">local repo</span></span>. A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">remote repo</span></span> is a repo hosted on a remote computer</strong> and allows remote access. Some use cases for remote repositories:</p> <ul style="list-style-type:none;padding-inline-start:0px;"><li texts="[&#39;a)&#39;, &#39;b)&#39;, &#39;c)&#39;]" style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">a)</span><div>as a back of your local repo</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">b)</span><div>as an intermediary repo to work on the same files from multiple computers</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">c)</span><div>for sharing the revision history of a codebase among team members of a multi-person project</div></li></ul> <p><strong>It is possible to set up a Git remote repo on your own server</strong>, but an easier option is to use a remote repo hosting service such as GitHub.</p> <p><strong>GitHub is a web-based services that host Git repositories and add collaboration features</strong> on top of Git. Two other similar platforms are GitLab or Bitbucket. While Git manages version control locally, these platforms make it easier for individuals and teams to work together by providing shared access to repositories, issue tracking, pull requests, and permission controls. They are widely used in both open-source and commercial software development. Here we&#39;ll be GitHub.</p> <p><strong>A Git repo can be put in one of two spaces:</strong></p> <ul><li><strong>A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">GitHub user acccount</span></span> represents an individual user.</strong> It is created when you sign up for GitHub and includes a username, profile page, and personal settings. With a user account, you can create your own repositories, contribute to others’ projects, and manage collaboration settings for any repositories you own.</li> <li><strong>A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">GitHub organisation</span></span> (<span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">org</span></span> for short) is a shared account used by a group</strong> such as a team, company, or open-source project. Organisations can own repositories and manage access to them through teams, roles, and permissions. Organisations are especially useful when managing repositories with shared ownership or when working at scale.</li></ul> <p>Every GitHub user must have a user account, even if they primarily work within an organisation.</p></div></div></div> <div class="indented-less"><h4 id="creating-a-repo-on-github">Creating a Repo on GitHub <span class="badge bg-light text-dark"><small><small><span style="color:Crimson;"><span aria-hidden="true" class="glyphicon glyphicon-flash"></span></span></small></small></span><a class="fa fa-anchor" href="#creating-a-repo-on-github" onclick="event.stopPropagation()"></a></h4> <div class="indented-less"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>The first step of backing up a local repo on GitHub: <strong>create an empty repository on GitHub</strong>.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>You can create a remote repository based on an existing local repository</strong>, to serve as a remote copy of you local repo. For example, suppose you created a local repo and worked with it for a while, but now you want to upload it onto GitHub. The first step is to create an empty repository on GitHub.</p> <div class="non-printable"><span style="position:relative;top:10px;" class="badge rounded-pill bg-secondary fs-6"><span><span aria-hidden="true" class="fas fa-laptop-code"></span></span> HANDS-ON: Creating an empty remote repo</span> <div class="indented-level1"><div class="alert box-container seamless" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><div class="alert-default vertical-divider" aria-hidden="true" data-v-19514615></div><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">1</span> <strong>Login to your GitHub account and choose to create a new repo.</strong> <br> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/createRemoteRepo/images/createNewRemoteRepo.png" width="150" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">2</span> <strong>In the next screen, provide a name for your repo</strong> but <span class="mkb-text-red">keep the <code class="line-numbers hljs inline no-lang">Initialize this repo ...</code> tick box unchecked</span>.<br> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/createRemoteRepo/images/fillNewRepoInfo.png" width="600" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">3</span> <strong>Note the URL of the repo.</strong> It will be of the form <code class="line-numbers hljs inline no-lang">https://github.com/{your_user_name}/{repo_name}.git</code>.<br>
+    </button></div></pre></div><!--]--><hr data-v-65067870></div> <div role="tabpanel" class="tab-pane active printable-tab-pane tab-pane-hide d-print-none algolia-no-index" data-v-65067870><div class="nav-tabs printable-tab-header" data-v-65067870><div class="nav-link active" data-v-65067870><!--[-->Sourcetree<!--]--></div></div><!--[--> <div><p>To see the list of commits, click on the <code class="line-numbers hljs inline no-lang">History</code> item (listed under the <code class="line-numbers hljs inline no-lang">WORKSPACE</code> section) on the menu on the right edge of Sourcetree.</p> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/commit/images/sourcetree_8.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p>After adding two more commits, the list of commits should look something like this:</p> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/commit/images/sourcetree_7.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p></p></div><!--]--><hr data-v-65067870></div><!--]--></div></div></div><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div></div></div></div></div></div> <div class="indented-less"><h4 id="remote-repositories">Remote Repositories <span class="badge bg-light text-dark"><small><small><span style="color:Crimson;"><span aria-hidden="true" class="glyphicon glyphicon-flash"></span></span></small></small></span><a class="fa fa-anchor" href="#remote-repositories" onclick="event.stopPropagation()"></a></h4> <div class="indented-less"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>To back up your Git repo on the cloud, <strong>you’ll need to use a <em>remote repository</em> service, such as GitHub</strong>.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>A repo you have on your computer is called a <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">local repo</span></span>. A <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">remote repo</span></span> is a repo hosted on a remote computer</strong> and allows remote access. Some use cases for remote repositories:</p> <ul style="list-style-type:none;padding-inline-start:0px;"><li texts="[&#39;a)&#39;, &#39;b)&#39;, &#39;c)&#39;]" style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">a)</span><div>as a back of your local repo</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">b)</span><div>as an intermediary repo to work on the same files from multiple computers</div></li> <li style="display:flex;"><span aria-hidden="true" style="line-height:unset;margin-inline-end:0.35em;align-self:flex-start;flex-shrink:0;">c)</span><div>for sharing the revision history of a codebase among team members of a multi-person project</div></li></ul> <p><strong>It is possible to set up a Git remote repo on your own server</strong>, but an easier option is to use a remote repo hosting service such as GitHub.</p></div></div></div> <div class="indented-less"><h4 id="creating-a-repo-on-github">Creating a Repo on GitHub <span class="badge bg-light text-dark"><small><small><span style="color:Crimson;"><span aria-hidden="true" class="glyphicon glyphicon-flash"></span></span></small></small></span><a class="fa fa-anchor" href="#creating-a-repo-on-github" onclick="event.stopPropagation()"></a></h4> <div class="indented-less"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>The first step of backing up a local repo on GitHub: <strong>create an empty repository on GitHub</strong>.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>You can create a remote repository based on an existing local repository</strong>, to serve as a remote copy of you local repo. For example, suppose you created a local repo and worked with it for a while, but now you want to upload it onto GitHub. The first step is to create an empty repository on GitHub.</p> <div class="non-printable"><span style="position:relative;top:10px;" class="badge rounded-pill bg-secondary fs-6"><span><span aria-hidden="true" class="fas fa-laptop-code"></span></span> HANDS-ON: Creating an empty remote repo</span> <div class="indented-level1"><div class="alert box-container seamless" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><div class="alert-default vertical-divider" aria-hidden="true" data-v-19514615></div><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">1</span> <strong>Login to your GitHub account and choose to create a new repo.</strong> <br> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/createRemoteRepo/images/createNewRemoteRepo.png" width="150" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">2</span> <strong>In the next screen, provide a name for your repo</strong> but <span class="mkb-text-red">keep the <code class="line-numbers hljs inline no-lang">Initialize this repo ...</code> tick box unchecked</span>.<br> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/createRemoteRepo/images/fillNewRepoInfo.png" width="600" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">3</span> <strong>Note the URL of the repo.</strong> It will be of the form <code class="line-numbers hljs inline no-lang">https://github.com/{your_user_name}/{repo_name}.git</code>.<br>
 e.g., <code class="line-numbers hljs inline no-lang">https://github.com/johndoe/foobar.git</code> (note the <code class="line-numbers hljs inline no-lang">.git</code> at the end)<br> <span class="image-wrapper" eager><img src="/website/book/gitAndGithub/createRemoteRepo/images/newRepoUrl.png" width="450" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span></p><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div></div></div></div></div></div> <div class="indented-less"><h4 id="linking-a-local-repo-with-a-remote-repo">Linking a Local Repo With a Remote Repo <span class="badge bg-light text-dark"><small><small><span style="color:Crimson;"><span aria-hidden="true" class="glyphicon glyphicon-flash"></span></span></small></small></span><a class="fa fa-anchor" href="#linking-a-local-repo-with-a-remote-repo" onclick="event.stopPropagation()"></a></h4> <div class="indented-less"><div><div class="non-printable"><div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color:#e6fff2;"><div class="indented"><br> <div id="overview"><p>The second step of backing up a local repo on GitHub: <strong>link the <em>local</em> repo with the <em>remote</em> repo</strong> on GitHub.</p></div> <span><small>This lesson covers that part.</small></span></div></div> <br></div> <p><strong>A Git <span class="badge text-dark" style="background-color:rgba(13, 202, 240, 0.2);"><span class="large">remote</span></span> is a reference to a repository hosted elsewhere</strong>, usually on a server like GitHub, GitLab, or Bitbucket. It allows your local Git repo to communicate with another remote copy — for example, to upload to commits that you created locally but missing in the remote copy.</p> <p><strong>By <em>adding a remote</em>, you are informing the local repo details of a remote repo it can communicate with</strong>, for example, where the repo exists, what name to use to refer to the remote, and which network protocol to use to communicate with it (e.g., HTTPS vs SSH).</p> <p><strong>A Git repo can have multiple remotes.</strong> You simply need to specify different names for each remote (e.g., <code class="line-numbers hljs inline no-lang">upstream</code>, <code class="line-numbers hljs inline no-lang">central</code>, <code class="line-numbers hljs inline no-lang">production</code>, <code class="line-numbers hljs inline no-lang">other-backup</code> ...).</p> <div class="non-printable"><span style="position:relative;top:10px;" class="badge rounded-pill bg-secondary fs-6"><span><span aria-hidden="true" class="fas fa-laptop-code"></span></span> HANDS-ON: Add a remote to a repo</span> <div class="indented-level1"><div class="alert box-container seamless" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><div class="alert-default vertical-divider" aria-hidden="true" data-v-19514615></div><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p>Add the empty remote repo you created on GitHub as a remote of a local repo you have.</p> <div class="printable-tabs" data-v-78737a60><!-- Nav tabs --><ul class="nav-tabs nav nav-tabs d-print-none" role="tablist" data-v-78737a60><!--[--><!--]--></ul><div class="tab-content" data-v-78737a60><!--[--><div role="tabpanel" class="tab-pane active printable-tab-pane tab-pane-hide" data-v-65067870><div class="nav-tabs printable-tab-header" data-v-65067870><div class="nav-link active" data-v-65067870><!--[-->CLI<!--]--></div></div><!--[--> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">1</span> In a terminal, navigate to the folder containing the local repo <code class="line-numbers hljs inline no-lang">things</code> your created earlier.</p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">2</span> <strong>List the current list of remotes</strong> using the <code class="line-numbers hljs inline no-lang">git remote -v</code> command, for a sanity check. No output is expected if there are no remotes yet.</p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">3</span> <strong>Add a new remote repo</strong> using the <code class="line-numbers hljs inline no-lang">git remote add &lt;remote-name&gt; &lt;remote-url&gt;</code> command.<br>
 i.e., <code class="line-numbers hljs inline no-lang">git remote add origin https://github.com/{YOUR-GITHUB-USERNAME}/things.git</code></p> <p><span style="position:relative;right:25px;" class="badge rounded-pill text-dark bg-secondary text-white">4</span> <strong>List the remotes again to verify</strong> the new remote was added.</p> <pre><code class="no-line-numbers hljs bash"><span>git remote -v
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -15099,7 +15352,7 @@ i.e., <code class="line-numbers hljs inline no-lang">git remote add origin https
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span><span><span class="highlighted">origin</span><span>  https://github.com/johndoe/things.git (<span class="highlighted">fetch</span>)
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs"><span><span><span class="highlighted">origin</span><span>  https://github.com/johndoe/things.git (<span class="highlighted">fetch</span>)
 </span></span></span><span><span><span class="highlighted">origin</span><span>  https://github.com/johndoe/things.git (<span class="highlighted">push</span>)
 </span></span></span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
@@ -15537,7 +15790,7 @@ Git repo URL: <code class="line-numbers hljs inline no-lang">https://github.com/
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
 </span><span><span class="highlighted">Your branch is up to date with <span class="hljs-string">&#39;origin/master&#39;</span>.</span>
 </span><span>
 </span><span>nothing to commit, working tree clean
@@ -15624,7 +15877,7 @@ Git repo URL: <code class="line-numbers hljs inline no-lang">https://github.com/
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>remote: Enumerating objects: 8, <span class="hljs-keyword">done</span>.
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>remote: Enumerating objects: 8, <span class="hljs-keyword">done</span>.
 </span><span>... <span class="hljs-comment"># more output ...</span>
 </span><span>   afbe966..cc6a151  master     -&gt; origin/master
 </span><span> * [new tag]         beta       -&gt; beta
@@ -15711,7 +15964,7 @@ Git repo URL: <code class="line-numbers hljs inline no-lang">https://github.com/
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>On branch master
 </span><span><span class="highlighted">Your branch is behind </span><span class="hljs-string highlighted">&#39;origin/master&#39;</span><span><span class="highlighted"> by 2 commits</span>, and can be fast-forwarded.
 </span></span><span>  (use <span class="hljs-string">&quot;git pull&quot;</span> to update your <span class="hljs-built_in">local</span> branch)
 </span><span>
@@ -16015,7 +16268,7 @@ Now, let&#39;s pretend that there are some new commits in upstream repo that you
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span><span class="highlighted">commit f761ea63738a...</span><span> (<span style="background-color:pink;">HEAD</span><span> -&gt; <span style="background-color:#e6fff2;">master</span><span>, <span style="background-color:#e6fff2;">origin/master</span>)
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span><span class="highlighted">commit f761ea63738a...</span><span> (<span style="background-color:pink;">HEAD</span><span> -&gt; <span style="background-color:#e6fff2;">master</span><span>, <span style="background-color:#e6fff2;">origin/master</span>)
 </span></span></span></span></span><span>Author: ... &lt;...@...&gt;
 </span><span>Date:   Sat ...
 </span><span>
@@ -16115,7 +16368,7 @@ Now, let&#39;s pretend that there are some new commits in upstream repo that you
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>f761ea6 (HEAD -&gt; master, origin/master) Add colours.txt, shapes.txt
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>f761ea6 (HEAD -&gt; master, origin/master) Add colours.txt, shapes.txt
 </span><span>2bedace Add figs to fruits.txt
 </span><span>d5f91de Add fruits.txt
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -16201,7 +16454,7 @@ Now, let&#39;s pretend that there are some new commits in upstream repo that you
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>* f761ea6 (HEAD -&gt; master, origin/master) Add colours.txt, shapes.txt
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>* f761ea6 (HEAD -&gt; master, origin/master) Add colours.txt, shapes.txt
 </span><span>* 2bedace Add figs to fruits.txt
 </span><span>* d5f91de Add fruits.txt
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
@@ -16765,7 +17018,7 @@ All changes in the commit:
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span> e60deae (HEAD -&gt; master, origin/master) Update fruits list
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span> e60deae (HEAD -&gt; master, origin/master) Update fruits list
 </span><span> f761ea6 Add colours.txt, shapes.txt
 </span><span> 2bedace Add figs to fruits.txt
 </span><span> d5f91de Add fruits.txt
@@ -16852,7 +17105,7 @@ All changes in the commit:
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span>commit e60deaeb2964bf2ebc907b7416efc890c9d4914b (HEAD -&gt; master, origin/master)
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span>commit e60deaeb2964bf2ebc907b7416efc890c9d4914b (HEAD -&gt; master, origin/master)
 </span><span>Author: damithc &lt;...@...&gt;
 </span><span>Date:   Sat Jun ...
 </span><span>
@@ -17042,7 +17295,7 @@ To view tags:</p> <pre><code class="no-line-numbers hljs bash"><span>git tag
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>v1.0
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>v1.0
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
     <span class="tooltiptext">Copy</span>
@@ -17126,7 +17379,7 @@ To view tags:</p> <pre><code class="no-line-numbers hljs bash"><span>git tag
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span>e60deae (HEAD -&gt; master, <span class="highlighted">tag: v1.0</span>, origin/master) Update fruits list
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span>e60deae (HEAD -&gt; master, <span class="highlighted">tag: v1.0</span>, origin/master) Update fruits list
 </span></span><span>f761ea6 Add colours.txt, shapes.txt
 </span><span>2bedace Add figs to fruits.txt
 </span><span>d5f91de Add fruits.txt
@@ -17255,7 +17508,7 @@ To view tags:</p> <pre><code class="no-line-numbers hljs bash"><span>git tag
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span class="highlighted">tag v0.9</span>
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span class="highlighted">tag v0.9</span>
 </span><span><span class="highlighted">Tagger: ... &lt;...@...&gt;</span>
 </span><span><span class="highlighted">Date:   Sun Jun ...</span>
 </span><span><span class="highlighted"></span>
@@ -17565,7 +17818,7 @@ Example use case: To verify the next commit will include exactly what you intend
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/shapes.txt b/shapes.txt</span>
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/shapes.txt b/shapes.txt</span>
 </span><span><span class="hljs-comment">index 5c2644b..949c676 100644</span>
 </span><span><span class="hljs-comment">--- a/shapes.txt</span>
 </span><span><span class="hljs-comment">+++ b/shapes.txt</span>
@@ -17698,7 +17951,7 @@ Example use case: Suppose you’re trying to improve the performance of a piece 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/colours.txt b/colours.txt</span>
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/colours.txt b/colours.txt</span>
 </span><span>new file mode 100644
 </span><span><span class="hljs-comment">index 0000000..55c8449</span>
 </span><span><span class="hljs-comment">--- /dev/null</span>
@@ -17789,7 +18042,7 @@ Example use case: Suppose you’re trying to improve the performance of a piece 
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/colours.txt b/colours.txt</span>
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs diff"><span><span class="hljs-comment">diff --git a/colours.txt b/colours.txt</span>
 </span><span>deleted file mode 100644
 </span><span><span class="hljs-comment">index 55c8449..0000000</span>
 </span><span><span class="hljs-comment">--- a/colours.txt</span>
@@ -17925,7 +18178,7 @@ Example use case: Similar to other use cases but when you are interested in a sp
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>e60deae (HEAD -&gt; master, origin/master) Update fruits list
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>e60deae (HEAD -&gt; master, origin/master) Update fruits list
 </span><span>f761ea6 (tag: v1.0) Add colours.txt, shapes.txt
 </span><span>2bedace (tag: v0.9) Add figs to fruits.txt
 </span><span>d5f91de Add fruits.txt
@@ -18012,7 +18265,7 @@ Example use case: Similar to other use cases but when you are interested in a sp
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>Note: switching to <span class="hljs-string">&#39;HEAD~2&#39;</span>.
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>Note: switching to <span class="hljs-string">&#39;HEAD~2&#39;</span>.
 </span><span>
 </span><span>You are <span class="hljs-keyword">in</span> <span class="hljs-string">&#39;detached HEAD&#39;</span> state.
 </span><span><span class="hljs-comment"># rest of the warning about the detached head ...</span>
@@ -18101,7 +18354,7 @@ Example use case: Similar to other use cases but when you are interested in a sp
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span>2bedace (<span style="background-color:pink;">HEAD</span>, tag: v0.9) Add figs to fruits.txt
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span>2bedace (<span style="background-color:pink;">HEAD</span>, tag: v0.9) Add figs to fruits.txt
 </span></span><span>d5f91de Add fruits.txt
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
@@ -18186,7 +18439,7 @@ Example use case: Similar to other use cases but when you are interested in a sp
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span class="highlighted">e60deae (origin/master, master) Update fruits list</span>
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span><span class="highlighted">e60deae (origin/master, master) Update fruits list</span>
 </span><span><span class="highlighted">f761ea6 (tag: v1.0) Add colours.txt, shapes.txt</span>
 </span><span>2bedace (HEAD, tag: v0.9) Add figs to fruits.txt
 </span><span>d5f91de Add fruits.txt
@@ -18711,7 +18964,7 @@ Unstaging can be done similarly:<br> <span class="image-wrapper"><img src="/webs
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>pick 97a8c4a C3: Add Sheldon.txt
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>pick 97a8c4a C3: Add Sheldon.txt
 </span><span>pick 60bd28d C2: Add Stuart.txt
 </span><span>pick 8b9a36f X: Incorrectly update Stuart.txt
 </span><span>pick 8ab6941 C4: Adddd Howard.txt
@@ -18963,7 +19216,7 @@ At this point, the repo&#39;s working directory reflects the code at commit <cod
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>on branch master
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>on branch master
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
     <span class="tooltiptext">Copy</span>
@@ -19787,7 +20040,7 @@ Furthermore, observe (e.g., <code class="line-numbers hljs inline no-lang">git s
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
 </span><span>|\
 </span><span>| * 4969163 (study-books) Add textbooks.txt
 </span><span>|/
@@ -19965,7 +20218,7 @@ Furthermore, observe (e.g., <code class="line-numbers hljs inline no-lang">git s
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
 </span><span>|\
 </span><span>| * 4969163 Add textbooks.txt
 </span><span>|/
@@ -20055,7 +20308,7 @@ Furthermore, observe (e.g., <code class="line-numbers hljs inline no-lang">git s
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>error: the branch <span class="hljs-string">&#39;fantasy&#39;</span> is not fully merged
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>error: the branch <span class="hljs-string">&#39;fantasy&#39;</span> is not fully merged
 </span><span>hint: If you are sure you want to delete it, run <span class="hljs-string">&#39;git branch -D fantasy&#39;</span>
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn d-print-none">
     <div class="tooltip-container">
@@ -20182,7 +20435,7 @@ Furthermore, observe (e.g., <code class="line-numbers hljs inline no-lang">git s
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>*   443132a (HEAD -&gt; master) Merge branch textbooks
 </span><span>|\
 </span><span>| * 4969163 Add textbooks.txt
 </span><span>|/
@@ -20477,7 +20730,7 @@ After forking, go to the fork and ensure both branches (<code class="line-number
 
     </div>
     </div>
-    </button></div></pre><div class="d-flex"><div class="me-3"><br> <span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>* hiring
+    </button></div></pre><div class="d-flex"><div class="me-3"><span><span><strong><span class="dimmed">⤷</span></strong></span></span></div> <div class="flex-grow-1"><pre><code class="no-line-numbers hljs bash"><span>* hiring
 </span><span>  master
 </span><span>  remotes/origin/HEAD -&gt; origin/master
 </span><span>  remotes/origin/hiring
@@ -21630,7 +21883,7 @@ Similarly, an inheritance results in a dependency from the child class to the pa
  --><!----></span> flows of control.</strong></p> <p><strong><em>Join</em> nodes indicate the end of parallel paths.</strong></p> <p>Both have the same notation: a bar.</p> <p>In a <span class="trigger" data-mb-component-type="tooltip" tabindex="0"><!----><!-- do not delete this comment, it is for the stray space issue (#2419)
  --><!----></span>, execution along <strong>all parallel paths should be complete before the execution can start on the outgoing control flow of the <em>join</em>.</strong></p> <span class="image-wrapper" eager><img src="/website/book/uml/activityDiagrams/basicNotations/parallelPaths/images/notation.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <div class="alert box-container alert-default" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><!----><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> In this activity diagram (from an online shop website) the actions <em>User browses products</em> and <em>System records browsing data</em> happen in parallel. Both of them need to finish before the <em>log out</em> action can take place.</p> <span class="image-wrapper" eager><img src="/website/book/uml/activityDiagrams/basicNotations/parallelPaths/images/example.png" width="260" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div></div></div></div> <div class="indented-less"><h4 id="rakes">Rakes <span class="badge bg-light text-dark"><small><small><span style="color:DodgerBlue;"><span aria-hidden="true" class="glyphicon glyphicon-flash"></span><span aria-hidden="true" class="glyphicon glyphicon-flash"></span><span aria-hidden="true" class="glyphicon glyphicon-flash"></span></span></small></small></span><a class="fa fa-anchor" href="#rakes" onclick="event.stopPropagation()"></a></h4> <div class="indented-less"><div><p><strong>The rake notation is used to indicate that a part of the activity is given as a separate diagram.</strong></p> <div class="alert box-container alert-default" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><!----><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Here is the AD for a game of  ‘Snakes and Ladders’.</p> <span class="image-wrapper" eager><img src="/website/book/uml/activityDiagrams/basicNotations/rakes/images/snakesAndLadders.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p></p> <p>The <em>rake</em> symbol (in the <code class="line-numbers hljs inline no-lang">Move piece</code> action above) is used to show that the action is described in another subsidiary activity diagram elsewhere. That diagram is given below.</p> <span class="image-wrapper" eager><img src="/website/book/uml/activityDiagrams/basicNotations/rakes/images/movePiece.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p></p><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div></div></div></div> <div class="indented-less"><h4 id="swimlanes">Swimlanes <span class="badge bg-light text-dark"><small><small><span style="color:DodgerBlue;"><span aria-hidden="true" class="glyphicon glyphicon-flash"></span><span aria-hidden="true" class="glyphicon glyphicon-flash"></span><span aria-hidden="true" class="glyphicon glyphicon-flash"></span></span></small></small></span><a class="fa fa-anchor" href="#swimlanes" onclick="event.stopPropagation()"></a></h4> <div class="indented-less"><div><p><strong>It is possible to <em>partition</em> an activity diagram to show who is doing which action. Such partitioned activity diagrams are sometime called <em>swimlane diagrams</em>.</strong></p> <div class="alert box-container alert-default" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><!----><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> A simple example of a swimlane diagram:</p> <span class="image-wrapper" eager><img src="/website/book/uml/activityDiagrams/basicNotations/swimlanes/images/diagram.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p></p><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div></div></div></div></div> <div><h2 id="notes"><span>Notes</span><a class="fa fa-anchor" href="#notes" onclick="event.stopPropagation()"></a></h2></div> <div class="indented-less"><div class="indented-less"><h4 id="notes-2">Notes <span class="badge bg-light text-dark"><small><small><span style="color:DodgerBlue;"><span aria-hidden="true" class="glyphicon glyphicon-flash"></span><span aria-hidden="true" class="glyphicon glyphicon-flash"></span><span aria-hidden="true" class="glyphicon glyphicon-flash"></span></span></small></small></span><a class="fa fa-anchor" href="#notes-2" onclick="event.stopPropagation()"></a></h4> <div class="indented-less"><div><p><strong>UML notes can augment UML diagrams with additional information.</strong> These notes can be shown connected to a particular element in the diagram or can be shown without a connection. The diagram below shows examples of both.</p> <div class="alert box-container alert-default" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><!----><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Example:</p> <span class="image-wrapper" eager><img src="/website/book/uml/notes/notes/images/adminProfessor.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p></p><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div></div></div></div></div> <div><h2 id="miscellaneous-2"><span>Miscellaneous</span><a class="fa fa-anchor" href="#miscellaneous-2" onclick="event.stopPropagation()"></a></h2></div> <div class="indented-less"><div class="indented-less"><h4 id="object-vs-class-diagrams">Object vs Class Diagrams <span class="badge bg-light text-dark"><small><small><span style="color:DarkOrange;"><span aria-hidden="true" class="glyphicon glyphicon-flash"></span><span aria-hidden="true" class="glyphicon glyphicon-flash"></span></span></small></small></span><a class="fa fa-anchor" href="#object-vs-class-diagrams" onclick="event.stopPropagation()"></a></h4> <div class="indented-less"><div><p>Compared to the notation for class diagrams, object diagrams differ in the following ways:</p> <ul><li>Show objects instead of classes:
 <ul><li>Instance name may be shown</li> <li>There is a <code class="line-numbers hljs inline no-lang">:</code> before the class name</li> <li>Instance and class names are underlined</li></ul></li> <li>Methods are omitted</li> <li>Multiplicities are omitted. Reason: an association line in an object diagram represents a connection to exactly one object (i.e., the multiplicity is always 1).</li></ul> <p>Furthermore, <strong>multiple object diagrams can correspond to a single class diagram</strong>.</p> <div class="alert box-container alert-default" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><!----><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Both object diagrams are derived from the same class diagram shown earlier. In other words, each of these object diagrams shows ‘an instance of’ the same class diagram.</p> <span class="image-wrapper" eager><img src="/website/book/uml/miscellaneous/objectVsClassDiagrams/images/professorStudentAdmin.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p></p> <span class="image-wrapper" eager><img src="/website/book/uml/miscellaneous/objectVsClassDiagrams/images/professorStudent.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p></p><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div> <p>When the class diagram has an inheritance relationship, <strong>the object diagram should show either an object of the parent class or the child class, but not both</strong>.</p> <div class="alert box-container alert-default" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><!----><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Suppose <code class="line-numbers hljs inline no-lang">Employee</code> is a child class of the <code class="line-numbers hljs inline no-lang">Person</code> class. The class diagram will be as follows:</p> <span class="image-wrapper"><img src="/website/book/uml/miscellaneous/objectVsClassDiagrams/images/cd-ParentAndChild.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p>Now, how do you show an <code class="line-numbers hljs inline no-lang">Employee</code> object named <code class="line-numbers hljs inline no-lang">jake</code>?</p> <ul><li><p><span style="color:red;"><span><span aria-hidden="true" class="fas fa-times"></span></span></span> <span class="image-wrapper"><img src="/website/book/uml/miscellaneous/objectVsClassDiagrams/images/od-ParentAndChild.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> This is not correct, as there should be only one object.</p></li> <li><p><span style="color:green;"><span><span aria-hidden="true" class="fas fa-check"></span></span></span> <span class="image-wrapper"><img src="/website/book/uml/miscellaneous/objectVsClassDiagrams/images/od-ChildOnly.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> This is OK.</p></li> <li><p><span style="color:green;"><span><span aria-hidden="true" class="fas fa-check"></span></span></span> <span class="image-wrapper"><img src="/website/book/uml/miscellaneous/objectVsClassDiagrams/images/od-ParentOnly.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> This is OK, as <code class="line-numbers hljs inline no-lang">jake</code> <em>is</em> a <code class="line-numbers hljs inline no-lang">Person</code> too.
-That is, we can show the parent class instead of the child class if the child class doesn&#39;t matter to the purpose of the diagram (i.e., the reader of this diagram will not need to know that <code class="line-numbers hljs inline no-lang">jake</code> is in fact an <code class="line-numbers hljs inline no-lang">Employee</code>).</p></li></ul><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div> <p><strong>Association labels/roles <em>can</em> be omitted unless they add value</strong> (e.g., showing them is useful if there are multiple associations between the two classes in concern -- otherwise you wouldn&#39;t know which association the object diagram is showing)</p> <div class="alert box-container alert-default" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><!----><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Consider this class diagram and the object diagram:</p> <span class="image-wrapper"><img src="/website/book/uml/miscellaneous/objectVsClassDiagrams/images/cd-StudentDegree.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <span class="image-wrapper"><img src="/website/book/uml/miscellaneous/objectVsClassDiagrams/images/od-StudentDegree.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p>We can clearly see that both Adam and Eve lives in hall h1 (i.e., OK to omit the association label <code class="line-numbers hljs inline no-lang">lives in</code>) but we can&#39;t see if History is Adam&#39;s major or his minor (i.e., the diagram should have included either an association label or a role there). In contrast, we can see Eve is an English major.</p><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div></div></div></div></div></div></div> <nav id="page-nav" class="fixed-header-padding" data-v-6b1b63d2><!--[--><div class="nav-component slim-scroll"></div><!--]--><!--v-if--></nav> <div class="scroll-top-button fa-lg d-print-none" style="display:none;bottom:2%;right:2%;position:fixed;" aria-hidden="true"><!--[--><i class="fas fa-arrow-circle-up"></i><!--]--></div></div> <footer><div class="text-center"><small>[<span><strong>Powered by</strong></span> <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 6.0.2</a>, generated on Tue, 15 Jul 2025, 2:11:40 GMT+8]</small></div></footer><!--]--></div>
+That is, we can show the parent class instead of the child class if the child class doesn&#39;t matter to the purpose of the diagram (i.e., the reader of this diagram will not need to know that <code class="line-numbers hljs inline no-lang">jake</code> is in fact an <code class="line-numbers hljs inline no-lang">Employee</code>).</p></li></ul><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div> <p><strong>Association labels/roles <em>can</em> be omitted unless they add value</strong> (e.g., showing them is useful if there are multiple associations between the two classes in concern -- otherwise you wouldn&#39;t know which association the object diagram is showing)</p> <div class="alert box-container alert-default" style="" data-v-19514615><!--Icon and vertical divider for seamless header box--><!----><div class="header-and-body" data-v-19514615><!-- Header wrapper, not rendered if there is no header attribute --><!----><!-- Body wrapper --><div class="box-body-wrapper" data-v-19514615><!-- icon on the left, not shown if there is a header --><!----><!-- Icon -- content divider for seamless boxes without the header attribute --><!----><!-- Content wrapper --><div class="contents" style="" data-v-19514615><!--[--><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Consider this class diagram and the object diagram:</p> <span class="image-wrapper"><img src="/website/book/uml/miscellaneous/objectVsClassDiagrams/images/cd-StudentDegree.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <span class="image-wrapper"><img src="/website/book/uml/miscellaneous/objectVsClassDiagrams/images/od-StudentDegree.png" width="" height="" loading="eager" class="img-fluid rounded"><span class="image-caption"><!--[--><!--]--></span></span> <p>We can clearly see that both Adam and Eve lives in hall h1 (i.e., OK to omit the association label <code class="line-numbers hljs inline no-lang">lives in</code>) but we can&#39;t see if History is Adam&#39;s major or his minor (i.e., the diagram should have included either an association label or a role there). In contrast, we can see Eve is an English major.</p><!--]--></div><!-- dismiss button on the right, not shown if there is a header --><!----></div></div></div></div></div></div></div></div></div> <nav id="page-nav" class="fixed-header-padding" data-v-6b1b63d2><!--[--><div class="nav-component slim-scroll"></div><!--]--><!--v-if--></nav> <div class="scroll-top-button fa-lg d-print-none" style="display:none;bottom:2%;right:2%;position:fixed;" aria-hidden="true"><!--[--><i class="fas fa-arrow-circle-up"></i><!--]--></div></div> <footer><div class="text-center"><small>[<span><strong>Powered by</strong></span> <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 6.0.2</a>, generated on Fri, 18 Jul 2025, 17:40:45 GMT+8]</small></div></footer><!--]--></div>
 </body><script src="/website/markbind/js/bootstrap-utility.min.js"></script>
 <script src="/website/markbind/js/polyfill.min.js"></script>
 <script src="/website/markbind/js/vue.global.prod.min.js"></script>
