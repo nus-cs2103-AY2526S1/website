@@ -8,12 +8,12 @@
 <p></p>
 <p>Commonly used multiplicities:</p>
 <ul>
-<li><code class="line-numbers hljs inline no-lang" v-pre>0..1</code> : <em>optional</em>, can be linked to 0 or 1 objects.</li>
-<li><code class="line-numbers hljs inline no-lang" v-pre>1</code> : <em>compulsory</em>, must be linked to one object at all times.</li>
-<li><code class="line-numbers hljs inline no-lang" v-pre>*</code> : can be linked to 0 or more objects.</li>
-<li><code class="line-numbers hljs inline no-lang" v-pre>n..m</code> : the number of linked objects must be within <code class="line-numbers hljs inline no-lang" v-pre>n</code> to <code class="line-numbers hljs inline no-lang" v-pre>m</code> inclusive e.g., <code class="line-numbers hljs inline no-lang" v-pre>2..5</code>, <code class="line-numbers hljs inline no-lang" v-pre>1..*</code> (one or more), <code class="line-numbers hljs inline no-lang" v-pre>*..5</code> (up to five)</li></ul>
+<li><code class="hljs inline no-lang" v-pre>0..1</code> : <em>optional</em>, can be linked to 0 or 1 objects.</li>
+<li><code class="hljs inline no-lang" v-pre>1</code> : <em>compulsory</em>, must be linked to one object at all times.</li>
+<li><code class="hljs inline no-lang" v-pre>*</code> : can be linked to 0 or more objects.</li>
+<li><code class="hljs inline no-lang" v-pre>n..m</code> : the number of linked objects must be within <code class="hljs inline no-lang" v-pre>n</code> to <code class="hljs inline no-lang" v-pre>m</code> inclusive e.g., <code class="hljs inline no-lang" v-pre>2..5</code>, <code class="hljs inline no-lang" v-pre>1..*</code> (one or more), <code class="hljs inline no-lang" v-pre>*..5</code> (up to five)</li></ul>
 <box>
-<p><span><span aria-hidden="true" class="fas fa-cube"></span></span> In the diagram below, an <code class="line-numbers hljs inline no-lang" v-pre>Admin</code> object administers (is in charge of) any number of students but a <code class="line-numbers hljs inline no-lang" v-pre>Student</code> object must always be under the charge of exactly one <code class="line-numbers hljs inline no-lang" v-pre>Admin</code> object.</p>
+<p><span><span aria-hidden="true" class="fas fa-cube"></span></span> In the diagram below, an <code class="hljs inline no-lang" v-pre>Admin</code> object administers (is in charge of) any number of students but a <code class="hljs inline no-lang" v-pre>Student</code> object must always be under the charge of exactly one <code class="hljs inline no-lang" v-pre>Admin</code> object.</p>
 <pic eager src="/website/book/uml/classDiagrams/associations/multiplicity/images/adminStudent.png" width="300"></pic></box>
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> In the diagram below,</p>
@@ -32,9 +32,9 @@
 <pic eager src="/website/book/uml/classDiagrams/associations/multiplicity/images/unitItem.png" height="100"></pic>
 <p></p>
 <ul class="contains-task-list">
-<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> a. A <code class="line-numbers hljs inline no-lang" v-pre>Unit</code> object can be linked to any number of <code class="line-numbers hljs inline no-lang" v-pre>Item</code> objects.</li>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> b. An <code class="line-numbers hljs inline no-lang" v-pre>Item</code> object must be linked to 1, 2, 3 or 4 <code class="line-numbers hljs inline no-lang" v-pre>Unit</code> objects.</li>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> c. A <code class="line-numbers hljs inline no-lang" v-pre>Unit</code> object must be linked to 1, 2, 3, or 4 <code class="line-numbers hljs inline no-lang" v-pre>Item</code> objects.</li>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> d. A <code class="line-numbers hljs inline no-lang" v-pre>Item</code> object can be linked to 0 or more <code class="line-numbers hljs inline no-lang" v-pre>Unit</code> objects.</li></ul>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> a. A <code class="hljs inline no-lang" v-pre>Unit</code> object can be linked to any number of <code class="hljs inline no-lang" v-pre>Item</code> objects.</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> b. An <code class="hljs inline no-lang" v-pre>Item</code> object must be linked to 1, 2, 3 or 4 <code class="hljs inline no-lang" v-pre>Unit</code> objects.</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> c. A <code class="hljs inline no-lang" v-pre>Unit</code> object must be linked to 1, 2, 3, or 4 <code class="hljs inline no-lang" v-pre>Item</code> objects.</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> d. A <code class="hljs inline no-lang" v-pre>Item</code> object can be linked to 0 or more <code class="hljs inline no-lang" v-pre>Unit</code> objects.</li></ul>
 <panel type="seamless" minimized class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
 <p>(c)(d)</p></panel></panel></div></div></div></div></div></div>

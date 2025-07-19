@@ -16,7 +16,7 @@
 <ul>
 <li>Omitting the merge node if it doesn't cause any ambiguities.</li>
 <li>Multiple arrows can start from the same corner of a branch node.</li>
-<li>Omitting the <code class="line-numbers hljs inline no-lang" v-pre>[Else]</code> condition.</li></ul>
+<li>Omitting the <code class="hljs inline no-lang" v-pre>[Else]</code> condition.</li></ul>
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> The AD below illustrates the simplifications mentioned above:</p>
 <pic eager src="/website/book/uml/activityDiagrams/basicNotations/alternatePaths/images/simplifications.png" width="400"></pic>
@@ -41,6 +41,6 @@
 <li>i: 👍 Correct. There can be more than two alternate paths.</li>
 <li>ii: 👍 Correct. An alternate path can divide into more branches.</li>
 <li>iii: 👍 Correct. A branch can join other branches.</li>
-<li>iv: Incorrect. At <code class="line-numbers hljs inline no-lang" v-pre>x = 5</code> both guard conditions become true.</li>
+<li>iv: Incorrect. At <code class="hljs inline no-lang" v-pre>x = 5</code> both guard conditions become true.</li>
 <li>v: 👍 Correct. It is fine for a branch to form a loop by going back to the original branch node.</li>
 <li>vi: Incorrect. Guard conditions should be given in square brackets.</li></ul></panel></panel></div></div></div></div></div></div>
