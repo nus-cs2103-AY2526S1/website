@@ -1473,6 +1473,7 @@
         "lesson-comparing-points-of-history": "Lesson: Comparing Points of History",
         "lesson-traversing-to-a-specific-commit": "Lesson: Traversing to a Specific Commit",
         "lesson-rewriting-history-to-start-over": "Lesson: Rewriting History to Start Over",
+        "lesson-reverting-a-specific-commit": "Lesson: Reverting a Specific Commit",
         "lesson-controlling-what-goes-into-a-commit": "Lesson: Controlling What Goes Into a Commit",
         "lesson-writing-good-commit-messages": "Lesson: Writing Good Commit Messages",
         "lesson-reorganising-commits": "Lesson: Reorganising Commits",

@@ -68,7 +68,8 @@
       tag: {path: "gitAndGithub/tag", title: "Tagging Commits"},
       diff: {path: "gitAndGithub/diff", title: "Comparing Points of History"},
       checkout: {path: "gitAndGithub/checkout", title: "Traversing to a Specific Commit"},
-      reset: {path: "gitAndGithub/reset", title: "Rewriting History to Start Over"}
+      reset: {path: "gitAndGithub/reset", title: "Rewriting History to Start Over"},
+      revert: {path: "gitAndGithub/revert", title: "Reverting a Specific Commit"}
     }
   },
   fineTuningHistory: {
@@ -110,6 +111,18 @@
       remoteBranchRename: {path: "gitAndGithub/remoteBranchRename", title: "Renaming Branches in a Remote"}
     }
   }
+} %}
+
+{% set detours = {
+  undoRepoInit: {lesson: trail.recordingFolderHistory.lessons.init, title: "Undoing a Repo Initialisation"},
+  stagingFileDeletions: {lesson: trail.recordingFolderHistory.lessons.stage, title: "Staging File Deletions"},
+  unstagingChanges: {lesson: trail.recordingFolderHistory.lessons.stage, title: "Unstaging Changes"},
+  pushToMultipleRepos: {lesson: trail.backingUpOnCloud.lessons.push, title: "Pushing to Multiple Reposs"},
+  conflictAtCheckout: {lesson: trail.usingRevisionHistory.lessons.checkout, title: "Dealing with Uncommitted Confilicting Changes at a Checkout"},
+  resetUncommitedChanges: {lesson: trail.usingRevisionHistory.lessons.reset, title: "Resetting Uncommitted Changes"},
+  undoRecentCommits: {lesson: trail.usingRevisionHistory.lessons.reset, title: "Undoing/Deleting Recent Commits"},
+  resetTrackingBranch: {lesson: trail.usingRevisionHistory.lessons.reset, title: "Resetting a Remote-Tracking Branch Ref"},
+  undoMerge: {lesson: trail.branchingLocally.lessons.merge, title: "Undoing a Merge"}
 } %}
 <!-- ============================================================ -->
 
@@ -202,19 +215,17 @@
 <!-- ============================================================ -->
 
 {% macro show_transformation_columns(a, b, c) -%}
-<div class="d-flex flex-column flex-md-row align-items-center justify-content-left gap-2">
-<div class="flex-shrink-0">
+<div class="d-flex flex-column flex-md-row align-items-stretch justify-content-start gap-2">
+<div class="flex-shrink-0 d-flex flex-column justify-content-end">
 
 {{ a }}
 </div>
-
-<div class="flex-shrink-0 justify-content-center align-items-center text-center p-3" style="min-height: 30px;">
+<div class="flex-shrink-0 d-flex justify-content-center align-items-center text-center p-3" style="min-height: 30px;">
 
 →<br>
 {{ b }}
 </div>
-
-<div class="flex-shrink-0">
+<div class="flex-shrink-0 d-flex flex-column justify-content-end">
 
 {{ c }}
 </div>
@@ -291,10 +302,23 @@
 {% endmacro %}
 <!-- ============================================================ -->
 
-{% macro show_detour(title) %}
-<panel class="non-printable" header="{{ icon_detour }} DETOUR: **{{ title }}**" type="warning" peek>
+{% macro show_detour(detour_name) %}
+{% set detour = detours[detour_name] %}
+<a id="{{ detour_name }}"/>
+<panel class="non-printable" header="{{ icon_detour }} DETOUR: **{{ detour.title }}**" type="warning" peek>
 
-{{ caller() }}
+<include src="{{ baseUrl }}/{{ detour.lesson.path }}/detour-{{ detour_name }}-fragment.md" />
+</panel>
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_detour_preview(detour_name) %}
+{% set detour = detours[detour_name] %}
+<panel class="non-printable" header="{{ icon_detour }} Related DETOUR: **{{ detour.title }}**" type="secondary" expanded>
+
+<include src="{{ baseUrl }}/{{ detour.lesson.path }}/detour-{{ detour_name }}-fragment.md#preview" />
+
+That aspect is covered in a detour **under the lesson [{{ detour.lesson.title }}]({{ baseUrl }}/{{ detour.lesson.path }}#{{ detour_name }})**.
 </panel>
 {% endmacro %}
 <!-- ============================================================ -->
@@ -335,6 +359,10 @@
 * navigate to anywhere inside the `gitmastery-exercies/{{ identifier }}` folder %%(or any sub-folder of it)%%.
 * run the `gitmastery verify` command.
 
+<div class="bg-light">
+
+  -><small>[Git-Mastery **commands list**](https://git-mastery.github.io/app/) | [Report Git-Mastery **bugs**](https://github.com/git-mastery/git-mastery/issues)</small><-
+</div>
 </panel>
 {% endmacro %}
 <!-- ============================================================ -->
