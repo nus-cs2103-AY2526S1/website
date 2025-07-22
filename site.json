@@ -63,7 +63,7 @@
   "plugins": ["filterTags", "googleAnalytics", "algolia", "codeBlockCopyButtons", "codeBlockWrapButtons", "dataTable", "mermaid"],
   "pluginsContext": {
     "filterTags" : {
-      "tags": ["m--cs2103"]
+      "tags": ["m--cs2103", "git-mastery"]
     },
     "mermaid": {
       "address": "https://unpkg.com/mermaid@11.7.0/dist/mermaid.esm.min.mjs"
