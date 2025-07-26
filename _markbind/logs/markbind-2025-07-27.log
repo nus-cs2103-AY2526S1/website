@@ -517,3 +517,52 @@
 2025-07-26T17:45:25.825Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
 2025-07-26T17:45:25.825Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
 2025-07-26T17:45:25.845Z - info: Building assets...
+2025-07-26T17:45:28.997Z - info: Assets built
+2025-07-26T17:45:28.998Z - info: Generating pages...
+2025-07-26T17:45:33.504Z - debug:  
+2025-07-26T17:45:33.505Z - debug:  
+2025-07-26T17:45:38.112Z - debug:  
+2025-07-26T17:45:38.112Z - debug:  
+2025-07-26T17:45:38.112Z - debug:  
+2025-07-26T17:45:38.112Z - debug:  
+2025-07-26T17:45:38.112Z - debug:  
+2025-07-26T17:45:38.112Z - debug:  
+2025-07-26T17:45:38.113Z - debug:  
+2025-07-26T17:45:38.113Z - debug:  
+2025-07-26T17:45:38.113Z - debug:  
+2025-07-26T17:45:40.502Z - debug:  
+2025-07-26T17:45:40.521Z - debug:  
+2025-07-26T17:45:40.554Z - debug:  
+2025-07-26T17:45:40.567Z - debug:  
+2025-07-26T17:45:40.581Z - debug:  
+2025-07-26T17:45:40.631Z - debug:  
+2025-07-26T17:45:49.591Z - debug:  
+2025-07-26T17:46:47.402Z - debug:  
+2025-07-26T17:46:58.697Z - debug:  
+2025-07-26T17:46:58.709Z - debug:  
+2025-07-26T17:47:05.083Z - info: Pages built
+2025-07-26T17:47:05.154Z - info: Site data built
+2025-07-26T17:47:05.154Z - info: Website generation complete! Total build time: 99.7s
+2025-07-26T17:47:05.154Z - info: Build success!
+2025-07-26T17:47:30.213Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-07-26T17:53:03.354Z - info: Website generation (lazy) started at 01:53:02
+2025-07-26T17:53:03.764Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-26T17:53:03.764Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-26T17:53:03.783Z - info: Building assets...
+2025-07-26T17:53:07.108Z - info: Assets built
+2025-07-26T17:53:07.113Z - info: Generating landing page...
+2025-07-26T17:53:07.377Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-07-26T17:53:07.441Z - info: Site data built
+2025-07-26T17:53:07.441Z - info: Website generation (lazy) complete! Total build time: 5.338s
+2025-07-26T17:53:08.450Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:54573
+2025-07-26T17:53:08.451Z - info: Press CTRL+C to stop ...
+2025-07-26T17:53:13.469Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-26T17:53:13.817Z - info: Site data built
+2025-07-26T17:53:13.817Z - info: Lazy website regeneration complete! Total build time: 0.349s
+2025-07-26T17:53:15.894Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/recordingFolderHistory/index as some of its dependencies were changed since the last visit
+2025-07-26T17:53:16.268Z - info: Site data built
+2025-07-26T17:53:16.268Z - info: Lazy website regeneration complete! Total build time: 0.375s
+2025-07-26T17:53:41.725Z - info: Website generation started at 01:53:40
+2025-07-26T17:53:41.984Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-26T17:53:41.984Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-26T17:53:42.004Z - info: Building assets...
