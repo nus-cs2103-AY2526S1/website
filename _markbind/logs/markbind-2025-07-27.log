@@ -783,3 +783,473 @@
 2025-07-27T12:57:11.779Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-07-27T12:57:11.780Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-07-27T12:57:11.799Z - info: Building assets...
+2025-07-27T12:57:15.108Z - info: Assets built
+2025-07-27T12:57:15.113Z - info: Generating pages...
+2025-07-27T12:57:19.600Z - debug:  
+2025-07-27T12:57:19.601Z - debug:  
+2025-07-27T12:57:24.296Z - debug:  
+2025-07-27T12:57:24.296Z - debug:  
+2025-07-27T12:57:24.296Z - debug:  
+2025-07-27T12:57:24.296Z - debug:  
+2025-07-27T12:57:24.296Z - debug:  
+2025-07-27T12:57:24.296Z - debug:  
+2025-07-27T12:57:24.296Z - debug:  
+2025-07-27T12:57:24.296Z - debug:  
+2025-07-27T12:57:24.296Z - debug:  
+2025-07-27T12:57:26.722Z - debug:  
+2025-07-27T12:57:27.012Z - debug:  
+2025-07-27T12:57:27.026Z - debug:  
+2025-07-27T12:57:27.055Z - debug:  
+2025-07-27T12:57:27.064Z - debug:  
+2025-07-27T12:57:27.091Z - debug:  
+2025-07-27T12:57:36.706Z - debug:  
+2025-07-27T12:58:36.682Z - debug:  
+2025-07-27T12:58:47.958Z - debug:  
+2025-07-27T12:58:48.362Z - debug:  
+2025-07-27T12:58:54.856Z - info: Pages built
+2025-07-27T12:58:54.948Z - info: Site data built
+2025-07-27T12:58:54.948Z - info: Website generation complete! Total build time: 104.575s
+2025-07-27T12:58:54.948Z - info: Build success!
+2025-07-27T12:59:19.479Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-07-27T13:11:08.106Z - info: Website generation (lazy) started at 21:11:06
+2025-07-27T13:11:08.535Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-27T13:11:08.536Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-27T13:11:08.555Z - info: Building assets...
+2025-07-27T13:11:11.764Z - info: Assets built
+2025-07-27T13:11:11.767Z - info: Generating landing page...
+2025-07-27T13:11:12.020Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-07-27T13:11:12.161Z - info: Site data built
+2025-07-27T13:11:12.162Z - info: Website generation (lazy) complete! Total build time: 5.44s
+2025-07-27T13:11:13.178Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:62442
+2025-07-27T13:11:13.178Z - info: Press CTRL+C to stop ...
+2025-07-27T13:12:34.334Z - info: [21:12:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/courseOverview.md
+2025-07-27T13:12:34.335Z - info: Synchronizing opened pages list before reload
+2025-07-27T13:12:34.336Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T13:12:34.336Z - info: 1. index
+2025-07-27T13:12:35.347Z - info: Rebuilding 1 pages
+2025-07-27T13:12:35.517Z - info: Site data built
+2025-07-27T13:12:35.517Z - info: Pages rebuilt
+2025-07-27T13:12:35.517Z - info: Website regeneration complete! Total build time: 0.174s
+2025-07-27T13:12:46.589Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-07-27T13:12:46.752Z - info: Site data built
+2025-07-27T13:12:46.752Z - info: Lazy website regeneration complete! Total build time: 0.163s
+2025-07-27T13:13:02.752Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/gitAndGithub as some of its dependencies were changed since the last visit
+2025-07-27T13:13:06.071Z - info: Site data built
+2025-07-27T13:13:06.071Z - info: Lazy website regeneration complete! Total build time: 3.32s
+2025-07-27T13:14:38.689Z - info: [21:14:38] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/site.json
+2025-07-27T13:14:38.690Z - info: Synchronizing opened pages list before reload
+2025-07-27T13:14:38.690Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T13:14:38.690Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T13:14:40.034Z - info: Pages or site config modified, updating pages...
+2025-07-27T13:14:41.162Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/gitAndGithub as some of its dependencies were changed since the last visit
+2025-07-27T13:14:44.463Z - info: Site data built
+2025-07-27T13:14:44.463Z - info: Lazy website regeneration complete! Total build time: 3.301s
+2025-07-27T13:14:44.464Z - info: Site data built
+2025-07-27T13:17:13.409Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-07-27T13:17:13.554Z - info: Site data built
+2025-07-27T13:17:13.554Z - info: Lazy website regeneration complete! Total build time: 0.145s
+2025-07-27T13:17:17.908Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/print as some of its dependencies were changed since the last visit
+2025-07-27T13:17:19.843Z - debug:  
+2025-07-27T13:17:20.117Z - debug:  
+2025-07-27T13:17:24.559Z - debug:  
+2025-07-27T13:17:24.559Z - debug:  
+2025-07-27T13:17:24.559Z - debug:  
+2025-07-27T13:17:24.559Z - debug:  
+2025-07-27T13:17:24.559Z - debug:  
+2025-07-27T13:17:24.559Z - debug:  
+2025-07-27T13:17:24.559Z - debug:  
+2025-07-27T13:17:24.559Z - debug:  
+2025-07-27T13:17:25.008Z - info: Site data built
+2025-07-27T13:17:25.008Z - info: Lazy website regeneration complete! Total build time: 7.1s
+2025-07-27T13:22:53.608Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/processModels as some of its dependencies were changed since the last visit
+2025-07-27T13:22:53.824Z - info: Site data built
+2025-07-27T13:22:53.824Z - info: Lazy website regeneration complete! Total build time: 0.218s
+2025-07-27T13:59:53.646Z - info: [21:59:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2113/textbookTopics-fragment.md
+2025-07-27T13:59:53.649Z - info: Synchronizing opened pages list before reload
+2025-07-27T13:59:53.649Z - info: No pages are currently opened
+2025-07-27T13:59:54.794Z - info: No pages needed to be rebuilt
+2025-07-27T14:00:04.264Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/gitAndGithub as some of its dependencies were changed since the last visit
+2025-07-27T14:00:05.724Z - info: Site data built
+2025-07-27T14:00:05.725Z - info: Lazy website regeneration complete! Total build time: 1.461s
+2025-07-27T14:01:38.795Z - info: [22:01:38] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/intro/text.md
+2025-07-27T14:01:38.796Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:01:38.797Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:01:38.797Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:01:39.812Z - info: Rebuilding 1 pages
+2025-07-27T14:01:41.248Z - info: Site data built
+2025-07-27T14:01:41.248Z - info: Pages rebuilt
+2025-07-27T14:01:41.248Z - info: Website regeneration complete! Total build time: 1.438s
+2025-07-27T14:03:03.116Z - info: [22:03:03] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-07-27T14:03:03.118Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:03:03.119Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:03:03.119Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:03:04.127Z - info: Rebuilding 1 pages
+2025-07-27T14:03:05.578Z - info: Site data built
+2025-07-27T14:03:05.578Z - info: Pages rebuilt
+2025-07-27T14:03:05.578Z - info: Website regeneration complete! Total build time: 1.454s
+2025-07-27T14:03:49.954Z - info: [22:03:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/show/text.md
+2025-07-27T14:03:49.955Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:03:49.955Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:03:49.955Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:03:50.962Z - info: Rebuilding 1 pages
+2025-07-27T14:03:52.396Z - info: Site data built
+2025-07-27T14:03:52.396Z - info: Pages rebuilt
+2025-07-27T14:03:52.396Z - info: Website regeneration complete! Total build time: 1.436s
+2025-07-27T14:05:17.078Z - info: [22:05:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/syncByRebase/text.md
+2025-07-27T14:05:17.082Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:05:17.084Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:05:17.084Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:05:17.093Z - info: [22:05:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchRename/text.md
+2025-07-27T14:05:17.094Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:05:17.094Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:05:17.094Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:05:17.094Z - info: [22:05:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/branchDelete/text.md
+2025-07-27T14:05:17.094Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:05:17.094Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:05:17.094Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:05:18.100Z - info: Rebuilding 1 pages
+2025-07-27T14:05:19.558Z - info: Site data built
+2025-07-27T14:05:19.558Z - info: Pages rebuilt
+2025-07-27T14:05:19.558Z - info: Website regeneration complete! Total build time: 1.463s
+2025-07-27T14:08:25.615Z - info: [22:08:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/show/text.md
+2025-07-27T14:08:25.617Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:08:25.618Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:08:25.618Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:08:26.633Z - info: Rebuilding 1 pages
+2025-07-27T14:08:28.059Z - info: Site data built
+2025-07-27T14:08:28.059Z - info: Pages rebuilt
+2025-07-27T14:08:28.059Z - info: Website regeneration complete! Total build time: 1.43s
+2025-07-27T14:08:38.099Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/print as some of its dependencies were changed since the last visit
+2025-07-27T14:08:41.105Z - info: Site data built
+2025-07-27T14:08:41.105Z - info: Lazy website regeneration complete! Total build time: 3.007s
+2025-07-27T14:08:58.678Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-07-27T14:08:58.790Z - info: Site data built
+2025-07-27T14:08:58.790Z - info: Lazy website regeneration complete! Total build time: 0.112s
+2025-07-27T14:09:03.412Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable as some of its dependencies were changed since the last visit
+2025-07-27T14:09:04.444Z - info: Site data built
+2025-07-27T14:09:04.444Z - info: Lazy website regeneration complete! Total build time: 1.032s
+2025-07-27T14:11:09.366Z - info: [22:11:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-07-27T14:11:09.368Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:11:09.368Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:11:09.369Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:11:09.369Z - info: 2. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:11:09.463Z - info: [22:11:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md
+2025-07-27T14:11:09.463Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:11:09.463Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:11:09.464Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:11:09.464Z - info: 2. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:11:10.387Z - info: Rebuilding 2 pages
+2025-07-27T14:11:12.664Z - info: Site data built
+2025-07-27T14:11:12.664Z - info: Pages rebuilt
+2025-07-27T14:11:12.664Z - info: Website regeneration complete! Total build time: 2.279s
+2025-07-27T14:11:48.997Z - info: [22:11:48] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md
+2025-07-27T14:11:48.998Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:11:48.999Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:11:49.000Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:11:49.000Z - info: 2. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:11:50.022Z - info: Rebuilding 2 pages
+2025-07-27T14:11:52.347Z - info: Site data built
+2025-07-27T14:11:52.347Z - info: Pages rebuilt
+2025-07-27T14:11:52.347Z - info: Website regeneration complete! Total build time: 2.327s
+2025-07-27T14:12:32.514Z - info: [22:12:32] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-07-27T14:12:32.516Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:12:32.516Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:12:32.516Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:12:33.532Z - info: Rebuilding 1 pages
+2025-07-27T14:12:34.602Z - info: Site data built
+2025-07-27T14:12:34.603Z - info: Pages rebuilt
+2025-07-27T14:12:34.603Z - info: Website regeneration complete! Total build time: 1.074s
+2025-07-27T14:14:09.377Z - info: [22:14:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-07-27T14:14:09.378Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:14:09.380Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:14:09.380Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:14:09.446Z - info: [22:14:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-07-27T14:14:09.446Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:14:09.446Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:14:09.446Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:14:10.389Z - info: Rebuilding 1 pages
+2025-07-27T14:14:11.472Z - info: Site data built
+2025-07-27T14:14:11.472Z - info: Pages rebuilt
+2025-07-27T14:14:11.472Z - info: Website regeneration complete! Total build time: 1.086s
+2025-07-27T14:14:22.797Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/gitAndGithub as some of its dependencies were changed since the last visit
+2025-07-27T14:14:24.232Z - info: Site data built
+2025-07-27T14:14:24.232Z - info: Lazy website regeneration complete! Total build time: 1.436s
+2025-07-27T14:27:15.776Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week1/index as some of its dependencies were changed since the last visit
+2025-07-27T14:27:15.981Z - info: Site data built
+2025-07-27T14:27:15.981Z - info: Lazy website regeneration complete! Total build time: 0.206s
+2025-07-27T14:27:22.194Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week1/topics as some of its dependencies were changed since the last visit
+2025-07-27T14:27:22.305Z - info: Site data built
+2025-07-27T14:27:22.305Z - info: Lazy website regeneration complete! Total build time: 0.112s
+2025-07-27T14:27:30.923Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/topics as some of its dependencies were changed since the last visit
+2025-07-27T14:27:32.186Z - info: Site data built
+2025-07-27T14:27:32.186Z - info: Lazy website regeneration complete! Total build time: 1.263s
+2025-07-27T14:27:53.487Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/topics as some of its dependencies were changed since the last visit
+2025-07-27T14:27:54.924Z - info: Site data built
+2025-07-27T14:27:54.924Z - info: Lazy website regeneration complete! Total build time: 1.438s
+2025-07-27T14:33:18.707Z - info: [22:33:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2113/textbookTopics-fragment.md
+2025-07-27T14:33:18.712Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:33:18.716Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:33:18.716Z - info: 1. schedule/week3/topics
+2025-07-27T14:33:19.877Z - info: Rebuilding 1 pages
+2025-07-27T14:33:21.265Z - info: Site data built
+2025-07-27T14:33:21.265Z - info: Pages rebuilt
+2025-07-27T14:33:21.265Z - info: Website regeneration complete! Total build time: 1.388s
+2025-07-27T14:34:55.641Z - info: [22:34:55] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2113/textbookTopics-fragment.md
+2025-07-27T14:34:55.643Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:34:55.644Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:34:55.644Z - info: 1. schedule/week3/topics
+2025-07-27T14:34:56.787Z - info: Rebuilding 1 pages
+2025-07-27T14:34:58.248Z - info: Site data built
+2025-07-27T14:34:58.248Z - info: Pages rebuilt
+2025-07-27T14:34:58.248Z - info: Website regeneration complete! Total build time: 1.461s
+2025-07-27T14:39:26.650Z - info: [22:39:26] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/chapter.njk
+2025-07-27T14:39:26.653Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:39:26.654Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:39:26.655Z - info: 1. schedule/week3/topics
+2025-07-27T14:39:27.665Z - info: No pages needed to be rebuilt
+2025-07-27T14:39:51.165Z - info: [22:39:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/chapter.njk
+2025-07-27T14:39:51.165Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:39:51.166Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:39:51.166Z - info: 1. schedule/week3/topics
+2025-07-27T14:39:52.185Z - info: No pages needed to be rebuilt
+2025-07-27T14:40:30.725Z - info: [22:40:30] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/chapter.njk
+2025-07-27T14:40:30.725Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:40:30.725Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:40:30.725Z - info: 1. schedule/week3/topics
+2025-07-27T14:40:31.739Z - info: No pages needed to be rebuilt
+2025-07-27T14:40:58.986Z - info: [22:40:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2113/textbookTopics-fragment.md
+2025-07-27T14:40:58.986Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:40:58.987Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:40:58.987Z - info: 1. schedule/week3/topics
+2025-07-27T14:41:00.167Z - info: Rebuilding 1 pages
+2025-07-27T14:41:01.511Z - info: Site data built
+2025-07-27T14:41:01.511Z - info: Pages rebuilt
+2025-07-27T14:41:01.511Z - info: Website regeneration complete! Total build time: 1.345s
+2025-07-27T14:41:14.827Z - info: [22:41:14] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2113/textbookTopics-fragment.md
+2025-07-27T14:41:14.827Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:41:14.827Z - info: No pages are currently opened
+2025-07-27T14:41:15.967Z - info: No pages needed to be rebuilt
+2025-07-27T14:42:26.771Z - info: Website generation (lazy) started at 22:42:25
+2025-07-27T14:42:27.159Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-27T14:42:27.159Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-27T14:42:27.179Z - info: Building assets...
+2025-07-27T14:42:30.374Z - info: Assets built
+2025-07-27T14:42:30.378Z - info: Generating landing page...
+2025-07-27T14:42:30.614Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-07-27T14:42:30.683Z - info: Site data built
+2025-07-27T14:42:30.683Z - info: Website generation (lazy) complete! Total build time: 4.994s
+2025-07-27T14:42:31.699Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:63205
+2025-07-27T14:42:31.699Z - info: Press CTRL+C to stop ...
+2025-07-27T14:42:44.784Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-07-27T14:42:44.950Z - info: Site data built
+2025-07-27T14:42:44.950Z - info: Lazy website regeneration complete! Total build time: 0.167s
+2025-07-27T14:42:48.839Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/gitAndGithub as some of its dependencies were changed since the last visit
+2025-07-27T14:42:52.131Z - info: Site data built
+2025-07-27T14:42:52.131Z - info: Lazy website regeneration complete! Total build time: 3.292s
+2025-07-27T14:43:01.610Z - info: [22:43:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2113/textbookTopics-fragment.md
+2025-07-27T14:43:01.611Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:43:01.611Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:43:01.611Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:43:02.744Z - info: Rebuilding 1 pages
+2025-07-27T14:43:06.049Z - info: Site data built
+2025-07-27T14:43:06.049Z - info: Pages rebuilt
+2025-07-27T14:43:06.049Z - info: Website regeneration complete! Total build time: 3.305s
+2025-07-27T14:43:09.368Z - info: [22:43:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2113/textbookTopics-fragment.md
+2025-07-27T14:43:09.368Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:43:09.368Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:43:09.368Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:43:10.451Z - info: Rebuilding 1 pages
+2025-07-27T14:43:13.264Z - info: Site data built
+2025-07-27T14:43:13.264Z - info: Pages rebuilt
+2025-07-27T14:43:13.264Z - info: Website regeneration complete! Total build time: 2.814s
+2025-07-27T14:43:39.794Z - info: [22:43:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2113/textbookTopics-fragment.md
+2025-07-27T14:43:39.795Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:43:39.795Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:43:39.795Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:43:40.924Z - info: Rebuilding 1 pages
+2025-07-27T14:43:42.276Z - info: Site data built
+2025-07-27T14:43:42.276Z - info: Pages rebuilt
+2025-07-27T14:43:42.276Z - info: Website regeneration complete! Total build time: 1.355s
+2025-07-27T14:44:54.339Z - info: [22:44:54] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/chapter.njk
+2025-07-27T14:44:54.340Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:44:54.341Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:44:54.341Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:44:55.349Z - info: Rebuilding 1 pages
+2025-07-27T14:44:56.779Z - info: Site data built
+2025-07-27T14:44:56.779Z - info: Pages rebuilt
+2025-07-27T14:44:56.779Z - info: Website regeneration complete! Total build time: 1.432s
+2025-07-27T14:45:32.906Z - info: [22:45:32] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/chapter.njk
+2025-07-27T14:45:32.907Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:45:32.907Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:45:32.907Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:45:33.915Z - info: Rebuilding 1 pages
+2025-07-27T14:45:35.334Z - info: Site data built
+2025-07-27T14:45:35.334Z - info: Pages rebuilt
+2025-07-27T14:45:35.334Z - info: Website regeneration complete! Total build time: 1.421s
+2025-07-27T14:46:11.363Z - info: [22:46:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/chapter.njk
+2025-07-27T14:46:11.364Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:46:11.365Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:46:11.365Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:46:12.380Z - info: Rebuilding 1 pages
+2025-07-27T14:46:13.788Z - info: Site data built
+2025-07-27T14:46:13.788Z - info: Pages rebuilt
+2025-07-27T14:46:13.788Z - info: Website regeneration complete! Total build time: 1.41s
+2025-07-27T14:46:28.627Z - info: [22:46:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/chapter.njk
+2025-07-27T14:46:28.628Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:46:28.629Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:46:28.629Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2025-07-27T14:46:29.644Z - info: Rebuilding 1 pages
+2025-07-27T14:46:31.044Z - info: Site data built
+2025-07-27T14:46:31.044Z - info: Pages rebuilt
+2025-07-27T14:46:31.044Z - info: Website regeneration complete! Total build time: 1.402s
+2025-07-27T14:46:46.965Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-07-27T14:46:47.099Z - info: Site data built
+2025-07-27T14:46:47.099Z - info: Lazy website regeneration complete! Total build time: 0.135s
+2025-07-27T14:46:51.052Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable as some of its dependencies were changed since the last visit
+2025-07-27T14:46:52.096Z - info: Site data built
+2025-07-27T14:46:52.096Z - info: Lazy website regeneration complete! Total build time: 1.044s
+2025-07-27T14:47:22.305Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index as some of its dependencies were changed since the last visit
+2025-07-27T14:47:22.482Z - info: Site data built
+2025-07-27T14:47:22.482Z - info: Lazy website regeneration complete! Total build time: 0.178s
+2025-07-27T14:47:27.628Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/timeline as some of its dependencies were changed since the last visit
+2025-07-27T14:47:29.627Z - info: Site data built
+2025-07-27T14:47:29.627Z - info: Lazy website regeneration complete! Total build time: 2s
+2025-07-27T14:47:43.353Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/topics as some of its dependencies were changed since the last visit
+2025-07-27T14:47:44.889Z - info: Site data built
+2025-07-27T14:47:44.889Z - info: Lazy website regeneration complete! Total build time: 1.536s
+2025-07-27T14:48:47.351Z - info: [22:48:47] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2113/textbookTopics-fragment.md
+2025-07-27T14:48:47.354Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:48:47.357Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:48:47.357Z - info: 1. schedule/week3/topics
+2025-07-27T14:48:48.548Z - info: Rebuilding 1 pages
+2025-07-27T14:48:49.937Z - info: Site data built
+2025-07-27T14:48:49.937Z - info: Pages rebuilt
+2025-07-27T14:48:49.937Z - info: Website regeneration complete! Total build time: 1.389s
+2025-07-27T14:49:58.255Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/topics as some of its dependencies were changed since the last visit
+2025-07-27T14:49:59.623Z - info: Site data built
+2025-07-27T14:49:59.623Z - info: Lazy website regeneration complete! Total build time: 1.368s
+2025-07-27T14:51:22.570Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/timeline as some of its dependencies were changed since the last visit
+2025-07-27T14:51:24.638Z - info: Site data built
+2025-07-27T14:51:24.638Z - info: Lazy website regeneration complete! Total build time: 2.068s
+2025-07-27T14:51:46.766Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week7/topics as some of its dependencies were changed since the last visit
+2025-07-27T14:51:47.247Z - info: Site data built
+2025-07-27T14:51:47.247Z - info: Lazy website regeneration complete! Total build time: 0.482s
+2025-07-27T14:52:40.552Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-07-27T14:52:40.706Z - info: Site data built
+2025-07-27T14:52:40.706Z - info: Lazy website regeneration complete! Total build time: 0.155s
+2025-07-27T14:52:45.941Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable as some of its dependencies were changed since the last visit
+2025-07-27T14:52:48.586Z - info: Site data built
+2025-07-27T14:52:48.586Z - info: Lazy website regeneration complete! Total build time: 2.646s
+2025-07-27T14:54:56.847Z - info: [22:54:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/chapter-printable.njk
+2025-07-27T14:54:56.848Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:54:56.849Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:54:56.849Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:54:57.948Z - info: Rebuilding 1 pages
+2025-07-27T14:55:00.696Z - info: Site data built
+2025-07-27T14:55:00.697Z - info: Pages rebuilt
+2025-07-27T14:55:00.697Z - info: Website regeneration complete! Total build time: 2.753s
+2025-07-27T14:55:33.786Z - info: [22:55:33] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/chapter-printable.njk
+2025-07-27T14:55:33.787Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:55:33.787Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:55:33.787Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:55:34.807Z - info: Rebuilding 1 pages
+2025-07-27T14:55:37.631Z - info: Site data built
+2025-07-27T14:55:37.631Z - info: Pages rebuilt
+2025-07-27T14:55:37.631Z - info: Website regeneration complete! Total build time: 2.826s
+2025-07-27T14:55:43.994Z - info: [22:55:43] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/chapter-printable.njk
+2025-07-27T14:55:43.994Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:55:43.994Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:55:43.994Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:55:45.014Z - info: Rebuilding 1 pages
+2025-07-27T14:55:45.052Z - warn:  Error: Error while generating /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable.md: Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable.md) [Line 53, Column 4]
+  unknown block tag: endif
+    at Site.<anonymous> (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Site/index.js:926:27)
+    at Generator.throw (<anonymous>)
+    at rejected (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Site/index.js:29:65)
+2025-07-27T14:55:49.243Z - info: [22:55:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/chapter-printable.njk
+2025-07-27T14:55:49.244Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:55:49.244Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:55:49.244Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:55:50.257Z - info: Assets built
+2025-07-27T14:56:21.742Z - info: [22:56:21] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/chapter-printable.njk
+2025-07-27T14:56:21.743Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:56:21.744Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:56:21.744Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:56:22.758Z - info: Assets built
+2025-07-27T14:57:01.280Z - info: [22:57:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/chapter-printable.njk
+2025-07-27T14:57:01.281Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:57:01.282Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:57:01.282Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:57:02.303Z - info: Assets built
+2025-07-27T14:57:17.163Z - info: Website generation (lazy) started at 22:57:15
+2025-07-27T14:57:17.557Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-27T14:57:17.558Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-27T14:57:17.577Z - info: Building assets...
+2025-07-27T14:57:20.796Z - info: Assets built
+2025-07-27T14:57:20.798Z - info: Generating landing page...
+2025-07-27T14:57:21.039Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-07-27T14:57:21.106Z - info: Site data built
+2025-07-27T14:57:21.106Z - info: Website generation (lazy) complete! Total build time: 5.186s
+2025-07-27T14:57:22.125Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:63462
+2025-07-27T14:57:22.126Z - info: Press CTRL+C to stop ...
+2025-07-27T14:57:26.612Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-07-27T14:57:26.802Z - info: Site data built
+2025-07-27T14:57:26.802Z - info: Lazy website regeneration complete! Total build time: 0.191s
+2025-07-27T14:57:30.609Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable as some of its dependencies were changed since the last visit
+2025-07-27T14:57:31.874Z - info: Site data built
+2025-07-27T14:57:31.874Z - info: Lazy website regeneration complete! Total build time: 1.265s
+2025-07-27T14:57:41.353Z - info: [22:57:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/chapter-printable.njk
+2025-07-27T14:57:41.353Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:57:41.353Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:57:41.353Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:57:42.363Z - info: Rebuilding 1 pages
+2025-07-27T14:57:43.430Z - info: Site data built
+2025-07-27T14:57:43.430Z - info: Pages rebuilt
+2025-07-27T14:57:43.430Z - info: Website regeneration complete! Total build time: 1.07s
+2025-07-27T14:57:49.686Z - info: [22:57:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/chapter-printable.njk
+2025-07-27T14:57:49.686Z - info: Synchronizing opened pages list before reload
+2025-07-27T14:57:49.687Z - info: Current opened pages, from most-to-least recent:
+2025-07-27T14:57:49.687Z - info: 1. se-book-adapted/chapters-printable/gitAndGithub-printable
+2025-07-27T14:57:50.706Z - info: Rebuilding 1 pages
+2025-07-27T14:57:51.661Z - info: Site data built
+2025-07-27T14:57:51.661Z - info: Pages rebuilt
+2025-07-27T14:57:51.661Z - info: Website regeneration complete! Total build time: 0.958s
+2025-07-27T15:01:15.525Z - info: Website generation started at 23:01:14
+2025-07-27T15:01:15.863Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-27T15:01:15.864Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-27T15:01:15.883Z - info: Building assets...
+2025-07-27T15:01:19.839Z - info: Assets built
+2025-07-27T15:01:19.840Z - info: Generating pages...
+2025-07-27T15:01:28.747Z - debug:  
+2025-07-27T15:01:28.747Z - debug:  
+2025-07-27T15:01:28.747Z - debug:  
+2025-07-27T15:01:28.747Z - debug:  
+2025-07-27T15:01:28.747Z - debug:  
+2025-07-27T15:01:28.747Z - debug:  
+2025-07-27T15:01:28.747Z - debug:  
+2025-07-27T15:01:28.747Z - debug:  
+2025-07-27T15:01:28.747Z - debug:  
+2025-07-27T15:01:28.747Z - debug:  
+2025-07-27T15:01:31.106Z - debug:  
+2025-07-27T15:01:31.130Z - debug:  
+2025-07-27T15:01:31.136Z - debug:  
+2025-07-27T15:01:31.136Z - debug:  
+2025-07-27T15:01:31.324Z - debug:  
+2025-07-27T15:01:31.326Z - debug:  
+2025-07-27T15:01:32.841Z - debug:  
+2025-07-27T15:01:44.047Z - debug:  
+2025-07-27T15:02:35.798Z - debug:  
+2025-07-27T15:02:44.975Z - debug:  
+2025-07-27T15:02:44.991Z - debug:  
+2025-07-27T15:02:50.785Z - info: Pages built
+2025-07-27T15:02:50.874Z - info: Site data built
+2025-07-27T15:02:50.875Z - info: Website generation complete! Total build time: 96.459s
+2025-07-27T15:02:50.875Z - info: Build success!
+2025-07-27T15:03:14.441Z - info: The website has been deployed at: https://nus-cs2113-ay2526s1.github.io/website
+2025-07-27T15:09:02.113Z - info: Website generation started at 23:09:00
+2025-07-27T15:09:02.494Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2113-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-27T15:09:02.494Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2113-AY2526S1!website.git/_markbind/variables.md'
+2025-07-27T15:09:02.516Z - info: Building assets...
