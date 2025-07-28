@@ -234,3 +234,243 @@
 2025-07-28T04:04:54.224Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-07-28T04:04:54.224Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-07-28T04:04:54.244Z - info: Building assets...
+2025-07-28T04:04:56.881Z - info: Assets built
+2025-07-28T04:04:56.881Z - info: Generating pages...
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:03.896Z - debug:  
+2025-07-28T04:05:06.504Z - debug:  
+2025-07-28T04:05:06.515Z - debug:  
+2025-07-28T04:05:06.543Z - debug:  
+2025-07-28T04:05:06.564Z - debug:  
+2025-07-28T04:05:06.622Z - debug:  
+2025-07-28T04:05:06.625Z - debug:  
+2025-07-28T04:05:15.924Z - debug:  
+2025-07-28T04:06:15.322Z - debug:  
+2025-07-28T04:06:26.816Z - debug:  
+2025-07-28T04:06:26.844Z - debug:  
+2025-07-28T04:06:33.224Z - info: Pages built
+2025-07-28T04:06:33.294Z - info: Site data built
+2025-07-28T04:06:33.295Z - info: Website generation complete! Total build time: 100.765s
+2025-07-28T04:06:33.295Z - info: Build success!
+2025-07-28T04:06:56.359Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-07-28T04:13:20.765Z - info: Website generation (lazy) started at 12:13:19
+2025-07-28T04:13:21.203Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-28T04:13:21.204Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-28T04:13:21.224Z - info: Building assets...
+2025-07-28T04:13:24.300Z - info: Assets built
+2025-07-28T04:13:24.300Z - info: Generating landing page...
+2025-07-28T04:13:24.591Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-07-28T04:13:24.670Z - info: Site data built
+2025-07-28T04:13:24.670Z - info: Website generation (lazy) complete! Total build time: 5.232s
+2025-07-28T04:13:24.681Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-07-28T04:13:24.681Z - info: Press CTRL+C to stop ...
+2025-07-28T04:13:29.970Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-28T04:13:30.320Z - info: Site data built
+2025-07-28T04:13:30.320Z - info: Lazy website regeneration complete! Total build time: 0.35s
+2025-07-28T04:13:37.297Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/index as some of its dependencies were changed since the last visit
+2025-07-28T04:13:37.496Z - info: Site data built
+2025-07-28T04:13:37.496Z - info: Lazy website regeneration complete! Total build time: 0.199s
+2025-07-28T11:00:11.950Z - info: Website generation (lazy) started at 19:00:10
+2025-07-28T11:00:12.477Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-28T11:00:12.477Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-28T11:00:12.497Z - info: Building assets...
+2025-07-28T11:00:15.863Z - info: Assets built
+2025-07-28T11:00:15.863Z - info: Generating landing page...
+2025-07-28T11:00:16.125Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-07-28T11:00:16.198Z - info: Site data built
+2025-07-28T11:00:16.198Z - info: Website generation (lazy) complete! Total build time: 5.459s
+2025-07-28T11:00:16.207Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-07-28T11:00:16.208Z - info: Press CTRL+C to stop ...
+2025-07-28T11:00:22.058Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-28T11:00:22.399Z - info: Site data built
+2025-07-28T11:00:22.399Z - info: Lazy website regeneration complete! Total build time: 0.342s
+2025-07-28T11:01:01.724Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/index as some of its dependencies were changed since the last visit
+2025-07-28T11:01:01.990Z - info: Site data built
+2025-07-28T11:01:01.990Z - info: Lazy website regeneration complete! Total build time: 0.268s
+2025-07-28T11:02:42.468Z - info: [19:02:42] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:02:42.470Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:02:42.471Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:02:42.471Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:02:42.472Z - info: 2. se-book-adapted/git-trail/index
+2025-07-28T11:02:43.480Z - info: Rebuilding 2 pages
+2025-07-28T11:02:43.894Z - info: Site data built
+2025-07-28T11:02:43.894Z - info: Pages rebuilt
+2025-07-28T11:02:43.894Z - info: Website regeneration complete! Total build time: 0.416s
+2025-07-28T11:03:34.540Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-07-28T11:03:34.714Z - info: Site data built
+2025-07-28T11:03:34.714Z - info: Lazy website regeneration complete! Total build time: 0.174s
+2025-07-28T11:12:03.596Z - info: [19:12:03] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:12:03.601Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:12:03.603Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:12:03.603Z - info: 1. book/gitAndGithub/commit/index
+2025-07-28T11:12:03.603Z - info: 2. book/gitAndGithub/stage/index
+2025-07-28T11:12:03.603Z - info: 3. se-book-adapted/git-trail/index
+2025-07-28T11:12:04.611Z - info: Rebuilding 2 pages
+2025-07-28T11:12:05.032Z - info: Site data built
+2025-07-28T11:12:05.032Z - info: Pages rebuilt
+2025-07-28T11:12:05.033Z - info: Website regeneration complete! Total build time: 0.425s
+2025-07-28T11:12:27.237Z - info: [19:12:27] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:12:27.238Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:12:27.238Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:12:27.238Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:12:28.244Z - info: Rebuilding 1 pages
+2025-07-28T11:12:28.445Z - info: Site data built
+2025-07-28T11:12:28.445Z - info: Pages rebuilt
+2025-07-28T11:12:28.445Z - info: Website regeneration complete! Total build time: 0.203s
+2025-07-28T11:14:09.409Z - info: [19:14:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:14:09.410Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:14:09.410Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:14:09.410Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:14:10.420Z - info: Rebuilding 1 pages
+2025-07-28T11:14:10.624Z - info: Site data built
+2025-07-28T11:14:10.624Z - info: Pages rebuilt
+2025-07-28T11:14:10.624Z - info: Website regeneration complete! Total build time: 0.207s
+2025-07-28T11:15:13.586Z - info: [19:15:13] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/detour-unstagingChanges-fragment.md
+2025-07-28T11:15:13.588Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:15:13.589Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:15:13.590Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:15:14.598Z - info: Rebuilding 1 pages
+2025-07-28T11:15:14.797Z - info: Site data built
+2025-07-28T11:15:14.797Z - info: Pages rebuilt
+2025-07-28T11:15:14.798Z - info: Website regeneration complete! Total build time: 0.202s
+2025-07-28T11:17:08.214Z - info: [19:17:08] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:17:08.218Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:17:08.218Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:17:08.218Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:17:09.223Z - info: Rebuilding 1 pages
+2025-07-28T11:17:09.417Z - info: Site data built
+2025-07-28T11:17:09.417Z - info: Pages rebuilt
+2025-07-28T11:17:09.417Z - info: Website regeneration complete! Total build time: 0.197s
+2025-07-28T11:17:30.600Z - info: [19:17:30] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:17:30.606Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:17:30.607Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:17:30.608Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:17:31.616Z - info: Rebuilding 1 pages
+2025-07-28T11:17:31.824Z - info: Site data built
+2025-07-28T11:17:31.824Z - info: Pages rebuilt
+2025-07-28T11:17:31.824Z - info: Website regeneration complete! Total build time: 0.212s
+2025-07-28T11:17:36.085Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-28T11:17:36.359Z - info: Site data built
+2025-07-28T11:17:36.359Z - info: Lazy website regeneration complete! Total build time: 0.274s
+2025-07-28T11:17:39.279Z - info: [19:17:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:17:39.279Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:17:39.279Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:17:39.279Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:17:39.279Z - info: 2. se-book-adapted/git-trail/index
+2025-07-28T11:17:40.296Z - info: Rebuilding 2 pages
+2025-07-28T11:17:40.610Z - info: Site data built
+2025-07-28T11:17:40.610Z - info: Pages rebuilt
+2025-07-28T11:17:40.610Z - info: Website regeneration complete! Total build time: 0.318s
+2025-07-28T11:19:36.112Z - info: [19:19:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:19:36.115Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:19:36.115Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:19:36.116Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:19:36.116Z - info: 2. se-book-adapted/git-trail/index
+2025-07-28T11:19:37.123Z - info: Rebuilding 2 pages
+2025-07-28T11:19:37.512Z - info: Site data built
+2025-07-28T11:19:37.512Z - info: Pages rebuilt
+2025-07-28T11:19:37.512Z - info: Website regeneration complete! Total build time: 0.392s
+2025-07-28T11:20:15.157Z - info: [19:20:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:20:15.158Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:20:15.158Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:20:15.159Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:20:16.164Z - info: Rebuilding 1 pages
+2025-07-28T11:20:16.362Z - info: Site data built
+2025-07-28T11:20:16.362Z - info: Pages rebuilt
+2025-07-28T11:20:16.362Z - info: Website regeneration complete! Total build time: 0.2s
+2025-07-28T11:21:08.460Z - info: [19:21:08] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:21:08.462Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:21:08.463Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:21:08.463Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:21:09.477Z - info: Rebuilding 1 pages
+2025-07-28T11:21:09.672Z - info: Site data built
+2025-07-28T11:21:09.672Z - info: Pages rebuilt
+2025-07-28T11:21:09.672Z - info: Website regeneration complete! Total build time: 0.197s
+2025-07-28T11:22:39.728Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-28T11:22:39.986Z - info: Site data built
+2025-07-28T11:22:39.987Z - info: Lazy website regeneration complete! Total build time: 0.259s
+2025-07-28T11:22:45.635Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/gitPrep/index as some of its dependencies were changed since the last visit
+2025-07-28T11:22:45.753Z - info: Site data built
+2025-07-28T11:22:45.753Z - info: Lazy website regeneration complete! Total build time: 0.119s
+2025-07-28T11:23:52.324Z - info: [19:23:52] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/gitPrep/text.md
+2025-07-28T11:23:52.327Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:23:52.333Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:23:52.333Z - info: 1. book/gitAndGithub/gitPrep/index
+2025-07-28T11:23:52.333Z - info: 2. se-book-adapted/git-trail/index
+2025-07-28T11:23:53.343Z - info: Rebuilding 2 pages
+2025-07-28T11:23:53.668Z - info: Site data built
+2025-07-28T11:23:53.668Z - info: Pages rebuilt
+2025-07-28T11:23:53.668Z - info: Website regeneration complete! Total build time: 0.328s
+2025-07-28T11:24:01.343Z - info: [19:24:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/gitPrep/text.md
+2025-07-28T11:24:01.343Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:24:01.343Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:24:01.343Z - info: 1. book/gitAndGithub/gitPrep/index
+2025-07-28T11:24:02.345Z - info: Rebuilding 1 pages
+2025-07-28T11:24:02.497Z - info: Site data built
+2025-07-28T11:24:02.498Z - info: Pages rebuilt
+2025-07-28T11:24:02.498Z - info: Website regeneration complete! Total build time: 0.154s
+2025-07-28T11:24:19.001Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-28T11:24:19.285Z - info: Site data built
+2025-07-28T11:24:19.286Z - info: Lazy website regeneration complete! Total build time: 0.284s
+2025-07-28T11:26:53.639Z - info: [19:26:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/cli-stage-new-file-fragment.md
+2025-07-28T11:26:53.641Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:26:53.642Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:26:53.642Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:26:53.642Z - info: 2. se-book-adapted/git-trail/index
+2025-07-28T11:26:53.727Z - info: [19:26:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-28T11:26:53.727Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:26:53.727Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:26:53.728Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:26:53.728Z - info: 2. se-book-adapted/git-trail/index
+2025-07-28T11:26:54.652Z - info: Rebuilding 2 pages
+2025-07-28T11:26:54.959Z - info: Site data built
+2025-07-28T11:26:54.959Z - info: Pages rebuilt
+2025-07-28T11:26:54.959Z - info: Website regeneration complete! Total build time: 0.311s
+2025-07-28T11:27:19.785Z - info: [19:27:19] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/cli-stage-new-file-fragment.md
+2025-07-28T11:27:19.786Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:27:19.786Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:27:19.786Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:27:20.800Z - info: Rebuilding 1 pages
+2025-07-28T11:27:20.988Z - info: Site data built
+2025-07-28T11:27:20.988Z - info: Pages rebuilt
+2025-07-28T11:27:20.989Z - info: Website regeneration complete! Total build time: 0.19s
+2025-07-28T11:27:39.489Z - info: [19:27:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/cli-stage-new-file-fragment.md
+2025-07-28T11:27:39.489Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:27:39.490Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:27:39.490Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:27:40.500Z - info: Rebuilding 1 pages
+2025-07-28T11:27:40.701Z - info: Site data built
+2025-07-28T11:27:40.701Z - info: Pages rebuilt
+2025-07-28T11:27:40.701Z - info: Website regeneration complete! Total build time: 0.203s
+2025-07-28T11:27:46.888Z - info: [19:27:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/cli-stage-new-file-fragment.md
+2025-07-28T11:27:46.892Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:27:46.893Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:27:46.893Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:27:47.900Z - info: Rebuilding 1 pages
+2025-07-28T11:27:48.062Z - info: Site data built
+2025-07-28T11:27:48.062Z - info: Pages rebuilt
+2025-07-28T11:27:48.062Z - info: Website regeneration complete! Total build time: 0.164s
+2025-07-28T11:32:06.775Z - info: [19:32:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/intro/text.md
+2025-07-28T11:32:06.777Z - info: Synchronizing opened pages list before reload
+2025-07-28T11:32:06.779Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T11:32:06.780Z - info: 1. book/gitAndGithub/stage/index
+2025-07-28T11:32:07.785Z - info: No pages needed to be rebuilt
+2025-07-28T11:32:12.346Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-28T11:32:12.703Z - info: Site data built
+2025-07-28T11:32:12.703Z - info: Lazy website regeneration complete! Total build time: 0.358s
+2025-07-28T11:32:18.114Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/intro/index as some of its dependencies were changed since the last visit
+2025-07-28T11:32:18.205Z - info: Site data built
+2025-07-28T11:32:18.205Z - info: Lazy website regeneration complete! Total build time: 0.091s
+2025-07-28T11:34:24.659Z - info: Website generation started at 19:34:23
+2025-07-28T11:34:25.084Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-28T11:34:25.084Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-28T11:34:25.104Z - info: Building assets...
