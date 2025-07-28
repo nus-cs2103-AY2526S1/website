@@ -1,0 +1,419 @@
+2025-07-28T18:12:41.709Z - info: Website generation (lazy) started at 02:12:40
+2025-07-28T18:12:42.338Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-28T18:12:42.339Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-28T18:12:42.359Z - info: Building assets...
+2025-07-28T18:12:44.984Z - info: Assets built
+2025-07-28T18:12:44.984Z - info: Generating landing page...
+2025-07-28T18:12:45.230Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-07-28T18:12:45.309Z - info: Site data built
+2025-07-28T18:12:45.309Z - info: Website generation (lazy) complete! Total build time: 4.855s
+2025-07-28T18:12:45.322Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-07-28T18:12:45.322Z - info: Press CTRL+C to stop ...
+2025-07-28T18:19:43.196Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-28T18:19:43.562Z - info: Site data built
+2025-07-28T18:19:43.563Z - info: Lazy website regeneration complete! Total build time: 0.368s
+2025-07-28T18:19:50.830Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/gitPrep/index as some of its dependencies were changed since the last visit
+2025-07-28T18:19:50.986Z - info: Site data built
+2025-07-28T18:19:50.986Z - info: Lazy website regeneration complete! Total build time: 0.157s
+2025-07-28T18:20:52.912Z - info: [02:20:52] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/gitPrep/text.md
+2025-07-28T18:20:52.916Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:20:52.918Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:20:52.918Z - info: 1. book/gitAndGithub/gitPrep/index
+2025-07-28T18:20:52.919Z - info: 2. se-book-adapted/git-trail/index
+2025-07-28T18:20:53.933Z - info: Rebuilding 2 pages
+2025-07-28T18:20:54.275Z - info: Site data built
+2025-07-28T18:20:54.275Z - info: Pages rebuilt
+2025-07-28T18:20:54.275Z - info: Website regeneration complete! Total build time: 0.345s
+2025-07-28T18:23:06.522Z - info: [02:23:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/gitPrep/text.md
+2025-07-28T18:23:06.523Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:23:06.524Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:23:06.525Z - info: 1. book/gitAndGithub/gitPrep/index
+2025-07-28T18:23:07.535Z - info: Rebuilding 1 pages
+2025-07-28T18:23:07.702Z - info: Site data built
+2025-07-28T18:23:07.702Z - info: Pages rebuilt
+2025-07-28T18:23:07.703Z - info: Website regeneration complete! Total build time: 0.171s
+2025-07-28T18:23:56.692Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-28T18:23:56.994Z - info: Site data built
+2025-07-28T18:23:56.994Z - info: Lazy website regeneration complete! Total build time: 0.303s
+2025-07-28T18:24:02.709Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-07-28T18:24:02.828Z - info: Site data built
+2025-07-28T18:24:02.828Z - info: Lazy website regeneration complete! Total build time: 0.12s
+2025-07-28T18:26:00.979Z - info: [02:26:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/cli_3.md
+2025-07-28T18:26:00.980Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:26:00.981Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:26:00.981Z - info: 1. book/gitAndGithub/commit/index
+2025-07-28T18:26:00.981Z - info: 2. se-book-adapted/git-trail/index
+2025-07-28T18:26:01.990Z - info: Rebuilding 1 pages
+2025-07-28T18:26:02.146Z - info: Site data built
+2025-07-28T18:26:02.146Z - info: Pages rebuilt
+2025-07-28T18:26:02.146Z - info: Website regeneration complete! Total build time: 0.159s
+2025-07-28T18:27:04.504Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/index as some of its dependencies were changed since the last visit
+2025-07-28T18:27:04.616Z - info: Site data built
+2025-07-28T18:27:04.616Z - info: Lazy website regeneration complete! Total build time: 0.113s
+2025-07-28T18:27:51.144Z - info: [02:27:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:27:51.145Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:27:51.145Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:27:51.146Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:27:51.146Z - info: 2. se-book-adapted/git-trail/index
+2025-07-28T18:27:52.152Z - info: Rebuilding 2 pages
+2025-07-28T18:27:52.432Z - info: Site data built
+2025-07-28T18:27:52.432Z - info: Pages rebuilt
+2025-07-28T18:27:52.432Z - info: Website regeneration complete! Total build time: 0.282s
+2025-07-28T18:28:57.735Z - info: [02:28:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:28:57.736Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:28:57.737Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:28:57.737Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:28:58.742Z - info: Rebuilding 1 pages
+2025-07-28T18:28:58.828Z - info: Site data built
+2025-07-28T18:28:58.828Z - info: Pages rebuilt
+2025-07-28T18:28:58.828Z - info: Website regeneration complete! Total build time: 0.088s
+2025-07-28T18:29:30.102Z - info: [02:29:30] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:29:30.103Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:29:30.104Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:29:30.104Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:29:31.120Z - info: Rebuilding 1 pages
+2025-07-28T18:29:31.203Z - info: Site data built
+2025-07-28T18:29:31.203Z - info: Pages rebuilt
+2025-07-28T18:29:31.203Z - info: Website regeneration complete! Total build time: 0.085s
+2025-07-28T18:30:48.723Z - info: [02:30:48] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:30:48.724Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:30:48.726Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:30:48.726Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:30:49.740Z - info: Rebuilding 1 pages
+2025-07-28T18:30:49.827Z - info: Site data built
+2025-07-28T18:30:49.827Z - info: Pages rebuilt
+2025-07-28T18:30:49.827Z - info: Website regeneration complete! Total build time: 0.089s
+2025-07-28T18:33:54.694Z - info: [02:33:54] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:33:54.698Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:33:54.698Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:33:54.699Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:33:55.705Z - info: Rebuilding 1 pages
+2025-07-28T18:33:55.804Z - info: Site data built
+2025-07-28T18:33:55.804Z - info: Pages rebuilt
+2025-07-28T18:33:55.804Z - info: Website regeneration complete! Total build time: 0.102s
+2025-07-28T18:34:32.656Z - info: [02:34:32] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:34:32.657Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:34:32.657Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:34:32.658Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:34:33.665Z - info: Rebuilding 1 pages
+2025-07-28T18:34:33.745Z - info: Site data built
+2025-07-28T18:34:33.745Z - info: Pages rebuilt
+2025-07-28T18:34:33.745Z - info: Website regeneration complete! Total build time: 0.082s
+2025-07-28T18:36:42.901Z - info: [02:36:42] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:36:42.904Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:36:42.907Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:36:42.908Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:36:43.921Z - info: Rebuilding 1 pages
+2025-07-28T18:36:44.015Z - info: Site data built
+2025-07-28T18:36:44.015Z - info: Pages rebuilt
+2025-07-28T18:36:44.015Z - info: Website regeneration complete! Total build time: 0.098s
+2025-07-28T18:36:56.855Z - info: [02:36:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:36:56.856Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:36:56.858Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:36:56.858Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:36:56.922Z - info: [02:36:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:36:56.923Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:36:56.923Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:36:56.923Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:36:57.866Z - info: Rebuilding 1 pages
+2025-07-28T18:36:57.956Z - info: Site data built
+2025-07-28T18:36:57.956Z - info: Pages rebuilt
+2025-07-28T18:36:57.956Z - info: Website regeneration complete! Total build time: 0.093s
+2025-07-28T18:39:08.146Z - info: [02:39:08] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:39:08.148Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:39:08.149Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:39:08.149Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:39:09.156Z - info: Rebuilding 1 pages
+2025-07-28T18:39:09.225Z - info: Site data built
+2025-07-28T18:39:09.225Z - info: Pages rebuilt
+2025-07-28T18:39:09.225Z - info: Website regeneration complete! Total build time: 0.071s
+2025-07-28T18:41:31.548Z - info: [02:41:31] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/images/sorucetreeCommitDialog.png
+2025-07-28T18:41:31.559Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:41:31.562Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:41:31.562Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:41:31.847Z - info: [02:41:31] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/images/sorucetreeCommitDialog.png
+2025-07-28T18:41:31.847Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:41:31.847Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:41:31.847Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:41:32.721Z - info: Assets built
+2025-07-28T18:42:10.570Z - info: [02:42:10] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/images/sorucetreeCommitDialog.png
+2025-07-28T18:42:10.570Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:42:10.571Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:42:10.571Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:42:10.714Z - info: [02:42:10] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/images/sourcetreeCommitDialog.png
+2025-07-28T18:42:10.714Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:42:10.714Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:42:10.714Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:42:11.711Z - debug: Assets removed
+2025-07-28T18:42:11.831Z - info: Assets built
+2025-07-28T18:42:11.834Z - info: [02:42:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:42:11.834Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:42:11.834Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:42:11.834Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:42:12.841Z - info: Rebuilding 1 pages
+2025-07-28T18:42:12.943Z - info: Site data built
+2025-07-28T18:42:12.943Z - info: Pages rebuilt
+2025-07-28T18:42:12.943Z - info: Website regeneration complete! Total build time: 0.103s
+2025-07-28T18:42:51.785Z - info: [02:42:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:42:51.786Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:42:51.786Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:42:51.786Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:42:52.795Z - info: Rebuilding 1 pages
+2025-07-28T18:42:52.854Z - info: Site data built
+2025-07-28T18:42:52.854Z - info: Pages rebuilt
+2025-07-28T18:42:52.854Z - info: Website regeneration complete! Total build time: 0.062s
+2025-07-28T18:44:03.814Z - info: [02:44:03] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:44:03.814Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:44:03.815Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:44:03.815Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:44:04.824Z - info: Rebuilding 1 pages
+2025-07-28T18:44:04.906Z - info: Site data built
+2025-07-28T18:44:04.906Z - info: Pages rebuilt
+2025-07-28T18:44:04.906Z - info: Website regeneration complete! Total build time: 0.084s
+2025-07-28T18:44:58.190Z - info: [02:44:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:44:58.191Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:44:58.192Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:44:58.192Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:44:59.207Z - info: Rebuilding 1 pages
+2025-07-28T18:44:59.283Z - info: Site data built
+2025-07-28T18:44:59.283Z - info: Pages rebuilt
+2025-07-28T18:44:59.283Z - info: Website regeneration complete! Total build time: 0.079s
+2025-07-28T18:45:10.805Z - info: [02:45:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:45:10.805Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:45:10.806Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:45:10.806Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:45:11.809Z - info: Rebuilding 1 pages
+2025-07-28T18:45:11.892Z - info: Site data built
+2025-07-28T18:45:11.892Z - info: Pages rebuilt
+2025-07-28T18:45:11.892Z - info: Website regeneration complete! Total build time: 0.084s
+2025-07-28T18:51:25.039Z - info: [02:51:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:51:25.040Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:51:25.041Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:51:25.041Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:51:26.044Z - info: Rebuilding 1 pages
+2025-07-28T18:51:26.121Z - info: Site data built
+2025-07-28T18:51:26.121Z - info: Pages rebuilt
+2025-07-28T18:51:26.121Z - info: Website regeneration complete! Total build time: 0.078s
+2025-07-28T18:52:39.808Z - info: [02:52:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:52:39.810Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:52:39.812Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:52:39.812Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:52:40.823Z - info: Rebuilding 1 pages
+2025-07-28T18:52:40.858Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 76, Column 19]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 293, Column 12]
+  Error: Unable to call `show_protip`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:265:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2025-07-28T18:52:40.859Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 76, Column 19]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 293, Column 12]
+  Error: Unable to call `show_protip`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:265:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-28T18:52:40.859Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 76, Column 19]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 293, Column 12]
+  Error: Unable to call `show_protip`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:265:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-28T18:52:40.896Z - info: Site data built
+2025-07-28T18:52:40.896Z - info: Pages rebuilt
+2025-07-28T18:52:40.896Z - info: Website regeneration complete! Total build time: 0.076s
+2025-07-28T18:52:49.628Z - info: [02:52:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:52:49.629Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:52:49.629Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:52:49.630Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:52:50.638Z - info: Rebuilding 1 pages
+2025-07-28T18:52:50.670Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 76, Column 20]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 293, Column 12]
+  Error: Unable to call `show_pro_tip`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:265:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2025-07-28T18:52:50.671Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 76, Column 20]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 293, Column 12]
+  Error: Unable to call `show_pro_tip`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:265:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-28T18:52:50.671Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 76, Column 20]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md) [Line 293, Column 12]
+  Error: Unable to call `show_pro_tip`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:265:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-28T18:52:50.727Z - info: Site data built
+2025-07-28T18:52:50.728Z - info: Pages rebuilt
+2025-07-28T18:52:50.728Z - info: Website regeneration complete! Total build time: 0.093s
+2025-07-28T18:53:15.203Z - info: [02:53:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:53:15.207Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:53:15.208Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:53:15.208Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:53:16.214Z - info: Rebuilding 1 pages
+2025-07-28T18:53:16.351Z - info: Site data built
+2025-07-28T18:53:16.352Z - info: Pages rebuilt
+2025-07-28T18:53:16.352Z - info: Website regeneration complete! Total build time: 0.141s
+2025-07-28T18:54:57.980Z - info: [02:54:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:54:57.985Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:54:57.986Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:54:57.986Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:54:58.996Z - info: Rebuilding 1 pages
+2025-07-28T18:54:59.107Z - info: Site data built
+2025-07-28T18:54:59.108Z - info: Pages rebuilt
+2025-07-28T18:54:59.108Z - info: Website regeneration complete! Total build time: 0.116s
+2025-07-28T18:56:28.757Z - info: [02:56:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:56:28.761Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:56:28.764Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:56:28.764Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:56:29.782Z - info: Rebuilding 1 pages
+2025-07-28T18:56:29.916Z - info: Site data built
+2025-07-28T18:56:29.916Z - info: Pages rebuilt
+2025-07-28T18:56:29.916Z - info: Website regeneration complete! Total build time: 0.138s
+2025-07-28T18:57:53.583Z - info: [02:57:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:57:53.584Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:57:53.593Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:57:53.594Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:57:54.610Z - info: Rebuilding 1 pages
+2025-07-28T18:57:54.690Z - info: Site data built
+2025-07-28T18:57:54.690Z - info: Pages rebuilt
+2025-07-28T18:57:54.690Z - info: Website regeneration complete! Total build time: 0.083s
+2025-07-28T18:58:10.433Z - info: [02:58:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:58:10.433Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:58:10.433Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:58:10.433Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:58:11.446Z - info: Rebuilding 1 pages
+2025-07-28T18:58:11.519Z - info: Site data built
+2025-07-28T18:58:11.519Z - info: Pages rebuilt
+2025-07-28T18:58:11.519Z - info: Website regeneration complete! Total build time: 0.075s
+2025-07-28T18:58:50.101Z - info: [02:58:50] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T18:58:50.102Z - info: Synchronizing opened pages list before reload
+2025-07-28T18:58:50.102Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T18:58:50.102Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T18:58:51.106Z - info: Rebuilding 1 pages
+2025-07-28T18:58:51.191Z - info: Site data built
+2025-07-28T18:58:51.192Z - info: Pages rebuilt
+2025-07-28T18:58:51.192Z - info: Website regeneration complete! Total build time: 0.088s
+2025-07-28T19:02:44.678Z - info: [03:02:44] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T19:02:44.682Z - info: Synchronizing opened pages list before reload
+2025-07-28T19:02:44.691Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T19:02:44.692Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T19:02:45.700Z - info: Rebuilding 1 pages
+2025-07-28T19:02:45.815Z - info: Site data built
+2025-07-28T19:02:45.815Z - info: Pages rebuilt
+2025-07-28T19:02:45.815Z - info: Website regeneration complete! Total build time: 0.118s
+2025-07-28T19:02:54.168Z - info: [03:02:54] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T19:02:54.169Z - info: Synchronizing opened pages list before reload
+2025-07-28T19:02:54.169Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T19:02:54.169Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T19:02:55.183Z - info: Rebuilding 1 pages
+2025-07-28T19:02:55.256Z - info: Site data built
+2025-07-28T19:02:55.256Z - info: Pages rebuilt
+2025-07-28T19:02:55.256Z - info: Website regeneration complete! Total build time: 0.075s
+2025-07-28T19:02:59.924Z - info: [03:02:59] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T19:02:59.924Z - info: Synchronizing opened pages list before reload
+2025-07-28T19:02:59.924Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T19:02:59.925Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T19:03:00.938Z - info: Rebuilding 1 pages
+2025-07-28T19:03:01.032Z - info: Site data built
+2025-07-28T19:03:01.032Z - info: Pages rebuilt
+2025-07-28T19:03:01.032Z - info: Website regeneration complete! Total build time: 0.097s
+2025-07-28T19:04:26.557Z - info: [03:04:26] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commitMessage/text.md
+2025-07-28T19:04:26.592Z - info: Synchronizing opened pages list before reload
+2025-07-28T19:04:26.593Z - info: Current opened pages, from most-to-least recent:
+2025-07-28T19:04:26.593Z - info: 1. book/gitAndGithub/commitMessage/index
+2025-07-28T19:04:27.602Z - info: Rebuilding 1 pages
+2025-07-28T19:04:27.718Z - info: Site data built
+2025-07-28T19:04:27.718Z - info: Pages rebuilt
+2025-07-28T19:04:27.718Z - info: Website regeneration complete! Total build time: 0.119s
+2025-07-28T19:04:39.033Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-07-28T19:04:39.161Z - info: Site data built
+2025-07-28T19:04:39.162Z - info: Lazy website regeneration complete! Total build time: 0.129s
+2025-07-28T19:04:42.647Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/gitAndGithub as some of its dependencies were changed since the last visit
+2025-07-28T19:04:44.142Z - info: Site data built
+2025-07-28T19:04:44.142Z - info: Lazy website regeneration complete! Total build time: 1.496s
+2025-07-28T19:05:25.573Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable as some of its dependencies were changed since the last visit
+2025-07-28T19:05:26.701Z - info: Site data built
+2025-07-28T19:05:26.701Z - info: Lazy website regeneration complete! Total build time: 1.128s
+2025-07-28T19:06:18.200Z - info: Website generation started at 03:06:16
+2025-07-28T19:06:18.649Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-28T19:06:18.649Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-28T19:06:18.671Z - info: Building assets...
