@@ -810,3 +810,31 @@
 2025-07-29T15:53:58.367Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-07-29T15:53:58.367Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-07-29T15:53:58.389Z - info: Building assets...
+2025-07-29T15:54:01.568Z - info: Assets built
+2025-07-29T15:54:01.569Z - info: Generating pages...
+2025-07-29T15:54:09.377Z - debug:  
+2025-07-29T15:54:09.378Z - debug:  
+2025-07-29T15:54:09.378Z - debug:  
+2025-07-29T15:54:09.378Z - debug:  
+2025-07-29T15:54:09.378Z - debug:  
+2025-07-29T15:54:09.378Z - debug:  
+2025-07-29T15:54:09.378Z - debug:  
+2025-07-29T15:54:09.378Z - debug:  
+2025-07-29T15:54:09.378Z - debug:  
+2025-07-29T15:54:09.378Z - debug:  
+2025-07-29T15:54:09.378Z - debug:  
+2025-07-29T15:54:11.727Z - debug:  
+2025-07-29T15:54:11.749Z - debug:  
+2025-07-29T15:54:11.774Z - debug:  
+2025-07-29T15:54:11.785Z - debug:  
+2025-07-29T15:54:11.793Z - debug:  
+2025-07-29T15:54:11.864Z - debug:  
+2025-07-29T15:54:20.623Z - debug:  
+2025-07-29T15:55:16.900Z - debug:  
+2025-07-29T15:55:29.250Z - debug:  
+2025-07-29T15:55:29.269Z - debug:  
+2025-07-29T15:55:35.925Z - info: Pages built
+2025-07-29T15:55:35.999Z - info: Site data built
+2025-07-29T15:55:35.999Z - info: Website generation complete! Total build time: 99.436s
+2025-07-29T15:55:35.999Z - info: Build success!
+2025-07-29T15:56:01.353Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
