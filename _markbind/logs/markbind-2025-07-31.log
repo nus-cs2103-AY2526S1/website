@@ -592,3 +592,748 @@
 2025-07-31T09:34:18.433Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-07-31T09:34:18.434Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-07-31T09:34:18.456Z - info: Building assets...
+2025-07-31T09:34:21.601Z - info: Assets built
+2025-07-31T09:34:21.602Z - info: Generating pages...
+2025-07-31T09:34:26.655Z - debug:  
+2025-07-31T09:34:29.556Z - debug:  
+2025-07-31T09:34:29.556Z - debug:  
+2025-07-31T09:34:29.556Z - debug:  
+2025-07-31T09:34:29.556Z - debug:  
+2025-07-31T09:34:29.556Z - debug:  
+2025-07-31T09:34:29.556Z - debug:  
+2025-07-31T09:34:29.556Z - debug:  
+2025-07-31T09:34:29.556Z - debug:  
+2025-07-31T09:34:29.556Z - debug:  
+2025-07-31T09:34:29.556Z - debug:  
+2025-07-31T09:34:32.338Z - debug:  
+2025-07-31T09:34:32.347Z - debug:  
+2025-07-31T09:34:32.350Z - debug:  
+2025-07-31T09:34:32.352Z - debug:  
+2025-07-31T09:34:32.356Z - debug:  
+2025-07-31T09:34:32.357Z - debug:  
+2025-07-31T09:34:42.265Z - debug:  
+2025-07-31T09:35:40.604Z - debug:  
+2025-07-31T09:35:52.846Z - debug:  
+2025-07-31T09:35:53.073Z - debug:  
+2025-07-31T09:36:00.548Z - info: Pages built
+2025-07-31T09:36:00.658Z - info: Site data built
+2025-07-31T09:36:00.659Z - info: Website generation complete! Total build time: 103.932s
+2025-07-31T09:36:00.659Z - info: Build success!
+2025-07-31T09:36:27.347Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-07-31T09:47:03.395Z - info: Website generation (lazy) started at 17:47:02
+2025-07-31T09:47:03.834Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-31T09:47:03.834Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-31T09:47:03.853Z - info: Building assets...
+2025-07-31T09:47:06.464Z - info: Assets built
+2025-07-31T09:47:06.465Z - info: Generating landing page...
+2025-07-31T09:47:06.712Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-07-31T09:47:06.783Z - info: Site data built
+2025-07-31T09:47:06.783Z - info: Website generation (lazy) complete! Total build time: 4.706s
+2025-07-31T09:47:06.796Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-07-31T09:47:06.796Z - info: Press CTRL+C to stop ...
+2025-07-31T09:47:13.912Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-31T09:47:14.259Z - info: Site data built
+2025-07-31T09:47:14.259Z - info: Lazy website regeneration complete! Total build time: 0.347s
+2025-07-31T09:47:17.145Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/recordingFolderHistory/index as some of its dependencies were changed since the last visit
+2025-07-31T09:47:17.573Z - info: Site data built
+2025-07-31T09:47:17.573Z - info: Lazy website regeneration complete! Total build time: 0.429s
+2025-07-31T09:47:42.990Z - info: [17:47:42] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/gitPrep/text.md
+2025-07-31T09:47:42.991Z - info: Synchronizing opened pages list before reload
+2025-07-31T09:47:42.992Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T09:47:42.992Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T09:47:44.007Z - info: Rebuilding 1 pages
+2025-07-31T09:47:44.397Z - info: Site data built
+2025-07-31T09:47:44.397Z - info: Pages rebuilt
+2025-07-31T09:47:44.397Z - info: Website regeneration complete! Total build time: 0.393s
+2025-07-31T09:49:12.805Z - info: [17:49:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/gitPrep/text.md
+2025-07-31T09:49:12.807Z - info: Synchronizing opened pages list before reload
+2025-07-31T09:49:12.808Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T09:49:12.808Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T09:49:13.817Z - info: Rebuilding 1 pages
+2025-07-31T09:49:14.209Z - info: Site data built
+2025-07-31T09:49:14.209Z - info: Pages rebuilt
+2025-07-31T09:49:14.209Z - info: Website regeneration complete! Total build time: 0.395s
+2025-07-31T09:49:54.242Z - info: [17:49:54] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/gitPrep/text.md
+2025-07-31T09:49:54.243Z - info: Synchronizing opened pages list before reload
+2025-07-31T09:49:54.244Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T09:49:54.244Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T09:49:55.250Z - info: Rebuilding 1 pages
+2025-07-31T09:49:55.618Z - info: Site data built
+2025-07-31T09:49:55.618Z - info: Pages rebuilt
+2025-07-31T09:49:55.618Z - info: Website regeneration complete! Total build time: 0.37s
+2025-07-31T09:50:24.156Z - info: [17:50:24] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/gitPrep/text.md
+2025-07-31T09:50:24.157Z - info: Synchronizing opened pages list before reload
+2025-07-31T09:50:24.158Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T09:50:24.158Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T09:50:25.169Z - info: Rebuilding 1 pages
+2025-07-31T09:50:25.547Z - info: Site data built
+2025-07-31T09:50:25.547Z - info: Pages rebuilt
+2025-07-31T09:50:25.548Z - info: Website regeneration complete! Total build time: 0.381s
+2025-07-31T09:59:53.332Z - info: [17:59:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T09:59:53.336Z - info: Synchronizing opened pages list before reload
+2025-07-31T09:59:53.336Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T09:59:53.337Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T09:59:54.357Z - info: No pages needed to be rebuilt
+2025-07-31T10:00:24.634Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/backingUpOnCloud/index as some of its dependencies were changed since the last visit
+2025-07-31T10:00:24.953Z - info: Site data built
+2025-07-31T10:00:24.953Z - info: Lazy website regeneration complete! Total build time: 0.32s
+2025-07-31T10:02:09.155Z - info: [18:02:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:02:09.158Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:02:09.159Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:02:09.159Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:02:10.169Z - info: Rebuilding 1 pages
+2025-07-31T10:02:10.477Z - info: Site data built
+2025-07-31T10:02:10.477Z - info: Pages rebuilt
+2025-07-31T10:02:10.477Z - info: Website regeneration complete! Total build time: 0.31s
+2025-07-31T10:02:52.929Z - info: [18:02:52] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:02:52.930Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:02:52.930Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:02:52.930Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:02:53.948Z - info: Rebuilding 1 pages
+2025-07-31T10:02:54.236Z - info: Site data built
+2025-07-31T10:02:54.236Z - info: Pages rebuilt
+2025-07-31T10:02:54.236Z - info: Website regeneration complete! Total build time: 0.291s
+2025-07-31T10:04:12.929Z - info: [18:04:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:04:12.932Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:04:12.933Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:04:12.933Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:04:13.940Z - info: Rebuilding 1 pages
+2025-07-31T10:04:14.253Z - info: Site data built
+2025-07-31T10:04:14.254Z - info: Pages rebuilt
+2025-07-31T10:04:14.254Z - info: Website regeneration complete! Total build time: 0.318s
+2025-07-31T10:10:09.983Z - info: [18:10:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:10:09.988Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:10:09.989Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:10:09.990Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:10:10.998Z - info: Rebuilding 1 pages
+2025-07-31T10:10:11.294Z - info: Site data built
+2025-07-31T10:10:11.294Z - info: Pages rebuilt
+2025-07-31T10:10:11.294Z - info: Website regeneration complete! Total build time: 0.299s
+2025-07-31T10:11:17.679Z - info: [18:11:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:11:17.680Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:11:17.681Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:11:17.681Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:11:17.774Z - info: [18:11:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+2025-07-31T10:11:17.774Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:11:17.774Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:11:17.774Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:11:18.690Z - info: Rebuilding 1 pages
+2025-07-31T10:11:19.006Z - info: Site data built
+2025-07-31T10:11:19.007Z - info: Pages rebuilt
+2025-07-31T10:11:19.007Z - info: Website regeneration complete! Total build time: 0.318s
+2025-07-31T10:13:07.153Z - info: [18:13:07] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+2025-07-31T10:13:07.154Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:13:07.154Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:13:07.155Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:13:08.164Z - info: No pages needed to be rebuilt
+2025-07-31T10:13:21.581Z - info: [18:13:21] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:13:21.582Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:13:21.582Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:13:21.582Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:13:22.596Z - info: Rebuilding 1 pages
+2025-07-31T10:13:22.894Z - info: Site data built
+2025-07-31T10:13:22.894Z - info: Pages rebuilt
+2025-07-31T10:13:22.894Z - info: Website regeneration complete! Total build time: 0.3s
+2025-07-31T10:14:36.974Z - info: [18:14:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:14:36.977Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:14:36.977Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:14:36.977Z - info: 1. se-book-adapted/git-trail/index
+2025-07-31T10:14:37.986Z - info: Rebuilding 1 pages
+2025-07-31T10:14:38.296Z - info: Site data built
+2025-07-31T10:14:38.296Z - info: Pages rebuilt
+2025-07-31T10:14:38.296Z - info: Website regeneration complete! Total build time: 0.313s
+2025-07-31T10:14:40.406Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/backingUpOnCloud/index as some of its dependencies were changed since the last visit
+2025-07-31T10:14:40.457Z - error: No such segment '#open-source' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:14:40.635Z - info: Site data built
+2025-07-31T10:14:40.635Z - info: Lazy website regeneration complete! Total build time: 0.229s
+2025-07-31T10:14:54.525Z - info: [18:14:54] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:14:54.525Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:14:54.525Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:14:54.525Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:14:55.544Z - info: Rebuilding 1 pages
+2025-07-31T10:14:55.839Z - info: Site data built
+2025-07-31T10:14:55.840Z - info: Pages rebuilt
+2025-07-31T10:14:55.840Z - info: Website regeneration complete! Total build time: 0.298s
+2025-07-31T10:16:07.786Z - info: [18:16:07] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:16:07.791Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:16:07.792Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:16:07.792Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:16:08.800Z - info: Rebuilding 1 pages
+2025-07-31T10:16:09.128Z - info: Site data built
+2025-07-31T10:16:09.128Z - info: Pages rebuilt
+2025-07-31T10:16:09.128Z - info: Website regeneration complete! Total build time: 0.331s
+2025-07-31T10:16:29.433Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/recordingFolderHistory/index as some of its dependencies were changed since the last visit
+2025-07-31T10:16:29.815Z - info: Site data built
+2025-07-31T10:16:29.815Z - info: Lazy website regeneration complete! Total build time: 0.383s
+2025-07-31T10:18:12.629Z - info: [18:18:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:18:12.631Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:18:12.631Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:18:12.631Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T10:18:12.712Z - info: [18:18:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+2025-07-31T10:18:12.712Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:18:12.713Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:18:12.713Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T10:18:12.713Z - info: [18:18:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:18:12.713Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:18:12.714Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:18:12.714Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T10:18:13.644Z - info: Rebuilding 1 pages
+2025-07-31T10:18:14.071Z - info: Site data built
+2025-07-31T10:18:14.071Z - info: Pages rebuilt
+2025-07-31T10:18:14.071Z - info: Website regeneration complete! Total build time: 0.429s
+2025-07-31T10:18:17.585Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/backingUpOnCloud/index as some of its dependencies were changed since the last visit
+2025-07-31T10:18:17.805Z - info: Site data built
+2025-07-31T10:18:17.805Z - info: Lazy website regeneration complete! Total build time: 0.22s
+2025-07-31T10:20:21.602Z - info: [18:20:21] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+2025-07-31T10:20:21.605Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:20:21.606Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:20:21.606Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:20:22.619Z - info: Rebuilding 1 pages
+2025-07-31T10:20:22.944Z - info: Site data built
+2025-07-31T10:20:22.944Z - info: Pages rebuilt
+2025-07-31T10:20:22.944Z - info: Website regeneration complete! Total build time: 0.331s
+2025-07-31T10:21:53.949Z - info: [18:21:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+2025-07-31T10:21:53.950Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:21:53.950Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:21:53.951Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:21:54.960Z - info: Rebuilding 1 pages
+2025-07-31T10:21:55.266Z - info: Site data built
+2025-07-31T10:21:55.266Z - info: Pages rebuilt
+2025-07-31T10:21:55.266Z - info: Website regeneration complete! Total build time: 0.309s
+2025-07-31T10:23:07.576Z - info: [18:23:07] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:23:07.578Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:23:07.578Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:23:07.579Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:23:08.586Z - info: Rebuilding 1 pages
+2025-07-31T10:23:08.940Z - info: Site data built
+2025-07-31T10:23:08.940Z - info: Pages rebuilt
+2025-07-31T10:23:08.940Z - info: Website regeneration complete! Total build time: 0.359s
+2025-07-31T10:23:58.562Z - info: [18:23:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:23:58.564Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:23:58.565Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:23:58.565Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:23:59.574Z - info: Rebuilding 1 pages
+2025-07-31T10:23:59.660Z - error: No such segment '#open-source-software-oss' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:23:59.897Z - info: Site data built
+2025-07-31T10:23:59.897Z - info: Pages rebuilt
+2025-07-31T10:23:59.897Z - info: Website regeneration complete! Total build time: 0.327s
+2025-07-31T10:24:02.900Z - info: [18:24:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+2025-07-31T10:24:02.900Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:24:02.900Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:24:02.900Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:24:03.910Z - info: Rebuilding 1 pages
+2025-07-31T10:24:03.965Z - error: No such segment '#open-source-software-oss' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:24:04.136Z - info: Site data built
+2025-07-31T10:24:04.136Z - info: Pages rebuilt
+2025-07-31T10:24:04.136Z - info: Website regeneration complete! Total build time: 0.228s
+2025-07-31T10:26:43.622Z - info: [18:26:43] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+2025-07-31T10:26:43.623Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:26:43.624Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:26:43.624Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:26:44.633Z - info: Rebuilding 1 pages
+2025-07-31T10:26:44.702Z - error: No such segment '#open-source-software-oss' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:26:44.960Z - info: Site data built
+2025-07-31T10:26:44.960Z - info: Pages rebuilt
+2025-07-31T10:26:44.960Z - info: Website regeneration complete! Total build time: 0.328s
+2025-07-31T10:27:20.327Z - info: [18:27:20] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-07-31T10:27:20.327Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:27:20.327Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:27:20.327Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:27:21.331Z - info: Rebuilding 1 pages
+2025-07-31T10:27:21.390Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteRepos/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteRepos/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteRepos/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:129:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2025-07-31T10:27:21.392Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:267:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2025-07-31T10:27:21.395Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/createRemoteRepo/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/createRemoteRepo/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/createRemoteRepo/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:163:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2025-07-31T10:27:21.401Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:267:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2025-07-31T10:27:21.402Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/push/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/push/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/push/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:293:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2025-07-31T10:27:21.407Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:237:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2025-07-31T10:27:21.411Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteRepos/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteRepos/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteRepos/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:129:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.417Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteRepos/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteRepos/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteRepos/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:129:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.418Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:267:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.419Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:267:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.422Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/createRemoteRepo/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/createRemoteRepo/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/createRemoteRepo/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:163:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.428Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/createRemoteRepo/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/createRemoteRepo/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/createRemoteRepo/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:163:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.430Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:267:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.432Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:267:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.434Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/push/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/push/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/push/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:293:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.435Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/push/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/push/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/push/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:293:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.441Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:237:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.443Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md)
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/ignore/text.md)
+  Error: cannot import 'show_git_term'
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:237:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-07-31T10:27:21.508Z - info: Site data built
+2025-07-31T10:27:21.508Z - info: Pages rebuilt
+2025-07-31T10:27:21.508Z - info: Website regeneration complete! Total build time: 0.178s
+2025-07-31T10:27:29.815Z - info: [18:27:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-07-31T10:27:29.815Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:27:29.815Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:27:29.815Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:27:30.831Z - info: Rebuilding 1 pages
+2025-07-31T10:27:30.886Z - error: No such segment '#open-source-software-oss' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:27:31.088Z - info: Site data built
+2025-07-31T10:27:31.088Z - info: Pages rebuilt
+2025-07-31T10:27:31.088Z - info: Website regeneration complete! Total build time: 0.259s
+2025-07-31T10:30:56.928Z - info: [18:30:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-07-31T10:30:56.930Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:30:56.931Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:30:56.931Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:30:57.941Z - info: Rebuilding 1 pages
+2025-07-31T10:30:58.023Z - error:  SyntaxError: Unmatched selector: (OSS)-term
+    at parse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/css-what/index.js:85:9)
+    at compileUnsafe (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/css-select/lib/compile.js:31:14)
+    at select (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/css-select/index.js:18:49)
+    at CSSselect (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/css-select/index.js:41:9)
+    at exports.find (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/cheerio/lib/api/traversing.js:40:21)
+    at module.exports (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/cheerio/lib/cheerio.js:86:18)
+    at new initialize (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/cheerio/lib/static.js:29:20)
+    at initialize (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/cheerio/lib/static.js:26:14)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:214:37)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+2025-07-31T10:30:58.025Z - error:  SyntaxError: Unmatched selector: (OSS)-definition
+    at parse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/css-what/index.js:85:9)
+    at compileUnsafe (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/css-select/lib/compile.js:31:14)
+    at select (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/css-select/index.js:18:49)
+    at CSSselect (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/css-select/index.js:41:9)
+    at exports.find (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/cheerio/lib/api/traversing.js:40:21)
+    at module.exports (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/cheerio/lib/cheerio.js:86:18)
+    at new initialize (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/cheerio/lib/static.js:29:20)
+    at initialize (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/cheerio/lib/static.js:26:14)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:214:37)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+2025-07-31T10:30:58.274Z - info: Site data built
+2025-07-31T10:30:58.274Z - info: Pages rebuilt
+2025-07-31T10:30:58.274Z - info: Website regeneration complete! Total build time: 0.336s
+2025-07-31T10:31:33.162Z - info: [18:31:33] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-07-31T10:31:33.163Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:31:33.163Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:31:33.163Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:31:34.167Z - info: Rebuilding 1 pages
+2025-07-31T10:31:34.468Z - info: Site data built
+2025-07-31T10:31:34.468Z - info: Pages rebuilt
+2025-07-31T10:31:34.468Z - info: Website regeneration complete! Total build time: 0.303s
+2025-07-31T10:34:41.832Z - info: [18:34:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+2025-07-31T10:34:41.834Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:34:41.834Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:34:41.834Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:34:42.855Z - info: Rebuilding 1 pages
+2025-07-31T10:34:43.183Z - info: Site data built
+2025-07-31T10:34:43.183Z - info: Pages rebuilt
+2025-07-31T10:34:43.183Z - info: Website regeneration complete! Total build time: 0.343s
+2025-07-31T10:35:11.227Z - info: [18:35:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+2025-07-31T10:35:11.228Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:35:11.229Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:35:11.229Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-07-31T10:35:12.249Z - info: Rebuilding 1 pages
+2025-07-31T10:35:12.582Z - info: Site data built
+2025-07-31T10:35:12.582Z - info: Pages rebuilt
+2025-07-31T10:35:12.582Z - info: Website regeneration complete! Total build time: 0.337s
+2025-07-31T10:35:34.407Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/recordingFolderHistory/index as some of its dependencies were changed since the last visit
+2025-07-31T10:35:34.520Z - error: No such segment '#repository-term' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-07-31T10:35:34.521Z - error: No such segment '#repository-definition' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-07-31T10:35:34.806Z - info: Site data built
+2025-07-31T10:35:34.806Z - info: Lazy website regeneration complete! Total build time: 0.399s
+2025-07-31T10:36:24.937Z - info: [18:36:24] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-07-31T10:36:24.941Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:36:24.942Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:36:24.943Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T10:36:25.955Z - info: Rebuilding 1 pages
+2025-07-31T10:36:26.057Z - error: No such segment '#repository-term' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-07-31T10:36:26.058Z - error: No such segment '#repository-definition' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-07-31T10:36:26.349Z - info: Site data built
+2025-07-31T10:36:26.350Z - info: Pages rebuilt
+2025-07-31T10:36:26.350Z - info: Website regeneration complete! Total build time: 0.398s
+2025-07-31T10:37:12.126Z - info: [18:37:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+2025-07-31T10:37:12.127Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:37:12.127Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:37:12.127Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T10:37:13.136Z - info: Rebuilding 1 pages
+2025-07-31T10:37:13.235Z - error: No such segment '#repository-term' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-07-31T10:37:13.236Z - error: No such segment '#repository-definition' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/terms-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-07-31T10:37:13.526Z - info: Site data built
+2025-07-31T10:37:13.526Z - info: Pages rebuilt
+2025-07-31T10:37:13.526Z - info: Website regeneration complete! Total build time: 0.392s
+2025-07-31T10:37:57.179Z - info: [18:37:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reset/text.md
+2025-07-31T10:37:57.185Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:37:57.187Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:37:57.188Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T10:37:58.210Z - info: No pages needed to be rebuilt
+2025-07-31T10:38:19.797Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reset/index as some of its dependencies were changed since the last visit
+2025-07-31T10:38:19.991Z - info: Site data built
+2025-07-31T10:38:19.991Z - info: Lazy website regeneration complete! Total build time: 0.195s
+2025-07-31T10:38:21.189Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-07-31T10:38:21.415Z - info: Site data built
+2025-07-31T10:38:21.416Z - info: Lazy website regeneration complete! Total build time: 0.227s
+2025-07-31T10:39:17.543Z - info: [18:39:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-07-31T10:39:17.545Z - info: Synchronizing opened pages list before reload
+2025-07-31T10:39:17.546Z - info: Current opened pages, from most-to-least recent:
+2025-07-31T10:39:17.546Z - info: 1. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-07-31T10:39:18.551Z - info: Rebuilding 1 pages
+2025-07-31T10:39:18.935Z - info: Site data built
+2025-07-31T10:39:18.935Z - info: Pages rebuilt
+2025-07-31T10:39:18.935Z - info: Website regeneration complete! Total build time: 0.386s
+2025-07-31T10:40:17.231Z - info: Website generation started at 18:40:16
+2025-07-31T10:40:17.567Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-07-31T10:40:17.568Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-07-31T10:40:17.586Z - info: Building assets...
