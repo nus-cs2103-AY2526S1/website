@@ -949,3 +949,190 @@ Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/b
 2025-08-03T18:57:59.732Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-08-03T18:57:59.733Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-08-03T18:57:59.751Z - info: Building assets...
+2025-08-03T18:58:02.251Z - info: Assets built
+2025-08-03T18:58:02.252Z - info: Generating pages...
+2025-08-03T18:58:10.219Z - debug:  
+2025-08-03T18:58:10.219Z - debug:  
+2025-08-03T18:58:10.219Z - debug:  
+2025-08-03T18:58:10.219Z - debug:  
+2025-08-03T18:58:10.219Z - debug:  
+2025-08-03T18:58:10.219Z - debug:  
+2025-08-03T18:58:10.220Z - debug:  
+2025-08-03T18:58:10.220Z - debug:  
+2025-08-03T18:58:10.220Z - debug:  
+2025-08-03T18:58:10.220Z - debug:  
+2025-08-03T18:58:10.220Z - debug:  
+2025-08-03T18:58:12.694Z - debug:  
+2025-08-03T18:58:12.697Z - debug:  
+2025-08-03T18:58:12.761Z - debug:  
+2025-08-03T18:58:12.767Z - debug:  
+2025-08-03T18:58:12.768Z - debug:  
+2025-08-03T18:58:12.773Z - debug:  
+2025-08-03T18:58:21.656Z - debug:  
+2025-08-03T18:58:25.794Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/text.md is empty
+2025-08-03T18:59:19.348Z - debug:  
+2025-08-03T18:59:31.708Z - debug:  
+2025-08-03T18:59:31.717Z - debug:  
+2025-08-03T18:59:38.129Z - info: Pages built
+2025-08-03T18:59:38.201Z - info: Site data built
+2025-08-03T18:59:38.201Z - info: Website generation complete! Total build time: 100.159s
+2025-08-03T18:59:38.201Z - info: Build success!
+2025-08-03T19:00:06.761Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-08-04T08:06:29.164Z - info: Website generation (lazy) started at 16:06:27
+2025-08-04T08:06:29.685Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-04T08:06:29.685Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-04T08:06:29.704Z - info: Building assets...
+2025-08-04T08:06:32.903Z - info: Assets built
+2025-08-04T08:06:32.909Z - info: Generating landing page...
+2025-08-04T08:06:33.179Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-04T08:06:33.241Z - info: Site data built
+2025-08-04T08:06:33.241Z - info: Website generation (lazy) complete! Total build time: 5.347s
+2025-08-04T08:06:33.253Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-08-04T08:06:33.253Z - info: Press CTRL+C to stop ...
+2025-08-04T08:06:41.057Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-08-04T08:06:41.591Z - info: Site data built
+2025-08-04T08:06:41.591Z - info: Lazy website regeneration complete! Total build time: 0.535s
+2025-08-04T08:11:51.811Z - info: [16:11:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-08-04T08:11:51.817Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:11:51.819Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:11:51.819Z - info: 1. se-book-adapted/git-trail/index
+2025-08-04T08:11:51.821Z - info: [16:11:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteBranchPush/text.md
+2025-08-04T08:11:51.821Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:11:51.821Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:11:51.821Z - info: 1. se-book-adapted/git-trail/index
+2025-08-04T08:11:51.828Z - info: [16:11:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteBranchDelete/text.md
+2025-08-04T08:11:51.828Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:11:51.828Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:11:51.829Z - info: 1. se-book-adapted/git-trail/index
+2025-08-04T08:11:52.832Z - info: Rebuilding 1 pages
+2025-08-04T08:11:53.156Z - info: Site data built
+2025-08-04T08:11:53.156Z - info: Pages rebuilt
+2025-08-04T08:11:53.156Z - info: Website regeneration complete! Total build time: 0.328s
+2025-08-04T08:12:10.806Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/workingWithRemotes/index as some of its dependencies were changed since the last visit
+2025-08-04T08:12:11.055Z - info: Site data built
+2025-08-04T08:12:11.055Z - info: Lazy website regeneration complete! Total build time: 0.249s
+2025-08-04T08:14:39.283Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/backingUpOnCloud/index as some of its dependencies were changed since the last visit
+2025-08-04T08:14:39.629Z - info: Site data built
+2025-08-04T08:14:39.629Z - info: Lazy website regeneration complete! Total build time: 0.347s
+2025-08-04T08:18:39.675Z - info: [16:18:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md
+2025-08-04T08:18:39.676Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:18:39.676Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:18:39.677Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-08-04T08:18:39.677Z - info: 2. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:18:40.683Z - info: Rebuilding 2 pages
+2025-08-04T08:18:41.133Z - info: Site data built
+2025-08-04T08:18:41.134Z - info: Pages rebuilt
+2025-08-04T08:18:41.134Z - info: Website regeneration complete! Total build time: 0.452s
+2025-08-04T08:19:12.323Z - info: [16:19:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md
+2025-08-04T08:19:12.324Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:19:12.325Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:19:12.325Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-08-04T08:19:13.344Z - info: Rebuilding 1 pages
+2025-08-04T08:19:13.671Z - info: Site data built
+2025-08-04T08:19:13.671Z - info: Pages rebuilt
+2025-08-04T08:19:13.671Z - info: Website regeneration complete! Total build time: 0.332s
+2025-08-04T08:19:20.346Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/workingWithRemotes/index as some of its dependencies were changed since the last visit
+2025-08-04T08:19:20.547Z - info: Site data built
+2025-08-04T08:19:20.548Z - info: Lazy website regeneration complete! Total build time: 0.202s
+2025-08-04T08:20:19.762Z - info: [16:20:19] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md
+2025-08-04T08:20:19.764Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:20:19.765Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:20:19.765Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-08-04T08:20:19.765Z - info: 2. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:20:20.775Z - info: Rebuilding 2 pages
+2025-08-04T08:20:21.222Z - info: Site data built
+2025-08-04T08:20:21.222Z - info: Pages rebuilt
+2025-08-04T08:20:21.222Z - info: Website regeneration complete! Total build time: 0.45s
+2025-08-04T08:20:53.127Z - info: [16:20:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/text.md
+2025-08-04T08:20:53.131Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:20:53.131Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:20:53.131Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-08-04T08:20:54.138Z - info: Rebuilding 1 pages
+2025-08-04T08:20:54.462Z - info: Site data built
+2025-08-04T08:20:54.462Z - info: Pages rebuilt
+2025-08-04T08:20:54.462Z - info: Website regeneration complete! Total build time: 0.327s
+2025-08-04T08:22:12.234Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/workingWithRemotes/index as some of its dependencies were changed since the last visit
+2025-08-04T08:22:12.444Z - info: Site data built
+2025-08-04T08:22:12.444Z - info: Lazy website regeneration complete! Total build time: 0.213s
+2025-08-04T08:24:11.147Z - info: [16:24:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-08-04T08:24:11.149Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:24:11.150Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:24:11.150Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-08-04T08:24:11.150Z - info: 2. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:24:12.160Z - info: Rebuilding 1 pages
+2025-08-04T08:24:12.388Z - info: Site data built
+2025-08-04T08:24:12.388Z - info: Pages rebuilt
+2025-08-04T08:24:12.388Z - info: Website regeneration complete! Total build time: 0.231s
+2025-08-04T08:24:14.589Z - info: [16:24:14] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-08-04T08:24:14.590Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:24:14.590Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:24:14.590Z - info: 1. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:24:15.596Z - info: Rebuilding 1 pages
+2025-08-04T08:24:15.768Z - info: Site data built
+2025-08-04T08:24:15.769Z - info: Pages rebuilt
+2025-08-04T08:24:15.769Z - info: Website regeneration complete! Total build time: 0.175s
+2025-08-04T08:24:32.518Z - info: [16:24:32] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-08-04T08:24:32.518Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:24:32.519Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:24:32.519Z - info: 1. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:24:33.530Z - info: Rebuilding 1 pages
+2025-08-04T08:24:33.743Z - info: Site data built
+2025-08-04T08:24:33.743Z - info: Pages rebuilt
+2025-08-04T08:24:33.743Z - info: Website regeneration complete! Total build time: 0.216s
+2025-08-04T08:25:56.703Z - info: [16:25:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-08-04T08:25:56.705Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:25:56.705Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:25:56.705Z - info: 1. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:25:57.718Z - info: Rebuilding 1 pages
+2025-08-04T08:25:57.941Z - info: Site data built
+2025-08-04T08:25:57.941Z - info: Pages rebuilt
+2025-08-04T08:25:57.941Z - info: Website regeneration complete! Total build time: 0.226s
+2025-08-04T08:26:27.490Z - info: [16:26:27] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-08-04T08:26:27.494Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:26:27.496Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:26:27.496Z - info: 1. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:26:28.508Z - info: Rebuilding 1 pages
+2025-08-04T08:26:28.768Z - info: Site data built
+2025-08-04T08:26:28.769Z - info: Pages rebuilt
+2025-08-04T08:26:28.769Z - info: Website regeneration complete! Total build time: 0.268s
+2025-08-04T08:26:57.907Z - info: [16:26:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-08-04T08:26:57.911Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:26:57.912Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:26:57.912Z - info: 1. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:26:58.917Z - info: Rebuilding 1 pages
+2025-08-04T08:26:59.152Z - info: Site data built
+2025-08-04T08:26:59.152Z - info: Pages rebuilt
+2025-08-04T08:26:59.152Z - info: Website regeneration complete! Total build time: 0.236s
+2025-08-04T08:29:19.105Z - info: [16:29:19] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-08-04T08:29:19.107Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:29:19.108Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:29:19.108Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-08-04T08:29:19.108Z - info: 2. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:29:20.113Z - info: Rebuilding 1 pages
+2025-08-04T08:29:20.321Z - info: Site data built
+2025-08-04T08:29:20.321Z - info: Pages rebuilt
+2025-08-04T08:29:20.321Z - info: Website regeneration complete! Total build time: 0.211s
+2025-08-04T08:30:25.398Z - info: [16:30:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-08-04T08:30:25.399Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:30:25.400Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:30:25.400Z - info: 1. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:30:26.416Z - info: Rebuilding 1 pages
+2025-08-04T08:30:26.596Z - info: Site data built
+2025-08-04T08:30:26.596Z - info: Pages rebuilt
+2025-08-04T08:30:26.596Z - info: Website regeneration complete! Total build time: 0.192s
+2025-08-04T08:30:37.090Z - info: [16:30:37] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/pull/text.md
+2025-08-04T08:30:37.091Z - info: Synchronizing opened pages list before reload
+2025-08-04T08:30:37.091Z - info: Current opened pages, from most-to-least recent:
+2025-08-04T08:30:37.091Z - info: 1. book/gitAndGithub/trail/workingWithRemotes/index
+2025-08-04T08:30:38.100Z - info: Rebuilding 1 pages
+2025-08-04T08:30:38.323Z - info: Site data built
+2025-08-04T08:30:38.323Z - info: Pages rebuilt
+2025-08-04T08:30:38.323Z - info: Website regeneration complete! Total build time: 0.226s
+2025-08-04T08:30:44.591Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/setRemote/index as some of its dependencies were changed since the last visit
+2025-08-04T08:30:44.691Z - info: Site data built
+2025-08-04T08:30:44.691Z - info: Lazy website regeneration complete! Total build time: 0.1s
+2025-08-04T08:32:13.341Z - info: Website generation started at 16:32:12
+2025-08-04T08:32:13.758Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-04T08:32:13.758Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-04T08:32:13.777Z - info: Building assets...
