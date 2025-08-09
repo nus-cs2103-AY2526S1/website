@@ -171,3 +171,133 @@ Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/b
 2025-08-08T18:44:50.461Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-08-08T18:44:50.462Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-08-08T18:44:50.481Z - info: Building assets...
+2025-08-08T18:44:53.576Z - info: Assets built
+2025-08-08T18:44:53.577Z - info: Generating pages...
+2025-08-08T18:44:59.472Z - debug:  
+2025-08-08T18:44:59.473Z - debug:  
+2025-08-08T18:45:02.820Z - debug:  
+2025-08-08T18:45:02.820Z - debug:  
+2025-08-08T18:45:02.820Z - debug:  
+2025-08-08T18:45:02.820Z - debug:  
+2025-08-08T18:45:02.820Z - debug:  
+2025-08-08T18:45:02.820Z - debug:  
+2025-08-08T18:45:02.820Z - debug:  
+2025-08-08T18:45:02.820Z - debug:  
+2025-08-08T18:45:02.820Z - debug:  
+2025-08-08T18:45:05.218Z - debug:  
+2025-08-08T18:45:05.223Z - debug:  
+2025-08-08T18:45:05.261Z - debug:  
+2025-08-08T18:45:05.276Z - debug:  
+2025-08-08T18:45:05.282Z - debug:  
+2025-08-08T18:45:05.284Z - debug:  
+2025-08-08T18:45:14.461Z - debug:  
+2025-08-08T18:45:18.555Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/text.md is empty
+2025-08-08T18:45:43.783Z - error: No such segment '#Yugin' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2025-08-08T18:45:43.793Z - error: No such segment '#Micheal' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2025-08-08T18:46:09.236Z - error: No such segment '#Yugin' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2025-08-08T18:46:09.245Z - error: No such segment '#Micheal' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2025-08-08T18:46:14.147Z - debug:  
+2025-08-08T18:46:14.406Z - error: No such segment '#Yugin' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2025-08-08T18:46:14.415Z - error: No such segment '#Micheal' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2025-08-08T18:46:24.629Z - error: No such segment '#Yugin' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2025-08-08T18:46:24.639Z - error: No such segment '#Micheal' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/timetables-fragment.md
+2025-08-08T18:46:25.968Z - debug:  
+2025-08-08T18:46:25.995Z - debug:  
+2025-08-08T18:46:32.891Z - info: Pages built
+2025-08-08T18:46:32.971Z - info: Site data built
+2025-08-08T18:46:32.971Z - info: Website generation complete! Total build time: 104.076s
+2025-08-08T18:46:32.971Z - info: Build success!
+2025-08-08T18:46:59.035Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-08-08T18:51:30.236Z - info: Website generation (lazy) started at 02:51:29
+2025-08-08T18:51:30.659Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-08T18:51:30.659Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-08T18:51:30.678Z - info: Building assets...
+2025-08-08T18:51:33.923Z - info: Assets built
+2025-08-08T18:51:33.924Z - info: Generating landing page...
+2025-08-08T18:51:34.190Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-08T18:51:34.260Z - info: Site data built
+2025-08-08T18:51:34.260Z - info: Website generation (lazy) complete! Total build time: 5.258s
+2025-08-08T18:51:34.269Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-08-08T18:51:34.269Z - info: Press CTRL+C to stop ...
+2025-08-08T18:51:55.875Z - info: [02:51:55] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2025-08-08T18:51:55.877Z - info: Synchronizing opened pages list before reload
+2025-08-08T18:51:55.878Z - info: Current opened pages, from most-to-least recent:
+2025-08-08T18:51:55.878Z - info: 1. index
+2025-08-08T18:51:56.883Z - info: No pages needed to be rebuilt
+2025-08-08T18:51:59.664Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/instructors as some of its dependencies were changed since the last visit
+2025-08-08T18:51:59.888Z - info: Site data built
+2025-08-08T18:51:59.888Z - info: Lazy website regeneration complete! Total build time: 0.224s
+2025-08-08T18:52:25.784Z - info: [02:52:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2025-08-08T18:52:25.785Z - info: Synchronizing opened pages list before reload
+2025-08-08T18:52:25.785Z - info: Current opened pages, from most-to-least recent:
+2025-08-08T18:52:25.785Z - info: 1. admin/instructors
+2025-08-08T18:52:26.796Z - info: Rebuilding 1 pages
+2025-08-08T18:52:26.993Z - info: Site data built
+2025-08-08T18:52:26.993Z - info: Pages rebuilt
+2025-08-08T18:52:26.993Z - info: Website regeneration complete! Total build time: 0.199s
+2025-08-08T19:01:42.452Z - info: Website generation (lazy) started at 03:01:41
+2025-08-08T19:01:42.791Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-08T19:01:42.792Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-08T19:01:42.811Z - info: Building assets...
+2025-08-08T19:01:46.105Z - info: Assets built
+2025-08-08T19:01:46.106Z - info: Generating landing page...
+2025-08-08T19:01:46.363Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-08T19:01:46.428Z - info: Site data built
+2025-08-08T19:01:46.428Z - info: Website generation (lazy) complete! Total build time: 5.082s
+2025-08-08T19:01:46.437Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-08-08T19:01:46.437Z - info: Press CTRL+C to stop ...
+2025-08-08T19:02:04.480Z - info: [03:02:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2025-08-08T19:02:04.481Z - info: Synchronizing opened pages list before reload
+2025-08-08T19:02:04.482Z - info: Current opened pages, from most-to-least recent:
+2025-08-08T19:02:04.482Z - info: 1. index
+2025-08-08T19:02:05.514Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-08T19:02:05.514Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-08T19:02:05.544Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-08-08T19:02:05.546Z - info: Rebuilding 1 pages
+2025-08-08T19:02:06.408Z - info: Site data built
+2025-08-08T19:02:06.408Z - info: Pages rebuilt
+2025-08-08T19:02:06.408Z - info: Website regeneration complete! Total build time: 0.912s
+2025-08-08T19:02:18.108Z - info: Website generation started at 03:02:17
+2025-08-08T19:02:18.362Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-08T19:02:18.362Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-08T19:02:18.381Z - info: Building assets...
+2025-08-08T19:02:21.761Z - info: Assets built
+2025-08-08T19:02:21.764Z - info: Generating pages...
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:28.319Z - debug:  
+2025-08-08T19:02:30.952Z - debug:  
+2025-08-08T19:02:38.089Z - debug:  
+2025-08-08T19:02:41.411Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/text.md is empty
+2025-08-08T19:02:44.425Z - debug:  
+2025-08-08T19:03:10.168Z - info: Pages built
+2025-08-08T19:03:10.247Z - info: Site data built
+2025-08-08T19:03:10.247Z - info: Website generation complete! Total build time: 53.042s
+2025-08-08T19:03:10.247Z - info: Build success!
+2025-08-08T19:03:32.718Z - info: The website has been deployed at: https://nus-tic2002-ay2526s1.github.io/website
+2025-08-09T03:56:21.978Z - info: Website generation started at 11:56:20
+2025-08-09T03:56:22.404Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-09T03:56:22.404Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-08-09T03:56:22.429Z - info: Building assets...
