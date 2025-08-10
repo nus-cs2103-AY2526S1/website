@@ -1,0 +1,32 @@
+2025-08-10T16:34:24.531Z - info: Website generation (lazy) started at 00:34:23
+2025-08-10T16:34:25.064Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-10T16:34:25.064Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-10T16:34:25.084Z - info: Building assets...
+2025-08-10T16:34:28.516Z - info: Assets built
+2025-08-10T16:34:28.517Z - info: Generating landing page...
+2025-08-10T16:34:29.140Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-10T16:34:29.310Z - info: Site data built
+2025-08-10T16:34:29.310Z - info: Website generation (lazy) complete! Total build time: 6.017s
+2025-08-10T16:34:29.326Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-08-10T16:34:29.326Z - info: Press CTRL+C to stop ...
+2025-08-10T16:34:42.098Z - info: [00:34:42] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2025-08-10T16:34:42.099Z - info: Synchronizing opened pages list before reload
+2025-08-10T16:34:42.099Z - info: Current opened pages, from most-to-least recent:
+2025-08-10T16:34:42.099Z - info: 1. index
+2025-08-10T16:34:43.121Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-10T16:34:43.121Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-10T16:34:43.152Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-08-10T16:34:43.155Z - info: Rebuilding 1 pages
+2025-08-10T16:34:43.467Z - info: Site data built
+2025-08-10T16:34:43.467Z - info: Pages rebuilt
+2025-08-10T16:34:43.467Z - info: Website regeneration complete! Total build time: 0.363s
+2025-08-10T16:34:48.004Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week2/index as some of its dependencies were changed since the last visit
+2025-08-10T16:34:48.253Z - info: Site data built
+2025-08-10T16:34:48.253Z - info: Lazy website regeneration complete! Total build time: 0.25s
+2025-08-10T16:48:12.434Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/instructors as some of its dependencies were changed since the last visit
+2025-08-10T16:48:12.679Z - info: Site data built
+2025-08-10T16:48:12.679Z - info: Lazy website regeneration complete! Total build time: 0.246s
+2025-08-10T16:48:37.710Z - info: Website generation started at 00:48:36
+2025-08-10T16:48:38.113Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-10T16:48:38.114Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-10T16:48:38.135Z - info: Building assets...
