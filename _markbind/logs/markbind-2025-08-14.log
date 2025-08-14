@@ -1,0 +1,230 @@
+2025-08-14T09:49:35.396Z - info: Website generation (lazy) started at 17:49:34
+2025-08-14T09:49:35.974Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-14T09:49:35.974Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-14T09:49:35.993Z - info: Building assets...
+2025-08-14T09:49:38.900Z - info: Assets built
+2025-08-14T09:49:38.901Z - info: Generating landing page...
+2025-08-14T09:49:39.329Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-14T09:49:39.408Z - info: Site data built
+2025-08-14T09:49:39.409Z - info: Website generation (lazy) complete! Total build time: 5.319s
+2025-08-14T09:49:39.421Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-08-14T09:49:39.421Z - info: Press CTRL+C to stop ...
+2025-08-14T09:50:23.284Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-08-14T09:50:23.652Z - info: Site data built
+2025-08-14T09:50:23.652Z - info: Lazy website regeneration complete! Total build time: 0.369s
+2025-08-14T09:50:36.104Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/index as some of its dependencies were changed since the last visit
+2025-08-14T09:50:36.390Z - info: Site data built
+2025-08-14T09:50:36.390Z - info: Lazy website regeneration complete! Total build time: 0.286s
+2025-08-14T09:52:18.351Z - info: [17:52:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T09:52:18.352Z - info: Synchronizing opened pages list before reload
+2025-08-14T09:52:18.353Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T09:52:18.353Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T09:52:18.353Z - info: 2. se-book-adapted/git-trail/index
+2025-08-14T09:52:19.361Z - info: Rebuilding 1 pages
+2025-08-14T09:52:19.566Z - info: Site data built
+2025-08-14T09:52:19.566Z - info: Pages rebuilt
+2025-08-14T09:52:19.566Z - info: Website regeneration complete! Total build time: 0.208s
+2025-08-14T09:52:37.113Z - info: [17:52:37] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T09:52:37.113Z - info: Synchronizing opened pages list before reload
+2025-08-14T09:52:37.113Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T09:52:37.114Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T09:52:38.125Z - info: Rebuilding 1 pages
+2025-08-14T09:52:38.342Z - info: Site data built
+2025-08-14T09:52:38.342Z - info: Pages rebuilt
+2025-08-14T09:52:38.342Z - info: Website regeneration complete! Total build time: 0.22s
+2025-08-14T09:53:24.535Z - info: [17:53:24] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T09:53:24.537Z - info: Synchronizing opened pages list before reload
+2025-08-14T09:53:24.539Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T09:53:24.539Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T09:53:25.549Z - info: Rebuilding 1 pages
+2025-08-14T09:53:25.770Z - info: Site data built
+2025-08-14T09:53:25.770Z - info: Pages rebuilt
+2025-08-14T09:53:25.770Z - info: Website regeneration complete! Total build time: 0.223s
+2025-08-14T09:54:23.695Z - info: [17:54:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T09:54:23.697Z - info: Synchronizing opened pages list before reload
+2025-08-14T09:54:23.697Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T09:54:23.697Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T09:54:24.702Z - info: Rebuilding 1 pages
+2025-08-14T09:54:24.955Z - info: Site data built
+2025-08-14T09:54:24.955Z - info: Pages rebuilt
+2025-08-14T09:54:24.955Z - info: Website regeneration complete! Total build time: 0.255s
+2025-08-14T09:54:31.208Z - info: [17:54:31] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T09:54:31.208Z - info: Synchronizing opened pages list before reload
+2025-08-14T09:54:31.209Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T09:54:31.209Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T09:54:32.214Z - info: Rebuilding 1 pages
+2025-08-14T09:54:32.395Z - info: Site data built
+2025-08-14T09:54:32.395Z - info: Pages rebuilt
+2025-08-14T09:54:32.395Z - info: Website regeneration complete! Total build time: 0.182s
+2025-08-14T09:54:54.162Z - info: [17:54:54] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T09:54:54.162Z - info: Synchronizing opened pages list before reload
+2025-08-14T09:54:54.162Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T09:54:54.162Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T09:54:55.174Z - info: Rebuilding 1 pages
+2025-08-14T09:54:55.395Z - info: Site data built
+2025-08-14T09:54:55.395Z - info: Pages rebuilt
+2025-08-14T09:54:55.395Z - info: Website regeneration complete! Total build time: 0.223s
+2025-08-14T09:58:33.845Z - info: [17:58:33] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T09:58:33.879Z - info: Synchronizing opened pages list before reload
+2025-08-14T09:58:33.881Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T09:58:33.882Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T09:58:33.882Z - info: 2. se-book-adapted/git-trail/index
+2025-08-14T09:58:34.896Z - info: Rebuilding 1 pages
+2025-08-14T09:58:35.149Z - info: Site data built
+2025-08-14T09:58:35.149Z - info: Pages rebuilt
+2025-08-14T09:58:35.149Z - info: Website regeneration complete! Total build time: 0.255s
+2025-08-14T09:59:04.100Z - info: [17:59:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T09:59:04.101Z - info: Synchronizing opened pages list before reload
+2025-08-14T09:59:04.101Z - info: No pages are currently opened
+2025-08-14T09:59:05.108Z - info: No pages needed to be rebuilt
+2025-08-14T09:59:10.126Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/index as some of its dependencies were changed since the last visit
+2025-08-14T09:59:10.360Z - info: Site data built
+2025-08-14T09:59:10.360Z - info: Lazy website regeneration complete! Total build time: 0.235s
+2025-08-14T09:59:41.516Z - info: [17:59:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T09:59:41.518Z - info: Synchronizing opened pages list before reload
+2025-08-14T09:59:41.520Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T09:59:41.520Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T09:59:42.525Z - info: Rebuilding 1 pages
+2025-08-14T09:59:42.734Z - info: Site data built
+2025-08-14T09:59:42.734Z - info: Pages rebuilt
+2025-08-14T09:59:42.735Z - info: Website regeneration complete! Total build time: 0.211s
+2025-08-14T10:00:37.020Z - info: [18:00:37] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T10:00:37.023Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:00:37.024Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:00:37.024Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:00:38.031Z - info: Rebuilding 1 pages
+2025-08-14T10:00:38.258Z - info: Site data built
+2025-08-14T10:00:38.258Z - info: Pages rebuilt
+2025-08-14T10:00:38.258Z - info: Website regeneration complete! Total build time: 0.23s
+2025-08-14T10:01:35.064Z - info: [18:01:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T10:01:35.066Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:01:35.067Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:01:35.067Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:01:36.076Z - info: Rebuilding 1 pages
+2025-08-14T10:01:36.320Z - info: Site data built
+2025-08-14T10:01:36.320Z - info: Pages rebuilt
+2025-08-14T10:01:36.320Z - info: Website regeneration complete! Total build time: 0.247s
+2025-08-14T10:02:17.071Z - info: [18:02:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T10:02:17.072Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:02:17.072Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:02:17.072Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:02:18.088Z - info: Rebuilding 1 pages
+2025-08-14T10:02:18.303Z - info: Site data built
+2025-08-14T10:02:18.303Z - info: Pages rebuilt
+2025-08-14T10:02:18.303Z - info: Website regeneration complete! Total build time: 0.217s
+2025-08-14T10:03:11.358Z - info: [18:03:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T10:03:11.359Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:03:11.359Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:03:11.359Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:03:12.365Z - info: Rebuilding 1 pages
+2025-08-14T10:03:12.563Z - info: Site data built
+2025-08-14T10:03:12.563Z - info: Pages rebuilt
+2025-08-14T10:03:12.564Z - info: Website regeneration complete! Total build time: 0.201s
+2025-08-14T10:03:46.459Z - info: [18:03:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T10:03:46.460Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:03:46.461Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:03:46.461Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:03:47.470Z - info: Rebuilding 1 pages
+2025-08-14T10:03:47.702Z - info: Site data built
+2025-08-14T10:03:47.702Z - info: Pages rebuilt
+2025-08-14T10:03:47.702Z - info: Website regeneration complete! Total build time: 0.234s
+2025-08-14T10:04:50.122Z - info: [18:04:50] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T10:04:50.123Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:04:50.124Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:04:50.124Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:04:51.146Z - info: Rebuilding 1 pages
+2025-08-14T10:04:51.375Z - info: Site data built
+2025-08-14T10:04:51.375Z - info: Pages rebuilt
+2025-08-14T10:04:51.376Z - info: Website regeneration complete! Total build time: 0.233s
+2025-08-14T10:05:35.183Z - info: [18:05:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T10:05:35.184Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:05:35.185Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:05:35.186Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:05:36.200Z - info: Rebuilding 1 pages
+2025-08-14T10:05:36.427Z - info: Site data built
+2025-08-14T10:05:36.427Z - info: Pages rebuilt
+2025-08-14T10:05:36.427Z - info: Website regeneration complete! Total build time: 0.229s
+2025-08-14T10:05:43.972Z - info: [18:05:43] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T10:05:43.973Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:05:43.973Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:05:43.973Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:05:44.982Z - info: Rebuilding 1 pages
+2025-08-14T10:05:45.207Z - info: Site data built
+2025-08-14T10:05:45.207Z - info: Pages rebuilt
+2025-08-14T10:05:45.207Z - info: Website regeneration complete! Total build time: 0.227s
+2025-08-14T10:06:02.639Z - info: [18:06:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T10:06:02.643Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:06:02.643Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:06:02.644Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:06:03.650Z - info: Rebuilding 1 pages
+2025-08-14T10:06:03.906Z - info: Site data built
+2025-08-14T10:06:03.906Z - info: Pages rebuilt
+2025-08-14T10:06:03.906Z - info: Website regeneration complete! Total build time: 0.259s
+2025-08-14T10:10:11.631Z - info: [18:10:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/detour-unstagingChanges-fragment.md
+2025-08-14T10:10:11.641Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:10:11.642Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:10:11.642Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:10:12.648Z - info: Rebuilding 1 pages
+2025-08-14T10:10:12.864Z - info: Site data built
+2025-08-14T10:10:12.864Z - info: Pages rebuilt
+2025-08-14T10:10:12.864Z - info: Website regeneration complete! Total build time: 0.219s
+2025-08-14T10:11:32.952Z - info: [18:11:32] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/cli-stage-new-file-fragment.md
+2025-08-14T10:11:32.952Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:11:32.952Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:11:32.952Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:11:33.962Z - info: Rebuilding 1 pages
+2025-08-14T10:11:34.188Z - info: Site data built
+2025-08-14T10:11:34.188Z - info: Pages rebuilt
+2025-08-14T10:11:34.188Z - info: Website regeneration complete! Total build time: 0.227s
+2025-08-14T10:12:24.667Z - info: [18:12:24] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/common/protip-multiple-files-notation-fragment.md
+2025-08-14T10:12:24.669Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:12:24.669Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:12:24.669Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:12:25.674Z - info: Rebuilding 1 pages
+2025-08-14T10:12:25.938Z - info: Site data built
+2025-08-14T10:12:25.938Z - info: Pages rebuilt
+2025-08-14T10:12:25.938Z - info: Website regeneration complete! Total build time: 0.266s
+2025-08-14T10:13:31.022Z - info: [18:13:31] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/cli-stage-new-file-fragment.md
+2025-08-14T10:13:31.023Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:13:31.024Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:13:31.024Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:13:32.029Z - info: Rebuilding 1 pages
+2025-08-14T10:13:32.276Z - info: Site data built
+2025-08-14T10:13:32.276Z - info: Pages rebuilt
+2025-08-14T10:13:32.276Z - info: Website regeneration complete! Total build time: 0.249s
+2025-08-14T10:17:21.119Z - info: [18:17:21] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/detour-unstagingChanges-fragment.md
+2025-08-14T10:17:21.120Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:17:21.121Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:17:21.121Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:17:22.127Z - info: Rebuilding 1 pages
+2025-08-14T10:17:22.372Z - info: Site data built
+2025-08-14T10:17:22.372Z - info: Pages rebuilt
+2025-08-14T10:17:22.372Z - info: Website regeneration complete! Total build time: 0.247s
+2025-08-14T10:17:58.469Z - info: [18:17:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/detour-unstagingChanges-fragment.md
+2025-08-14T10:17:58.470Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:17:58.470Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:17:58.470Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:17:59.475Z - info: Rebuilding 1 pages
+2025-08-14T10:17:59.698Z - info: Site data built
+2025-08-14T10:17:59.698Z - info: Pages rebuilt
+2025-08-14T10:17:59.698Z - info: Website regeneration complete! Total build time: 0.226s
+2025-08-14T10:19:32.577Z - info: [18:19:32] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/detour-unstagingChanges-fragment.md
+2025-08-14T10:19:32.578Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:19:32.579Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:19:32.579Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:19:33.586Z - info: Rebuilding 1 pages
+2025-08-14T10:19:33.823Z - info: Site data built
+2025-08-14T10:19:33.823Z - info: Pages rebuilt
+2025-08-14T10:19:33.823Z - info: Website regeneration complete! Total build time: 0.24s
+2025-08-14T10:19:53.986Z - info: [18:19:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/detour-unstagingChanges-fragment.md
+2025-08-14T10:19:53.987Z - info: Synchronizing opened pages list before reload
+2025-08-14T10:19:53.987Z - info: Current opened pages, from most-to-least recent:
+2025-08-14T10:19:53.987Z - info: 1. book/gitAndGithub/stage/index
+2025-08-14T10:19:54.991Z - info: Rebuilding 1 pages
+2025-08-14T10:19:55.182Z - info: Site data built
+2025-08-14T10:19:55.182Z - info: Pages rebuilt
+2025-08-14T10:19:55.182Z - info: Website regeneration complete! Total build time: 0.193s
+2025-08-14T10:20:25.833Z - info: Website generation started at 18:20:24
+2025-08-14T10:20:26.296Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-14T10:20:26.297Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-14T10:20:26.318Z - info: Building assets...
