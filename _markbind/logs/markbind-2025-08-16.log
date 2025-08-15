@@ -1,0 +1,43 @@
+2025-08-15T17:39:15.582Z - info: Website generation (lazy) started at 01:39:14
+2025-08-15T17:39:15.873Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-15T17:39:15.873Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-15T17:39:15.892Z - info: Building assets...
+2025-08-15T17:39:18.529Z - info: Assets built
+2025-08-15T17:39:18.530Z - info: Generating landing page...
+2025-08-15T17:39:18.895Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-15T17:39:18.969Z - info: Site data built
+2025-08-15T17:39:18.970Z - info: Website generation (lazy) complete! Total build time: 4.523s
+2025-08-15T17:39:18.979Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-08-15T17:39:18.979Z - info: Press CTRL+C to stop ...
+2025-08-15T17:39:23.763Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/instructors as some of its dependencies were changed since the last visit
+2025-08-15T17:39:24.007Z - info: Site data built
+2025-08-15T17:39:24.007Z - info: Lazy website regeneration complete! Total build time: 0.245s
+2025-08-15T17:39:57.837Z - info: [01:39:57] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/damith.jpg
+2025-08-15T17:39:57.838Z - info: Synchronizing opened pages list before reload
+2025-08-15T17:39:57.838Z - info: Current opened pages, from most-to-least recent:
+2025-08-15T17:39:57.838Z - info: 1. admin/instructors
+2025-08-15T17:39:58.947Z - debug: Assets removed
+2025-08-15T17:40:46.635Z - info: [01:40:46] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/damith-face-2025 (low res).png
+2025-08-15T17:40:46.636Z - info: Synchronizing opened pages list before reload
+2025-08-15T17:40:46.636Z - info: Current opened pages, from most-to-least recent:
+2025-08-15T17:40:46.636Z - info: 1. admin/instructors
+2025-08-15T17:40:47.715Z - info: Assets built
+2025-08-15T17:40:56.921Z - info: [01:40:56] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/damith-face-2025 (low res).png
+2025-08-15T17:40:56.921Z - info: Synchronizing opened pages list before reload
+2025-08-15T17:40:56.922Z - info: Current opened pages, from most-to-least recent:
+2025-08-15T17:40:56.922Z - info: 1. admin/instructors
+2025-08-15T17:40:57.013Z - info: [01:40:57] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/damith.png
+2025-08-15T17:40:57.013Z - info: Synchronizing opened pages list before reload
+2025-08-15T17:40:57.013Z - info: Current opened pages, from most-to-least recent:
+2025-08-15T17:40:57.013Z - info: 1. admin/instructors
+2025-08-15T17:40:58.013Z - debug: Assets removed
+2025-08-15T17:40:58.066Z - info: Assets built
+2025-08-15T18:21:19.151Z - info: [02:21:19] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/merge/detour-undoMerge-fragment.md
+2025-08-15T18:21:19.153Z - info: Synchronizing opened pages list before reload
+2025-08-15T18:21:19.154Z - info: Current opened pages, from most-to-least recent:
+2025-08-15T18:21:19.156Z - info: 1. admin/instructors
+2025-08-15T18:21:20.162Z - info: Assets built
+2025-08-15T19:10:51.478Z - info: Website generation started at 03:10:50
+2025-08-15T19:10:51.998Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-15T19:10:51.999Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-15T19:10:52.036Z - info: Building assets...
