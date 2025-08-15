@@ -162,3 +162,37 @@ Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/b
 2025-08-15T05:06:24.756Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-08-15T05:06:24.756Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-08-15T05:06:24.775Z - info: Building assets...
+2025-08-15T05:06:27.421Z - info: Assets built
+2025-08-15T05:06:27.422Z - info: Generating pages...
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:36.884Z - debug:  
+2025-08-15T05:06:39.198Z - debug:  
+2025-08-15T05:06:39.202Z - debug:  
+2025-08-15T05:06:39.225Z - debug:  
+2025-08-15T05:06:39.225Z - debug:  
+2025-08-15T05:06:39.278Z - debug:  
+2025-08-15T05:06:39.282Z - debug:  
+2025-08-15T05:06:48.508Z - debug:  
+2025-08-15T05:06:52.988Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/text.md is empty
+2025-08-15T05:07:46.672Z - debug:  
+2025-08-15T05:08:02.336Z - debug:  
+2025-08-15T05:08:02.353Z - debug:  
+2025-08-15T05:08:09.515Z - info: Pages built
+2025-08-15T05:08:09.587Z - info: Site data built
+2025-08-15T05:08:09.587Z - info: Website generation complete! Total build time: 106.341s
+2025-08-15T05:08:09.587Z - info: Build success!
+2025-08-15T05:08:34.539Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-08-15T07:19:11.050Z - info: Website generation started at 15:19:09
+2025-08-15T07:19:11.483Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-15T07:19:11.484Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-15T07:19:11.503Z - info: Building assets...
