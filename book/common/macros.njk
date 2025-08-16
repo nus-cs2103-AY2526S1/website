@@ -392,6 +392,15 @@ That aspect is covered in a detour **in the lesson [_{{ detour.lesson.title }}_]
 {% endmacro %}
 <!-- ============================================================ -->
 
+{% macro show_troubleshooting() %}
+<panel type="seamless" header="%%**:fas-screwdriver-wrench: Troubleshooting tips ...** (click to expand)%%">
+
+{{ caller() }}
+</panel>
+
+{% endmacro %}
+<!-- ============================================================ -->
+
 {% macro show_lesson_intro() %}
 <div class="non-printable">
 <div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color: #e6fff2">
