@@ -60,3 +60,620 @@
 2025-08-20T16:20:29.354Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
 2025-08-20T16:20:29.354Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
 2025-08-20T16:20:29.374Z - info: Building assets...
+2025-08-20T16:20:32.505Z - info: Assets built
+2025-08-20T16:20:32.508Z - info: Generating pages...
+2025-08-20T16:20:37.272Z - debug:  
+2025-08-20T16:20:37.272Z - debug:  
+2025-08-20T16:20:41.323Z - debug:  
+2025-08-20T16:20:41.324Z - debug:  
+2025-08-20T16:20:41.324Z - debug:  
+2025-08-20T16:20:41.324Z - debug:  
+2025-08-20T16:20:41.324Z - debug:  
+2025-08-20T16:20:41.324Z - debug:  
+2025-08-20T16:20:41.324Z - debug:  
+2025-08-20T16:20:41.324Z - debug:  
+2025-08-20T16:20:41.324Z - debug:  
+2025-08-20T16:20:43.928Z - debug:  
+2025-08-20T16:20:44.035Z - debug:  
+2025-08-20T16:20:44.122Z - debug:  
+2025-08-20T16:20:44.190Z - debug:  
+2025-08-20T16:20:44.199Z - debug:  
+2025-08-20T16:20:44.231Z - debug:  
+2025-08-20T16:20:54.627Z - debug:  
+2025-08-20T16:20:58.973Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/text.md is empty
+2025-08-20T16:21:51.838Z - debug:  
+2025-08-20T16:22:05.186Z - debug:  
+2025-08-20T16:22:05.198Z - debug:  
+2025-08-20T16:22:11.458Z - info: Pages built
+2025-08-20T16:22:11.544Z - info: Site data built
+2025-08-20T16:22:11.544Z - info: Website generation complete! Total build time: 103.304s
+2025-08-20T16:22:11.544Z - info: Build success!
+2025-08-20T16:22:37.222Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-08-20T16:31:07.889Z - info: Website generation (lazy) started at 00:31:06
+2025-08-20T16:31:08.303Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-20T16:31:08.303Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-20T16:31:08.323Z - info: Building assets...
+2025-08-20T16:31:11.816Z - info: Assets built
+2025-08-20T16:31:11.816Z - info: Generating landing page...
+2025-08-20T16:31:12.181Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-20T16:31:12.256Z - info: Site data built
+2025-08-20T16:31:12.256Z - info: Website generation (lazy) complete! Total build time: 5.543s
+2025-08-20T16:31:13.271Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:50810
+2025-08-20T16:31:13.271Z - info: Press CTRL+C to stop ...
+2025-08-20T16:38:05.211Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/index as some of its dependencies were changed since the last visit
+2025-08-20T16:38:05.659Z - info: Site data built
+2025-08-20T16:38:05.659Z - info: Lazy website regeneration complete! Total build time: 0.449s
+2025-08-20T16:38:07.698Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/index as some of its dependencies were changed since the last visit
+2025-08-20T16:38:08.121Z - info: Site data built
+2025-08-20T16:38:08.121Z - info: Lazy website regeneration complete! Total build time: 0.423s
+2025-08-20T16:38:11.200Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/topics as some of its dependencies were changed since the last visit
+2025-08-20T16:38:14.190Z - debug:  
+2025-08-20T16:38:14.293Z - debug:  
+2025-08-20T16:38:14.303Z - debug:  
+2025-08-20T16:38:14.304Z - debug:  
+2025-08-20T16:38:14.309Z - debug:  
+2025-08-20T16:38:14.352Z - debug:  
+2025-08-20T16:38:14.352Z - debug:  
+2025-08-20T16:38:14.352Z - debug:  
+2025-08-20T16:38:14.352Z - debug:  
+2025-08-20T16:38:14.543Z - debug:  
+2025-08-20T16:38:14.543Z - debug:  
+2025-08-20T16:38:14.549Z - debug:  
+2025-08-20T16:38:14.549Z - debug:  
+2025-08-20T16:38:14.611Z - info: Site data built
+2025-08-20T16:38:14.611Z - info: Lazy website regeneration complete! Total build time: 3.411s
+2025-08-20T16:38:39.228Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T16:38:39.394Z - info: Site data built
+2025-08-20T16:38:39.394Z - info: Lazy website regeneration complete! Total build time: 0.167s
+2025-08-20T16:44:38.630Z - info: [00:44:38] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T16:44:38.631Z - info: Synchronizing opened pages list before reload
+2025-08-20T16:44:38.632Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T16:44:38.633Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T16:44:38.633Z - info: 2. schedule/week4/topics
+2025-08-20T16:44:38.724Z - info: [00:44:38] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T16:44:38.724Z - info: Synchronizing opened pages list before reload
+2025-08-20T16:44:38.724Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T16:44:38.724Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T16:44:38.725Z - info: 2. schedule/week4/topics
+2025-08-20T16:44:39.642Z - info: Rebuilding 1 pages
+2025-08-20T16:44:40.494Z - info: Site data built
+2025-08-20T16:44:40.494Z - info: Pages rebuilt
+2025-08-20T16:44:40.494Z - info: Website regeneration complete! Total build time: 0.855s
+2025-08-20T16:44:41.664Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T16:44:41.724Z - info: Site data built
+2025-08-20T16:44:41.724Z - info: Lazy website regeneration complete! Total build time: 0.06s
+2025-08-20T16:45:21.934Z - info: [00:45:21] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T16:45:21.936Z - info: Synchronizing opened pages list before reload
+2025-08-20T16:45:21.936Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T16:45:21.936Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T16:45:21.936Z - info: 2. schedule/week4/topics
+2025-08-20T16:45:22.950Z - info: Rebuilding 1 pages
+2025-08-20T16:45:23.718Z - info: Site data built
+2025-08-20T16:45:23.718Z - info: Pages rebuilt
+2025-08-20T16:45:23.718Z - info: Website regeneration complete! Total build time: 0.777s
+2025-08-20T16:45:24.881Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T16:45:24.940Z - info: Site data built
+2025-08-20T16:45:24.941Z - info: Lazy website regeneration complete! Total build time: 0.061s
+2025-08-20T16:49:58.086Z - info: [00:49:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T16:49:58.087Z - info: Synchronizing opened pages list before reload
+2025-08-20T16:49:58.087Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T16:49:58.087Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T16:49:58.087Z - info: 2. schedule/week4/topics
+2025-08-20T16:49:59.095Z - info: Rebuilding 1 pages
+2025-08-20T16:49:59.920Z - info: Site data built
+2025-08-20T16:49:59.920Z - info: Pages rebuilt
+2025-08-20T16:49:59.920Z - info: Website regeneration complete! Total build time: 0.828s
+2025-08-20T16:50:00.862Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T16:50:00.916Z - info: Site data built
+2025-08-20T16:50:00.916Z - info: Lazy website regeneration complete! Total build time: 0.054s
+2025-08-20T16:50:11.554Z - info: [00:50:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T16:50:11.554Z - info: Synchronizing opened pages list before reload
+2025-08-20T16:50:11.555Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T16:50:11.555Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T16:50:11.555Z - info: 2. schedule/week4/topics
+2025-08-20T16:50:12.562Z - info: Rebuilding 1 pages
+2025-08-20T16:50:13.350Z - info: Site data built
+2025-08-20T16:50:13.350Z - info: Pages rebuilt
+2025-08-20T16:50:13.350Z - info: Website regeneration complete! Total build time: 0.791s
+2025-08-20T16:50:14.515Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T16:50:14.576Z - info: Site data built
+2025-08-20T16:50:14.577Z - info: Lazy website regeneration complete! Total build time: 0.062s
+2025-08-20T16:54:53.960Z - info: [00:54:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T16:54:53.962Z - info: Synchronizing opened pages list before reload
+2025-08-20T16:54:53.963Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T16:54:53.964Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T16:54:53.964Z - info: 2. schedule/week4/topics
+2025-08-20T16:54:53.966Z - info: [00:54:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-08-20T16:54:53.967Z - info: Synchronizing opened pages list before reload
+2025-08-20T16:54:53.967Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T16:54:53.967Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T16:54:53.967Z - info: 2. schedule/week4/topics
+2025-08-20T16:54:54.975Z - info: Rebuilding 1 pages
+2025-08-20T16:54:55.787Z - info: Site data built
+2025-08-20T16:54:55.787Z - info: Pages rebuilt
+2025-08-20T16:54:55.787Z - info: Website regeneration complete! Total build time: 0.816s
+2025-08-20T16:54:56.932Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T16:54:57.007Z - info: Site data built
+2025-08-20T16:54:57.007Z - info: Lazy website regeneration complete! Total build time: 0.075s
+2025-08-20T16:56:02.622Z - info: [00:56:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/createPRs/text.md
+2025-08-20T16:56:02.625Z - info: Synchronizing opened pages list before reload
+2025-08-20T16:56:02.635Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T16:56:02.638Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T16:56:02.638Z - info: 2. schedule/week4/topics
+2025-08-20T16:56:03.668Z - info: No pages needed to be rebuilt
+2025-08-20T16:56:52.379Z - info: [00:56:52] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T16:56:52.381Z - info: Synchronizing opened pages list before reload
+2025-08-20T16:56:52.383Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T16:56:52.383Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T16:56:52.383Z - info: 2. schedule/week4/topics
+2025-08-20T16:56:53.390Z - info: Rebuilding 1 pages
+2025-08-20T16:56:54.278Z - info: Site data built
+2025-08-20T16:56:54.278Z - info: Pages rebuilt
+2025-08-20T16:56:54.278Z - info: Website regeneration complete! Total build time: 0.891s
+2025-08-20T16:56:55.429Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T16:56:55.511Z - info: Site data built
+2025-08-20T16:56:55.511Z - info: Lazy website regeneration complete! Total build time: 0.083s
+2025-08-20T17:13:34.196Z - info: [01:13:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:13:34.203Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:13:34.206Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:13:34.207Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:13:34.207Z - info: 2. schedule/week4/topics
+2025-08-20T17:13:35.246Z - info: Rebuilding 1 pages
+2025-08-20T17:13:36.100Z - info: Site data built
+2025-08-20T17:13:36.100Z - info: Pages rebuilt
+2025-08-20T17:13:36.100Z - info: Website regeneration complete! Total build time: 0.875s
+2025-08-20T17:13:37.241Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:13:37.306Z - info: Site data built
+2025-08-20T17:13:37.306Z - info: Lazy website regeneration complete! Total build time: 0.065s
+2025-08-20T17:15:34.400Z - info: [01:15:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:15:34.406Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:15:34.410Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:15:34.410Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:15:34.410Z - info: 2. schedule/week4/topics
+2025-08-20T17:15:35.419Z - info: Rebuilding 1 pages
+2025-08-20T17:15:36.217Z - info: Site data built
+2025-08-20T17:15:36.217Z - info: Pages rebuilt
+2025-08-20T17:15:36.217Z - info: Website regeneration complete! Total build time: 0.801s
+2025-08-20T17:15:37.361Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:15:37.429Z - info: Site data built
+2025-08-20T17:15:37.429Z - info: Lazy website regeneration complete! Total build time: 0.068s
+2025-08-20T17:16:00.701Z - info: [01:16:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:16:00.703Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:16:00.703Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:16:00.703Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:16:00.703Z - info: 2. schedule/week4/topics
+2025-08-20T17:16:01.714Z - info: Rebuilding 1 pages
+2025-08-20T17:16:02.577Z - info: Site data built
+2025-08-20T17:16:02.577Z - info: Pages rebuilt
+2025-08-20T17:16:02.577Z - info: Website regeneration complete! Total build time: 0.866s
+2025-08-20T17:16:03.734Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:16:03.800Z - info: Site data built
+2025-08-20T17:16:03.800Z - info: Lazy website regeneration complete! Total build time: 0.066s
+2025-08-20T17:16:35.540Z - info: [01:16:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:16:35.544Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:16:35.548Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:16:35.548Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:16:35.548Z - info: 2. schedule/week4/topics
+2025-08-20T17:16:36.561Z - info: Rebuilding 1 pages
+2025-08-20T17:16:37.360Z - info: Site data built
+2025-08-20T17:16:37.360Z - info: Pages rebuilt
+2025-08-20T17:16:37.360Z - info: Website regeneration complete! Total build time: 0.802s
+2025-08-20T17:16:38.496Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:16:38.566Z - info: Site data built
+2025-08-20T17:16:38.566Z - info: Lazy website regeneration complete! Total build time: 0.071s
+2025-08-20T17:17:09.676Z - info: [01:17:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:17:09.677Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:17:09.677Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:17:09.678Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:17:09.678Z - info: 2. schedule/week4/topics
+2025-08-20T17:17:10.697Z - info: Rebuilding 1 pages
+2025-08-20T17:17:11.567Z - info: Site data built
+2025-08-20T17:17:11.567Z - info: Pages rebuilt
+2025-08-20T17:17:11.567Z - info: Website regeneration complete! Total build time: 0.873s
+2025-08-20T17:17:12.693Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:17:12.766Z - info: Site data built
+2025-08-20T17:17:12.766Z - info: Lazy website regeneration complete! Total build time: 0.073s
+2025-08-20T17:20:28.217Z - info: [01:20:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:20:28.218Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:20:28.219Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:20:28.219Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:20:28.219Z - info: 2. schedule/week4/topics
+2025-08-20T17:20:28.220Z - info: [01:20:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-08-20T17:20:28.220Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:20:28.220Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:20:28.220Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:20:28.220Z - info: 2. schedule/week4/topics
+2025-08-20T17:20:29.231Z - info: Rebuilding 1 pages
+2025-08-20T17:20:29.994Z - info: Site data built
+2025-08-20T17:20:29.994Z - info: Pages rebuilt
+2025-08-20T17:20:29.994Z - info: Website regeneration complete! Total build time: 0.766s
+2025-08-20T17:20:31.166Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:20:31.230Z - info: Site data built
+2025-08-20T17:20:31.230Z - info: Lazy website regeneration complete! Total build time: 0.064s
+2025-08-20T17:22:04.859Z - info: [01:22:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:22:04.862Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:22:04.863Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:22:04.863Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:22:04.863Z - info: 2. schedule/week4/topics
+2025-08-20T17:22:04.874Z - info: [01:22:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-08-20T17:22:04.874Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:22:04.874Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:22:04.874Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:22:04.874Z - info: 2. schedule/week4/topics
+2025-08-20T17:22:05.875Z - info: Rebuilding 1 pages
+2025-08-20T17:22:06.677Z - info: Site data built
+2025-08-20T17:22:06.677Z - info: Pages rebuilt
+2025-08-20T17:22:06.677Z - info: Website regeneration complete! Total build time: 0.807s
+2025-08-20T17:22:07.854Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:22:07.921Z - info: Site data built
+2025-08-20T17:22:07.921Z - info: Lazy website regeneration complete! Total build time: 0.067s
+2025-08-20T17:22:18.437Z - info: [01:22:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-08-20T17:22:18.437Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:22:18.438Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:22:18.438Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:22:18.438Z - info: 2. schedule/week4/topics
+2025-08-20T17:22:19.454Z - info: Rebuilding 1 pages
+2025-08-20T17:22:20.227Z - info: Site data built
+2025-08-20T17:22:20.228Z - info: Pages rebuilt
+2025-08-20T17:22:20.228Z - info: Website regeneration complete! Total build time: 0.775s
+2025-08-20T17:22:21.370Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:22:21.437Z - info: Site data built
+2025-08-20T17:22:21.437Z - info: Lazy website regeneration complete! Total build time: 0.068s
+2025-08-20T17:23:24.929Z - info: [01:23:24] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:23:24.938Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:23:24.941Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:23:24.941Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:23:24.941Z - info: 2. schedule/week4/topics
+2025-08-20T17:23:25.994Z - info: Rebuilding 1 pages
+2025-08-20T17:23:26.793Z - info: Site data built
+2025-08-20T17:23:26.793Z - info: Pages rebuilt
+2025-08-20T17:23:26.793Z - info: Website regeneration complete! Total build time: 0.802s
+2025-08-20T17:23:27.943Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:23:28.014Z - info: Site data built
+2025-08-20T17:23:28.014Z - info: Lazy website regeneration complete! Total build time: 0.071s
+2025-08-20T17:24:12.600Z - info: [01:24:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:24:12.606Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:24:12.608Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:24:12.608Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:24:12.608Z - info: 2. schedule/week4/topics
+2025-08-20T17:24:13.621Z - info: Rebuilding 1 pages
+2025-08-20T17:24:14.431Z - info: Site data built
+2025-08-20T17:24:14.432Z - info: Pages rebuilt
+2025-08-20T17:24:14.432Z - info: Website regeneration complete! Total build time: 0.814s
+2025-08-20T17:24:15.568Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:24:15.640Z - info: Site data built
+2025-08-20T17:24:15.640Z - info: Lazy website regeneration complete! Total build time: 0.072s
+2025-08-20T17:25:15.792Z - info: [01:25:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:25:15.792Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:25:15.793Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:25:15.793Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:25:15.793Z - info: 2. schedule/week4/topics
+2025-08-20T17:25:16.813Z - info: Rebuilding 1 pages
+2025-08-20T17:25:17.724Z - info: Site data built
+2025-08-20T17:25:17.724Z - info: Pages rebuilt
+2025-08-20T17:25:17.724Z - info: Website regeneration complete! Total build time: 0.913s
+2025-08-20T17:25:18.867Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:25:18.944Z - info: Site data built
+2025-08-20T17:25:18.944Z - info: Lazy website regeneration complete! Total build time: 0.077s
+2025-08-20T17:26:33.107Z - info: [01:26:33] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:26:33.108Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:26:33.109Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:26:33.109Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:26:33.109Z - info: 2. schedule/week4/topics
+2025-08-20T17:26:33.111Z - info: [01:26:33] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/resources.md
+2025-08-20T17:26:33.111Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:26:33.111Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:26:33.111Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:26:33.111Z - info: 2. schedule/week4/topics
+2025-08-20T17:26:34.127Z - info: Rebuilding 1 pages
+2025-08-20T17:26:34.923Z - info: Site data built
+2025-08-20T17:26:34.923Z - info: Pages rebuilt
+2025-08-20T17:26:34.923Z - info: Website regeneration complete! Total build time: 0.8s
+2025-08-20T17:26:36.069Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:26:36.134Z - info: Site data built
+2025-08-20T17:26:36.134Z - info: Lazy website regeneration complete! Total build time: 0.065s
+2025-08-20T17:26:47.567Z - info: [01:26:47] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/resources.md
+2025-08-20T17:26:47.567Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:26:47.567Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:26:47.567Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:26:47.567Z - info: 2. schedule/week4/topics
+2025-08-20T17:26:48.717Z - debug: Assets removed
+2025-08-20T17:27:32.136Z - info: [01:27:32] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:27:32.140Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:27:32.142Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:27:32.142Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:27:32.142Z - info: 2. schedule/week4/topics
+2025-08-20T17:27:33.171Z - info: Rebuilding 1 pages
+2025-08-20T17:27:33.973Z - info: Site data built
+2025-08-20T17:27:33.973Z - info: Pages rebuilt
+2025-08-20T17:27:33.973Z - info: Website regeneration complete! Total build time: 0.805s
+2025-08-20T17:27:35.126Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:27:35.198Z - info: Site data built
+2025-08-20T17:27:35.198Z - info: Lazy website regeneration complete! Total build time: 0.073s
+2025-08-20T17:27:57.424Z - info: [01:27:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T17:27:57.427Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:27:57.428Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:27:57.428Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:27:57.428Z - info: 2. schedule/week4/topics
+2025-08-20T17:27:58.441Z - info: Rebuilding 1 pages
+2025-08-20T17:27:59.242Z - info: Site data built
+2025-08-20T17:27:59.242Z - info: Pages rebuilt
+2025-08-20T17:27:59.242Z - info: Website regeneration complete! Total build time: 0.803s
+2025-08-20T17:28:00.387Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:28:00.459Z - info: Site data built
+2025-08-20T17:28:00.459Z - info: Lazy website regeneration complete! Total build time: 0.072s
+2025-08-20T17:28:46.256Z - info: [01:28:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T17:28:46.260Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:28:46.263Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:28:46.263Z - info: 1. ../book/gitAndGithub/reviewPRs/index
+2025-08-20T17:28:46.264Z - info: 2. schedule/week4/topics
+2025-08-20T17:28:47.275Z - info: Assets built
+2025-08-20T17:28:51.205Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week5/index as some of its dependencies were changed since the last visit
+2025-08-20T17:28:51.718Z - info: Site data built
+2025-08-20T17:28:51.718Z - info: Lazy website regeneration complete! Total build time: 0.519s
+2025-08-20T17:28:56.208Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week5/topics as some of its dependencies were changed since the last visit
+2025-08-20T17:28:56.985Z - info: Site data built
+2025-08-20T17:28:56.985Z - info: Lazy website regeneration complete! Total build time: 0.777s
+2025-08-20T17:29:05.068Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:29:05.216Z - info: Site data built
+2025-08-20T17:29:05.217Z - info: Lazy website regeneration complete! Total build time: 0.149s
+2025-08-20T17:32:27.378Z - info: [01:32:27] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T17:32:27.382Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:32:27.384Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:32:27.385Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T17:32:27.385Z - info: 2. schedule/week5/topics
+2025-08-20T17:32:28.392Z - info: Rebuilding 1 pages
+2025-08-20T17:32:29.324Z - info: Site data built
+2025-08-20T17:32:29.324Z - info: Pages rebuilt
+2025-08-20T17:32:29.325Z - info: Website regeneration complete! Total build time: 0.935s
+2025-08-20T17:32:30.468Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:32:30.569Z - info: Site data built
+2025-08-20T17:32:30.569Z - info: Lazy website regeneration complete! Total build time: 0.102s
+2025-08-20T17:33:15.324Z - info: [01:33:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T17:33:15.328Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:33:15.333Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:33:15.333Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T17:33:15.333Z - info: 2. schedule/week5/topics
+2025-08-20T17:33:16.353Z - info: Rebuilding 1 pages
+2025-08-20T17:33:17.264Z - info: Site data built
+2025-08-20T17:33:17.264Z - info: Pages rebuilt
+2025-08-20T17:33:17.264Z - info: Website regeneration complete! Total build time: 0.915s
+2025-08-20T17:33:18.401Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:33:18.469Z - info: Site data built
+2025-08-20T17:33:18.469Z - info: Lazy website regeneration complete! Total build time: 0.068s
+2025-08-20T17:34:20.352Z - info: [01:34:20] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T17:34:20.367Z - info: Synchronizing opened pages list before reload
+2025-08-20T17:34:20.369Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T17:34:20.369Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T17:34:20.370Z - info: 2. schedule/week5/topics
+2025-08-20T17:34:21.380Z - info: Rebuilding 1 pages
+2025-08-20T17:34:22.260Z - info: Site data built
+2025-08-20T17:34:22.260Z - info: Pages rebuilt
+2025-08-20T17:34:22.260Z - info: Website regeneration complete! Total build time: 0.883s
+2025-08-20T17:34:23.401Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T17:34:23.479Z - info: Site data built
+2025-08-20T17:34:23.479Z - info: Lazy website regeneration complete! Total build time: 0.078s
+2025-08-20T18:41:36.515Z - info: [02:41:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T18:41:36.522Z - info: Synchronizing opened pages list before reload
+2025-08-20T18:41:36.524Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T18:41:36.524Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T18:41:36.524Z - info: 2. schedule/week5/topics
+2025-08-20T18:41:37.555Z - info: Rebuilding 1 pages
+2025-08-20T18:41:38.643Z - info: Site data built
+2025-08-20T18:41:38.644Z - info: Pages rebuilt
+2025-08-20T18:41:38.644Z - info: Website regeneration complete! Total build time: 1.107s
+2025-08-20T18:41:39.866Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T18:41:40.005Z - info: Site data built
+2025-08-20T18:41:40.006Z - info: Lazy website regeneration complete! Total build time: 0.14s
+2025-08-20T18:44:00.432Z - info: [02:44:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/reviewPRs/text.md
+2025-08-20T18:44:00.433Z - info: Synchronizing opened pages list before reload
+2025-08-20T18:44:00.434Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T18:44:00.434Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T18:44:00.434Z - info: 2. schedule/week5/topics
+2025-08-20T18:44:00.436Z - info: [02:44:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T18:44:00.436Z - info: Synchronizing opened pages list before reload
+2025-08-20T18:44:00.436Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T18:44:00.436Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T18:44:00.437Z - info: 2. schedule/week5/topics
+2025-08-20T18:44:01.444Z - info: Rebuilding 1 pages
+2025-08-20T18:44:02.466Z - info: Site data built
+2025-08-20T18:44:02.466Z - info: Pages rebuilt
+2025-08-20T18:44:02.466Z - info: Website regeneration complete! Total build time: 1.025s
+2025-08-20T18:44:03.612Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T18:44:03.691Z - info: Site data built
+2025-08-20T18:44:03.691Z - info: Lazy website regeneration complete! Total build time: 0.079s
+2025-08-20T18:45:36.682Z - info: [02:45:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T18:45:36.686Z - info: Synchronizing opened pages list before reload
+2025-08-20T18:45:36.687Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T18:45:36.687Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T18:45:36.688Z - info: 2. schedule/week5/topics
+2025-08-20T18:45:37.696Z - info: Rebuilding 1 pages
+2025-08-20T18:45:38.621Z - info: Site data built
+2025-08-20T18:45:38.622Z - info: Pages rebuilt
+2025-08-20T18:45:38.622Z - info: Website regeneration complete! Total build time: 0.93s
+2025-08-20T18:45:39.758Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T18:45:39.840Z - info: Site data built
+2025-08-20T18:45:39.840Z - info: Lazy website regeneration complete! Total build time: 0.082s
+2025-08-20T18:48:04.046Z - info: [02:48:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T18:48:04.051Z - info: Synchronizing opened pages list before reload
+2025-08-20T18:48:04.057Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T18:48:04.058Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T18:48:04.058Z - info: 2. schedule/week5/topics
+2025-08-20T18:48:05.082Z - info: Rebuilding 1 pages
+2025-08-20T18:48:06.000Z - info: Site data built
+2025-08-20T18:48:06.000Z - info: Pages rebuilt
+2025-08-20T18:48:06.000Z - info: Website regeneration complete! Total build time: 0.92s
+2025-08-20T18:48:07.151Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T18:48:07.229Z - info: Site data built
+2025-08-20T18:48:07.229Z - info: Lazy website regeneration complete! Total build time: 0.078s
+2025-08-20T18:55:34.302Z - info: [02:55:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T18:55:34.304Z - info: Synchronizing opened pages list before reload
+2025-08-20T18:55:34.306Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T18:55:34.306Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T18:55:34.306Z - info: 2. schedule/week5/topics
+2025-08-20T18:55:35.316Z - info: Rebuilding 1 pages
+2025-08-20T18:55:36.215Z - info: Site data built
+2025-08-20T18:55:36.215Z - info: Pages rebuilt
+2025-08-20T18:55:36.215Z - info: Website regeneration complete! Total build time: 0.902s
+2025-08-20T18:55:37.355Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T18:55:37.430Z - info: Site data built
+2025-08-20T18:55:37.430Z - info: Lazy website regeneration complete! Total build time: 0.075s
+2025-08-20T18:56:28.469Z - info: [02:56:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T18:56:28.471Z - info: Synchronizing opened pages list before reload
+2025-08-20T18:56:28.472Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T18:56:28.473Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T18:56:28.473Z - info: 2. schedule/week5/topics
+2025-08-20T18:56:29.483Z - info: Rebuilding 1 pages
+2025-08-20T18:56:30.364Z - info: Site data built
+2025-08-20T18:56:30.365Z - info: Pages rebuilt
+2025-08-20T18:56:30.365Z - info: Website regeneration complete! Total build time: 0.885s
+2025-08-20T18:56:31.504Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T18:56:31.584Z - info: Site data built
+2025-08-20T18:56:31.584Z - info: Lazy website regeneration complete! Total build time: 0.08s
+2025-08-20T18:57:07.873Z - info: [02:57:07] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/text.md
+2025-08-20T18:57:07.880Z - info: Synchronizing opened pages list before reload
+2025-08-20T18:57:07.887Z - info: Current opened pages, from most-to-least recent:
+2025-08-20T18:57:07.889Z - info: 1. ../book/gitAndGithub/managePRs/index
+2025-08-20T18:57:07.889Z - info: 2. schedule/week5/topics
+2025-08-20T18:57:08.910Z - info: Rebuilding 1 pages
+2025-08-20T18:57:09.805Z - info: Site data built
+2025-08-20T18:57:09.805Z - info: Pages rebuilt
+2025-08-20T18:57:09.805Z - info: Website regeneration complete! Total build time: 0.898s
+2025-08-20T18:57:10.945Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/managePRs/index as some of its dependencies were changed since the last visit
+2025-08-20T18:57:11.022Z - info: Site data built
+2025-08-20T18:57:11.022Z - info: Lazy website regeneration complete! Total build time: 0.077s
+2025-08-20T18:57:40.518Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/index as some of its dependencies were changed since the last visit
+2025-08-20T18:57:41.000Z - info: Site data built
+2025-08-20T18:57:41.000Z - info: Lazy website regeneration complete! Total build time: 0.483s
+2025-08-20T18:57:44.964Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/admin as some of its dependencies were changed since the last visit
+2025-08-20T18:57:45.152Z - info: Site data built
+2025-08-20T18:57:45.152Z - info: Lazy website regeneration complete! Total build time: 0.188s
+2025-08-20T18:58:42.297Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/project as some of its dependencies were changed since the last visit
+2025-08-20T18:58:43.447Z - info: Site data built
+2025-08-20T18:58:43.447Z - info: Lazy website regeneration complete! Total build time: 1.15s
+2025-08-20T19:00:25.904Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/tutorial as some of its dependencies were changed since the last visit
+2025-08-20T19:00:26.125Z - info: Site data built
+2025-08-20T19:00:26.125Z - info: Lazy website regeneration complete! Total build time: 0.221s
+2025-08-20T19:00:38.722Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/index as some of its dependencies were changed since the last visit
+2025-08-20T19:00:39.090Z - info: Site data built
+2025-08-20T19:00:39.091Z - info: Lazy website regeneration complete! Total build time: 0.369s
+2025-08-20T19:00:41.809Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/tutorial as some of its dependencies were changed since the last visit
+2025-08-20T19:00:42.546Z - info: Site data built
+2025-08-20T19:00:42.546Z - info: Lazy website regeneration complete! Total build time: 0.737s
+2025-08-20T19:01:42.242Z - info: Website generation started at 03:01:41
+2025-08-20T19:01:42.733Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-20T19:01:42.734Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-20T19:01:42.753Z - info: Building assets...
+2025-08-20T19:01:45.499Z - info: Assets built
+2025-08-20T19:01:45.500Z - info: Generating pages...
+2025-08-20T19:01:50.768Z - debug:  
+2025-08-20T19:01:50.768Z - debug:  
+2025-08-20T19:01:54.891Z - debug:  
+2025-08-20T19:01:54.891Z - debug:  
+2025-08-20T19:01:54.891Z - debug:  
+2025-08-20T19:01:54.891Z - debug:  
+2025-08-20T19:01:54.891Z - debug:  
+2025-08-20T19:01:54.891Z - debug:  
+2025-08-20T19:01:54.891Z - debug:  
+2025-08-20T19:01:54.891Z - debug:  
+2025-08-20T19:01:54.891Z - debug:  
+2025-08-20T19:01:57.393Z - debug:  
+2025-08-20T19:01:57.461Z - debug:  
+2025-08-20T19:01:57.463Z - debug:  
+2025-08-20T19:01:57.476Z - debug:  
+2025-08-20T19:01:57.490Z - debug:  
+2025-08-20T19:01:57.493Z - debug:  
+2025-08-20T19:02:06.767Z - debug:  
+2025-08-20T19:02:11.231Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/text.md is empty
+2025-08-20T19:03:04.558Z - debug:  
+2025-08-20T19:03:19.159Z - debug:  
+2025-08-20T19:03:19.498Z - debug:  
+2025-08-20T19:03:26.287Z - info: Pages built
+2025-08-20T19:03:26.361Z - info: Site data built
+2025-08-20T19:03:26.361Z - info: Website generation complete! Total build time: 105.292s
+2025-08-20T19:03:26.361Z - info: Build success!
+2025-08-20T23:41:37.580Z - error: uncaughtException: Cloning into '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git'...
+error: RPC failed; curl 56 Recv failure: Operation timed out
+error: 1678 bytes of body are still expected
+fetch-pack: unexpected disconnect while reading sideband packet
+fatal: early EOF
+fatal: fetch-pack: invalid index-pack output
+ date=Thu Aug 21 2025 07:41:37 GMT+0800 (Singapore Standard Time), pid=1170, uid=502, gid=20, cwd=/Users/damithch/Repos/nus-cs2103/cs2103-website-base, execPath=/opt/homebrew/Cellar/node@20/20.18.1/bin/node, version=v20.18.1, argv=[/opt/homebrew/Cellar/node@20/20.18.1/bin/node, /opt/homebrew/bin/markbind, deploy], rss=33013760, heapTotal=726155264, heapUsed=575569504, external=2311034, arrayBuffers=95109, loadavg=[5.13720703125, 7.05908203125, 7.7138671875], uptime=376370
+ProcessError: Cloning into '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git'...
+error: RPC failed; curl 56 Recv failure: Operation timed out
+error: 1678 bytes of body are still expected
+fetch-pack: unexpected disconnect while reading sideband packet
+fatal: early EOF
+fatal: fetch-pack: invalid index-pack output
+
+    at ChildProcess.<anonymous> (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/gh-pages/lib/git.js:42:16)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1104:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-08-21T06:52:25.394Z - info: Website generation (lazy) started at 14:52:24
+2025-08-21T06:52:25.815Z - info: Building assets...
+2025-08-21T06:52:27.106Z - info: Assets built
+2025-08-21T06:52:27.107Z - info: Generating landing page...
+2025-08-21T06:52:27.458Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-21T06:52:27.538Z - info: Site data built
+2025-08-21T06:52:27.538Z - info: Website generation (lazy) complete! Total build time: 3.466s
+2025-08-21T06:52:28.555Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:61450
+2025-08-21T06:52:28.555Z - info: Press CTRL+C to stop ...
+2025-08-21T06:52:32.407Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/index as some of its dependencies were changed since the last visit
+2025-08-21T06:52:32.847Z - info: Site data built
+2025-08-21T06:52:32.847Z - info: Lazy website regeneration complete! Total build time: 0.442s
+2025-08-21T06:52:37.963Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/project as some of its dependencies were changed since the last visit
+2025-08-21T06:52:39.547Z - info: Site data built
+2025-08-21T06:52:39.547Z - info: Lazy website regeneration complete! Total build time: 1.584s
+2025-08-21T06:53:24.648Z - info: [14:53:24] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-21T06:53:24.652Z - info: Synchronizing opened pages list before reload
+2025-08-21T06:53:24.653Z - info: Current opened pages, from most-to-least recent:
+2025-08-21T06:53:24.653Z - info: 1. schedule/week3/project
+2025-08-21T06:53:25.665Z - info: Rebuilding 1 pages
+2025-08-21T06:53:26.801Z - info: Site data built
+2025-08-21T06:53:26.801Z - info: Pages rebuilt
+2025-08-21T06:53:26.801Z - info: Website regeneration complete! Total build time: 1.141s
+2025-08-21T06:53:45.159Z - info: [14:53:45] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-21T06:53:45.161Z - info: Synchronizing opened pages list before reload
+2025-08-21T06:53:45.163Z - info: Current opened pages, from most-to-least recent:
+2025-08-21T06:53:45.164Z - info: 1. schedule/week3/project
+2025-08-21T06:53:46.195Z - info: Rebuilding 1 pages
+2025-08-21T06:53:47.349Z - info: Site data built
+2025-08-21T06:53:47.349Z - info: Pages rebuilt
+2025-08-21T06:53:47.349Z - info: Website regeneration complete! Total build time: 1.156s
+2025-08-21T06:57:37.102Z - info: [14:57:37] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-21T06:57:37.113Z - info: Synchronizing opened pages list before reload
+2025-08-21T06:57:37.115Z - info: Current opened pages, from most-to-least recent:
+2025-08-21T06:57:37.116Z - info: 1. schedule/week3/project
+2025-08-21T06:57:38.134Z - info: Rebuilding 1 pages
+2025-08-21T06:57:39.310Z - info: Site data built
+2025-08-21T06:57:39.310Z - info: Pages rebuilt
+2025-08-21T06:57:39.310Z - info: Website regeneration complete! Total build time: 1.179s
+2025-08-21T06:58:06.364Z - info: [14:58:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-21T06:58:06.373Z - info: Synchronizing opened pages list before reload
+2025-08-21T06:58:06.376Z - info: Current opened pages, from most-to-least recent:
+2025-08-21T06:58:06.376Z - info: 1. schedule/week3/project
+2025-08-21T06:58:07.393Z - info: Rebuilding 1 pages
+2025-08-21T06:58:08.555Z - info: Site data built
+2025-08-21T06:58:08.555Z - info: Pages rebuilt
+2025-08-21T06:58:08.555Z - info: Website regeneration complete! Total build time: 1.169s
+2025-08-21T06:58:25.984Z - info: [14:58:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-21T06:58:25.989Z - info: Synchronizing opened pages list before reload
+2025-08-21T06:58:25.992Z - info: Current opened pages, from most-to-least recent:
+2025-08-21T06:58:25.993Z - info: 1. schedule/week3/project
+2025-08-21T06:58:27.008Z - info: Rebuilding 1 pages
+2025-08-21T06:58:28.146Z - info: Site data built
+2025-08-21T06:58:28.146Z - info: Pages rebuilt
+2025-08-21T06:58:28.146Z - info: Website regeneration complete! Total build time: 1.141s
+2025-08-21T06:59:02.241Z - info: [14:59:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-21T06:59:02.242Z - info: Synchronizing opened pages list before reload
+2025-08-21T06:59:02.243Z - info: Current opened pages, from most-to-least recent:
+2025-08-21T06:59:02.243Z - info: 1. schedule/week3/project
+2025-08-21T06:59:03.257Z - info: Rebuilding 1 pages
+2025-08-21T06:59:04.409Z - info: Site data built
+2025-08-21T06:59:04.409Z - info: Pages rebuilt
+2025-08-21T06:59:04.409Z - info: Website regeneration complete! Total build time: 1.154s
+2025-08-21T06:59:28.807Z - info: Website generation started at 14:59:28
+2025-08-21T06:59:29.137Z - info: Building assets...
