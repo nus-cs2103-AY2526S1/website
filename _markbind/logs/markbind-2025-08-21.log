@@ -711,3 +711,33 @@ Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/b
 2025-08-21T14:24:20.921Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-08-21T14:24:20.921Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-08-21T14:24:20.941Z - info: Building assets...
+2025-08-21T14:24:23.482Z - info: Assets built
+2025-08-21T14:24:23.483Z - info: Generating pages...
+2025-08-21T14:24:28.124Z - debug:  
+2025-08-21T14:24:28.124Z - debug:  
+2025-08-21T14:24:31.544Z - debug:  
+2025-08-21T14:24:31.546Z - debug:  
+2025-08-21T14:24:31.546Z - debug:  
+2025-08-21T14:24:31.546Z - debug:  
+2025-08-21T14:24:31.546Z - debug:  
+2025-08-21T14:24:31.546Z - debug:  
+2025-08-21T14:24:31.547Z - debug:  
+2025-08-21T14:24:31.547Z - debug:  
+2025-08-21T14:24:31.547Z - debug:  
+2025-08-21T14:24:34.266Z - debug:  
+2025-08-21T14:24:34.443Z - debug:  
+2025-08-21T14:24:34.515Z - debug:  
+2025-08-21T14:24:34.526Z - debug:  
+2025-08-21T14:24:34.530Z - debug:  
+2025-08-21T14:24:34.530Z - debug:  
+2025-08-21T14:24:44.656Z - debug:  
+2025-08-21T14:24:49.439Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/log/text.md is empty
+2025-08-21T14:25:45.021Z - debug:  
+2025-08-21T14:25:57.860Z - debug:  
+2025-08-21T14:25:57.886Z - debug:  
+2025-08-21T14:26:04.936Z - info: Pages built
+2025-08-21T14:26:05.011Z - info: Site data built
+2025-08-21T14:26:05.011Z - info: Website generation complete! Total build time: 105.407s
+2025-08-21T14:26:05.011Z - info: Build success!
+2025-08-21T14:26:30.091Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
