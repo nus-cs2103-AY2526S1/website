@@ -1,0 +1,81 @@
+2025-08-22T17:56:41.970Z - info: Website generation (lazy) started at 01:56:40
+2025-08-22T17:56:42.587Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-22T17:56:42.587Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-22T17:56:42.607Z - info: Building assets...
+2025-08-22T17:56:46.332Z - info: Assets built
+2025-08-22T17:56:46.346Z - info: Generating landing page...
+2025-08-22T17:56:46.866Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-22T17:56:46.940Z - info: Site data built
+2025-08-22T17:56:46.940Z - info: Website generation (lazy) complete! Total build time: 6.417s
+2025-08-22T17:56:47.956Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:55480
+2025-08-22T17:56:47.957Z - info: Press CTRL+C to stop ...
+2025-08-23T04:31:30.411Z - info: [12:31:30] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-23T04:31:30.430Z - info: Synchronizing opened pages list before reload
+2025-08-23T04:31:30.433Z - info: No pages are currently opened
+2025-08-23T04:31:31.485Z - info: Assets built
+2025-08-23T04:32:15.214Z - info: [12:32:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-tasks-fragment.md
+2025-08-23T04:32:15.216Z - info: Synchronizing opened pages list before reload
+2025-08-23T04:32:15.217Z - info: No pages are currently opened
+2025-08-23T04:32:16.251Z - info: No pages needed to be rebuilt
+2025-08-23T04:32:41.482Z - info: [12:32:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-23T04:32:41.485Z - info: Synchronizing opened pages list before reload
+2025-08-23T04:32:41.486Z - info: No pages are currently opened
+2025-08-23T04:32:42.496Z - info: Assets built
+2025-08-23T04:32:55.524Z - info: Website generation (lazy) started at 12:32:54
+2025-08-23T04:32:56.090Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-23T04:32:56.091Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-23T04:32:56.111Z - info: Building assets...
+2025-08-23T04:32:59.830Z - info: Assets built
+2025-08-23T04:32:59.836Z - info: Generating landing page...
+2025-08-23T04:33:00.674Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-23T04:33:00.790Z - info: Site data built
+2025-08-23T04:33:00.790Z - info: Website generation (lazy) complete! Total build time: 6.538s
+2025-08-23T04:33:01.813Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:61170
+2025-08-23T04:33:01.814Z - info: Press CTRL+C to stop ...
+2025-08-23T04:33:10.763Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/project as some of its dependencies were changed since the last visit
+2025-08-23T04:33:11.977Z - info: Site data built
+2025-08-23T04:33:11.977Z - info: Lazy website regeneration complete! Total build time: 1.214s
+2025-08-23T04:35:22.746Z - info: [12:35:22] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-23T04:35:22.750Z - info: Synchronizing opened pages list before reload
+2025-08-23T04:35:22.753Z - info: Current opened pages, from most-to-least recent:
+2025-08-23T04:35:22.754Z - info: 1. schedule/week3/project
+2025-08-23T04:35:23.768Z - info: Rebuilding 1 pages
+2025-08-23T04:35:24.955Z - info: Site data built
+2025-08-23T04:35:24.955Z - info: Pages rebuilt
+2025-08-23T04:35:24.955Z - info: Website regeneration complete! Total build time: 1.189s
+2025-08-23T04:35:57.125Z - info: [12:35:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-23T04:35:57.126Z - info: Synchronizing opened pages list before reload
+2025-08-23T04:35:57.127Z - info: Current opened pages, from most-to-least recent:
+2025-08-23T04:35:57.128Z - info: 1. schedule/week3/project
+2025-08-23T04:35:58.135Z - info: Rebuilding 1 pages
+2025-08-23T04:35:59.320Z - info: Site data built
+2025-08-23T04:35:59.320Z - info: Pages rebuilt
+2025-08-23T04:35:59.320Z - info: Website regeneration complete! Total build time: 1.186s
+2025-08-23T04:36:35.822Z - info: [12:36:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-23T04:36:35.831Z - info: Synchronizing opened pages list before reload
+2025-08-23T04:36:35.836Z - info: Current opened pages, from most-to-least recent:
+2025-08-23T04:36:35.837Z - info: 1. schedule/week3/project
+2025-08-23T04:36:36.850Z - info: Rebuilding 1 pages
+2025-08-23T04:36:37.999Z - info: Site data built
+2025-08-23T04:36:37.999Z - info: Pages rebuilt
+2025-08-23T04:36:37.999Z - info: Website regeneration complete! Total build time: 1.152s
+2025-08-23T04:37:04.116Z - info: [12:37:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-23T04:37:04.116Z - info: Synchronizing opened pages list before reload
+2025-08-23T04:37:04.117Z - info: Current opened pages, from most-to-least recent:
+2025-08-23T04:37:04.117Z - info: 1. schedule/week3/project
+2025-08-23T04:37:05.126Z - info: Rebuilding 1 pages
+2025-08-23T04:37:06.303Z - info: Site data built
+2025-08-23T04:37:06.303Z - info: Pages rebuilt
+2025-08-23T04:37:06.303Z - info: Website regeneration complete! Total build time: 1.18s
+2025-08-23T04:37:21.219Z - info: [12:37:21] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/projectDuke/extensions-fragment.md
+2025-08-23T04:37:21.219Z - info: Synchronizing opened pages list before reload
+2025-08-23T04:37:21.219Z - info: Current opened pages, from most-to-least recent:
+2025-08-23T04:37:21.220Z - info: 1. schedule/week3/project
+2025-08-23T04:37:22.227Z - info: Rebuilding 1 pages
+2025-08-23T04:37:23.375Z - info: Site data built
+2025-08-23T04:37:23.375Z - info: Pages rebuilt
+2025-08-23T04:37:23.375Z - info: Website regeneration complete! Total build time: 1.151s
+2025-08-23T04:38:57.489Z - info: Website generation started at 12:38:56
+2025-08-23T04:38:57.995Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-23T04:38:57.995Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-23T04:38:58.014Z - info: Building assets...
