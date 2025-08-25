@@ -1,0 +1,18 @@
+2025-08-25T16:26:45.717Z - info: Website generation (lazy) started at 00:26:44
+2025-08-25T16:26:46.379Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-25T16:26:46.379Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-25T16:26:46.400Z - info: Building assets...
+2025-08-25T16:26:48.878Z - info: Assets built
+2025-08-25T16:26:48.878Z - info: Generating landing page...
+2025-08-25T16:26:49.351Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-25T16:26:49.419Z - info: Site data built
+2025-08-25T16:26:49.419Z - info: Website generation (lazy) complete! Total build time: 4.891s
+2025-08-25T16:26:50.437Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:53709
+2025-08-25T16:26:50.438Z - info: Press CTRL+C to stop ...
+2025-08-25T16:26:57.159Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutorials as some of its dependencies were changed since the last visit
+2025-08-25T16:26:58.146Z - info: Site data built
+2025-08-25T16:26:58.146Z - info: Lazy website regeneration complete! Total build time: 0.988s
+2025-08-25T16:28:46.920Z - info: Website generation started at 00:28:45
+2025-08-25T16:28:47.230Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-25T16:28:47.230Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-25T16:28:47.251Z - info: Building assets...
