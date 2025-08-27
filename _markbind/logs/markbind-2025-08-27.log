@@ -1,0 +1,18 @@
+2025-08-27T06:29:27.257Z - info: Website generation (lazy) started at 14:29:26
+2025-08-27T06:29:27.898Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-27T06:29:27.898Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-08-27T06:29:27.918Z - info: Building assets...
+2025-08-27T06:29:30.884Z - info: Assets built
+2025-08-27T06:29:30.884Z - info: Generating landing page...
+2025-08-27T06:29:31.339Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-27T06:29:31.410Z - info: Site data built
+2025-08-27T06:29:31.410Z - info: Website generation (lazy) complete! Total build time: 5.385s
+2025-08-27T06:29:32.439Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:50023
+2025-08-27T06:29:32.440Z - info: Press CTRL+C to stop ...
+2025-08-27T06:29:37.939Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week3/topics as some of its dependencies were changed since the last visit
+2025-08-27T06:29:39.070Z - info: Site data built
+2025-08-27T06:29:39.070Z - info: Lazy website regeneration complete! Total build time: 1.132s
+2025-08-27T06:29:59.500Z - info: Website generation started at 14:29:58
+2025-08-27T06:29:59.749Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-27T06:29:59.749Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-08-27T06:29:59.770Z - info: Building assets...
