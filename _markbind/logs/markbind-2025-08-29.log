@@ -1,0 +1,324 @@
+2025-08-29T11:46:39.813Z - info: Website generation (lazy) started at 19:46:38
+2025-08-29T11:46:40.395Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-29T11:46:40.396Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-29T11:46:40.415Z - info: Building assets...
+2025-08-29T11:46:43.862Z - info: Assets built
+2025-08-29T11:46:43.863Z - info: Generating landing page...
+2025-08-29T11:46:44.520Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-08-29T11:46:44.644Z - info: Site data built
+2025-08-29T11:46:44.644Z - info: Website generation (lazy) complete! Total build time: 6.005s
+2025-08-29T11:46:44.661Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-08-29T11:46:44.661Z - info: Press CTRL+C to stop ...
+2025-08-29T11:46:57.986Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-08-29T11:46:58.156Z - info: Site data built
+2025-08-29T11:46:58.156Z - info: Lazy website regeneration complete! Total build time: 0.171s
+2025-08-29T11:48:21.917Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/projectDuke/index as some of its dependencies were changed since the last visit
+2025-08-29T11:48:22.242Z - info: Site data built
+2025-08-29T11:48:22.242Z - info: Lazy website regeneration complete! Total build time: 0.325s
+2025-08-29T11:50:13.134Z - info: [19:50:13] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T11:50:13.135Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:50:13.135Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:50:13.135Z - info: 1. se-book-adapted/projectDuke/index
+2025-08-29T11:50:14.255Z - info: Pages or site config modified, updating pages...
+2025-08-29T11:50:15.389Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/projectDuke/index as some of its dependencies were changed since the last visit
+2025-08-29T11:50:15.772Z - info: Site data built
+2025-08-29T11:50:15.772Z - info: Lazy website regeneration complete! Total build time: 0.383s
+2025-08-29T11:52:39.458Z - info: [19:52:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T11:52:39.461Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:52:39.464Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:52:39.464Z - info: 1. se-book-adapted/projectDuke/index
+2025-08-29T11:52:39.483Z - info: [19:52:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md
+2025-08-29T11:52:39.483Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:52:39.484Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:52:39.484Z - info: 1. se-book-adapted/projectDuke/index
+2025-08-29T11:52:40.605Z - info: Rebuilding 1 pages
+2025-08-29T11:52:40.895Z - info: Site data built
+2025-08-29T11:52:40.895Z - info: Pages rebuilt
+2025-08-29T11:52:40.895Z - info: Website regeneration complete! Total build time: 0.291s
+2025-08-29T11:53:50.654Z - info: [19:53:50] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md
+2025-08-29T11:53:50.656Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:53:50.662Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:53:50.662Z - info: 1. se-book-adapted/projectDuke/index
+2025-08-29T11:53:51.791Z - info: Rebuilding 1 pages
+2025-08-29T11:53:52.056Z - info: Site data built
+2025-08-29T11:53:52.056Z - info: Pages rebuilt
+2025-08-29T11:53:52.057Z - info: Website regeneration complete! Total build time: 0.267s
+2025-08-29T11:54:18.938Z - info: [19:54:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md
+2025-08-29T11:54:18.939Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:54:18.939Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:54:18.939Z - info: 1. se-book-adapted/projectDuke/index
+2025-08-29T11:54:20.051Z - info: Rebuilding 1 pages
+2025-08-29T11:54:20.296Z - info: Site data built
+2025-08-29T11:54:20.296Z - info: Pages rebuilt
+2025-08-29T11:54:20.296Z - info: Website regeneration complete! Total build time: 0.245s
+2025-08-29T11:54:58.896Z - info: [19:54:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md
+2025-08-29T11:54:58.897Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:54:58.897Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:54:58.897Z - info: 1. se-book-adapted/projectDuke/index
+2025-08-29T11:55:00.015Z - info: Rebuilding 1 pages
+2025-08-29T11:55:00.287Z - info: Site data built
+2025-08-29T11:55:00.287Z - info: Pages rebuilt
+2025-08-29T11:55:00.287Z - info: Website regeneration complete! Total build time: 0.273s
+2025-08-29T11:55:28.805Z - info: [19:55:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/layouts/header.md
+2025-08-29T11:55:28.805Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:55:28.805Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:55:28.805Z - info: 1. se-book-adapted/projectDuke/index
+2025-08-29T11:55:29.916Z - info: Rebuilding 1 pages
+2025-08-29T11:55:30.165Z - info: Site data built
+2025-08-29T11:55:30.165Z - info: Pages rebuilt
+2025-08-29T11:55:30.165Z - info: Website regeneration complete! Total build time: 0.249s
+2025-08-29T11:55:33.783Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet as some of its dependencies were changed since the last visit
+2025-08-29T11:55:33.887Z - info: Site data built
+2025-08-29T11:55:33.887Z - info: Lazy website regeneration complete! Total build time: 0.104s
+2025-08-29T11:57:41.236Z - info: [19:57:41] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/cd-1.png
+2025-08-29T11:57:41.237Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:57:41.238Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:57:41.238Z - info: 1. admin/uml-reference-sheet
+2025-08-29T11:57:41.238Z - info: 2. se-book-adapted/projectDuke/index
+2025-08-29T11:57:41.239Z - info: [19:57:41] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/cd-2.png
+2025-08-29T11:57:41.239Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:57:41.239Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:57:41.239Z - info: 1. admin/uml-reference-sheet
+2025-08-29T11:57:41.239Z - info: 2. se-book-adapted/projectDuke/index
+2025-08-29T11:57:41.240Z - info: [19:57:41] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/cd-3.png
+2025-08-29T11:57:41.240Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:57:41.240Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:57:41.240Z - info: 1. admin/uml-reference-sheet
+2025-08-29T11:57:41.240Z - info: 2. se-book-adapted/projectDuke/index
+2025-08-29T11:57:41.240Z - info: [19:57:41] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/od.png
+2025-08-29T11:57:41.240Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:57:41.240Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:57:41.240Z - info: 1. admin/uml-reference-sheet
+2025-08-29T11:57:41.240Z - info: 2. se-book-adapted/projectDuke/index
+2025-08-29T11:57:42.401Z - info: Assets built
+2025-08-29T11:58:25.326Z - info: [19:58:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T11:58:25.326Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:58:25.327Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:58:25.327Z - info: 1. admin/uml-reference-sheet
+2025-08-29T11:58:25.327Z - info: 2. se-book-adapted/projectDuke/index
+2025-08-29T11:58:26.342Z - info: Rebuilding 1 pages
+2025-08-29T11:58:26.413Z - info: Site data built
+2025-08-29T11:58:26.413Z - info: Pages rebuilt
+2025-08-29T11:58:26.413Z - info: Website regeneration complete! Total build time: 0.073s
+2025-08-29T11:58:38.848Z - info: [19:58:38] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T11:58:38.848Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:58:38.848Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:58:38.848Z - info: 1. admin/uml-reference-sheet
+2025-08-29T11:58:39.863Z - info: Rebuilding 1 pages
+2025-08-29T11:58:39.913Z - info: Site data built
+2025-08-29T11:58:39.913Z - info: Pages rebuilt
+2025-08-29T11:58:39.913Z - info: Website regeneration complete! Total build time: 0.051s
+2025-08-29T11:58:55.496Z - info: [19:58:55] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T11:58:55.496Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:58:55.496Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:58:55.496Z - info: 1. admin/uml-reference-sheet
+2025-08-29T11:58:56.500Z - info: Rebuilding 1 pages
+2025-08-29T11:58:56.555Z - info: Site data built
+2025-08-29T11:58:56.555Z - info: Pages rebuilt
+2025-08-29T11:58:56.555Z - info: Website regeneration complete! Total build time: 0.056s
+2025-08-29T11:59:02.457Z - info: [19:59:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T11:59:02.457Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:59:02.457Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:59:02.457Z - info: 1. admin/uml-reference-sheet
+2025-08-29T11:59:03.470Z - info: Rebuilding 1 pages
+2025-08-29T11:59:03.518Z - info: Site data built
+2025-08-29T11:59:03.518Z - info: Pages rebuilt
+2025-08-29T11:59:03.518Z - info: Website regeneration complete! Total build time: 0.05s
+2025-08-29T11:59:15.775Z - info: [19:59:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T11:59:15.775Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:59:15.775Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:59:15.775Z - info: 1. admin/uml-reference-sheet
+2025-08-29T11:59:16.789Z - info: Rebuilding 1 pages
+2025-08-29T11:59:16.840Z - info: Site data built
+2025-08-29T11:59:16.840Z - info: Pages rebuilt
+2025-08-29T11:59:16.841Z - info: Website regeneration complete! Total build time: 0.054s
+2025-08-29T11:59:22.636Z - info: [19:59:22] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T11:59:22.636Z - info: Synchronizing opened pages list before reload
+2025-08-29T11:59:22.636Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T11:59:22.636Z - info: 1. admin/uml-reference-sheet
+2025-08-29T11:59:23.639Z - info: Rebuilding 1 pages
+2025-08-29T11:59:23.690Z - info: Site data built
+2025-08-29T11:59:23.690Z - info: Pages rebuilt
+2025-08-29T11:59:23.690Z - info: Website regeneration complete! Total build time: 0.053s
+2025-08-29T12:00:06.930Z - info: [20:00:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T12:00:06.931Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:00:06.931Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:00:06.931Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:00:07.941Z - info: Rebuilding 1 pages
+2025-08-29T12:00:08.014Z - info: Site data built
+2025-08-29T12:00:08.014Z - info: Pages rebuilt
+2025-08-29T12:00:08.014Z - info: Website regeneration complete! Total build time: 0.076s
+2025-08-29T12:01:05.771Z - info: [20:01:05] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T12:01:05.771Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:01:05.771Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:01:05.771Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:01:06.786Z - info: Rebuilding 1 pages
+2025-08-29T12:01:06.838Z - info: Site data built
+2025-08-29T12:01:06.839Z - info: Pages rebuilt
+2025-08-29T12:01:06.839Z - info: Website regeneration complete! Total build time: 0.055s
+2025-08-29T12:01:20.929Z - info: [20:01:20] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T12:01:20.929Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:01:20.929Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:01:20.929Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:01:21.933Z - info: Rebuilding 1 pages
+2025-08-29T12:01:21.980Z - info: Site data built
+2025-08-29T12:01:21.980Z - info: Pages rebuilt
+2025-08-29T12:01:21.980Z - info: Website regeneration complete! Total build time: 0.049s
+2025-08-29T12:03:29.983Z - info: [20:03:29] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/notes.png
+2025-08-29T12:03:29.984Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:03:29.984Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:03:29.984Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:03:29.986Z - info: [20:03:29] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/sd-1.png
+2025-08-29T12:03:29.986Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:03:29.986Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:03:29.986Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:03:29.986Z - info: [20:03:29] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/sd-2.png
+2025-08-29T12:03:29.987Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:03:29.987Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:03:29.987Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:03:31.163Z - info: Assets built
+2025-08-29T12:03:56.593Z - info: [20:03:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T12:03:56.594Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:03:56.594Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:03:56.594Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:03:57.609Z - info: Rebuilding 1 pages
+2025-08-29T12:03:57.661Z - info: Site data built
+2025-08-29T12:03:57.661Z - info: Pages rebuilt
+2025-08-29T12:03:57.661Z - info: Website regeneration complete! Total build time: 0.054s
+2025-08-29T12:05:16.135Z - info: [20:05:16] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/ad-2.png
+2025-08-29T12:05:16.137Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:05:16.137Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:05:16.138Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:05:16.326Z - info: [20:05:16] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/ad-1.png
+2025-08-29T12:05:16.327Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:05:16.327Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:05:16.327Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:05:16.327Z - info: [20:05:16] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/uc-1.png
+2025-08-29T12:05:16.327Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:05:16.327Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:05:16.327Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:05:16.327Z - info: [20:05:16] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/uc-2.png
+2025-08-29T12:05:16.327Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:05:16.327Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:05:16.327Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:05:17.331Z - info: Assets built
+2025-08-29T12:05:40.622Z - info: [20:05:40] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T12:05:40.623Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:05:40.623Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:05:40.623Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:05:41.626Z - info: Rebuilding 1 pages
+2025-08-29T12:05:41.692Z - info: Site data built
+2025-08-29T12:05:41.692Z - info: Pages rebuilt
+2025-08-29T12:05:41.692Z - info: Website regeneration complete! Total build time: 0.067s
+2025-08-29T12:06:07.064Z - info: [20:06:07] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T12:06:07.065Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:06:07.065Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:06:07.065Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:06:08.080Z - info: Rebuilding 1 pages
+2025-08-29T12:06:08.132Z - info: Site data built
+2025-08-29T12:06:08.132Z - info: Pages rebuilt
+2025-08-29T12:06:08.132Z - info: Website regeneration complete! Total build time: 0.054s
+2025-08-29T12:07:09.437Z - info: [20:07:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet.md
+2025-08-29T12:07:09.437Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:07:09.437Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:07:09.438Z - info: 1. admin/uml-reference-sheet
+2025-08-29T12:07:10.443Z - info: Rebuilding 1 pages
+2025-08-29T12:07:10.500Z - info: Site data built
+2025-08-29T12:07:10.500Z - info: Pages rebuilt
+2025-08-29T12:07:10.500Z - info: Website regeneration complete! Total build time: 0.058s
+2025-08-29T12:07:37.623Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/index as some of its dependencies were changed since the last visit
+2025-08-29T12:07:38.077Z - info: Site data built
+2025-08-29T12:07:38.077Z - info: Lazy website regeneration complete! Total build time: 0.454s
+2025-08-29T12:07:51.556Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/tutorial as some of its dependencies were changed since the last visit
+2025-08-29T12:07:51.756Z - info: Site data built
+2025-08-29T12:07:51.757Z - info: Lazy website regeneration complete! Total build time: 0.201s
+2025-08-29T12:09:56.675Z - info: [20:09:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingStructures/classDiagramsIntermediate/q-explainClassDiagramNotation.md
+2025-08-29T12:09:56.675Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:09:56.676Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:09:56.676Z - info: 1. schedule/week4/tutorial
+2025-08-29T12:09:57.690Z - info: Rebuilding 1 pages
+2025-08-29T12:09:57.872Z - info: Site data built
+2025-08-29T12:09:57.872Z - info: Pages rebuilt
+2025-08-29T12:09:57.872Z - info: Website regeneration complete! Total build time: 0.185s
+2025-08-29T12:11:31.042Z - info: [20:11:31] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/tutorial-cs2103-fragment.md
+2025-08-29T12:11:31.043Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:11:31.043Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:11:31.043Z - info: 1. schedule/week4/tutorial
+2025-08-29T12:11:32.048Z - info: Rebuilding 1 pages
+2025-08-29T12:11:32.258Z - info: Site data built
+2025-08-29T12:11:32.258Z - info: Pages rebuilt
+2025-08-29T12:11:32.258Z - info: Website regeneration complete! Total build time: 0.212s
+2025-08-29T12:12:33.720Z - info: [20:12:33] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/tutorial-cs2103-fragment.md
+2025-08-29T12:12:33.721Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:12:33.722Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:12:33.722Z - info: 1. schedule/week4/tutorial
+2025-08-29T12:12:34.737Z - info: Rebuilding 1 pages
+2025-08-29T12:12:34.925Z - info: Site data built
+2025-08-29T12:12:34.925Z - info: Pages rebuilt
+2025-08-29T12:12:34.925Z - info: Website regeneration complete! Total build time: 0.19s
+2025-08-29T12:12:43.189Z - info: [20:12:43] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/tutorial-cs2103-fragment.md
+2025-08-29T12:12:43.190Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:12:43.191Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:12:43.191Z - info: 1. schedule/week4/tutorial
+2025-08-29T12:12:44.202Z - info: Rebuilding 1 pages
+2025-08-29T12:12:44.354Z - info: Site data built
+2025-08-29T12:12:44.355Z - info: Pages rebuilt
+2025-08-29T12:12:44.355Z - info: Website regeneration complete! Total build time: 0.155s
+2025-08-29T12:13:14.358Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/topics as some of its dependencies were changed since the last visit
+2025-08-29T12:13:17.679Z - debug:  
+2025-08-29T12:13:17.686Z - debug:  
+2025-08-29T12:13:17.781Z - debug:  
+2025-08-29T12:13:17.783Z - debug:  
+2025-08-29T12:13:17.794Z - debug:  
+2025-08-29T12:13:17.801Z - debug:  
+2025-08-29T12:13:17.814Z - debug:  
+2025-08-29T12:13:17.824Z - debug:  
+2025-08-29T12:13:17.836Z - debug:  
+2025-08-29T12:13:17.850Z - debug:  
+2025-08-29T12:13:17.857Z - debug:  
+2025-08-29T12:13:17.873Z - debug:  
+2025-08-29T12:13:17.885Z - debug:  
+2025-08-29T12:13:17.984Z - info: Site data built
+2025-08-29T12:13:17.984Z - info: Lazy website regeneration complete! Total build time: 3.627s
+2025-08-29T12:14:49.205Z - info: [20:14:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/commentary-cs2103-fragment.md
+2025-08-29T12:14:49.207Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:14:49.209Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:14:49.209Z - info: 1. schedule/week4/topics
+2025-08-29T12:14:49.291Z - info: [20:14:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/commentary-cs2103-fragment.md
+2025-08-29T12:14:49.292Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:14:49.292Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:14:49.293Z - info: 1. schedule/week4/topics
+2025-08-29T12:14:50.228Z - info: Rebuilding 1 pages
+2025-08-29T12:14:51.033Z - info: Site data built
+2025-08-29T12:14:51.034Z - info: Pages rebuilt
+2025-08-29T12:14:51.034Z - info: Website regeneration complete! Total build time: 0.808s
+2025-08-29T12:15:09.463Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week4/project as some of its dependencies were changed since the last visit
+2025-08-29T12:15:10.610Z - info: Site data built
+2025-08-29T12:15:10.610Z - info: Lazy website regeneration complete! Total build time: 1.147s
+2025-08-29T12:15:52.730Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week5/index as some of its dependencies were changed since the last visit
+2025-08-29T12:15:53.152Z - info: Site data built
+2025-08-29T12:15:53.152Z - info: Lazy website regeneration complete! Total build time: 0.423s
+2025-08-29T12:16:00.000Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week6/index as some of its dependencies were changed since the last visit
+2025-08-29T12:16:00.326Z - info: Site data built
+2025-08-29T12:16:00.326Z - info: Lazy website regeneration complete! Total build time: 0.326s
+2025-08-29T12:16:09.621Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week6/project as some of its dependencies were changed since the last visit
+2025-08-29T12:16:10.839Z - info: Site data built
+2025-08-29T12:16:10.839Z - info: Lazy website regeneration complete! Total build time: 1.219s
+2025-08-29T12:17:52.794Z - info: [20:17:52] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2025-08-29T12:17:52.802Z - info: Synchronizing opened pages list before reload
+2025-08-29T12:17:52.805Z - info: Current opened pages, from most-to-least recent:
+2025-08-29T12:17:52.806Z - info: 1. schedule/week6/project
+2025-08-29T12:17:53.852Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-29T12:17:53.852Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-29T12:17:53.888Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-08-29T12:17:53.890Z - info: Rebuilding 1 pages
+2025-08-29T12:17:55.125Z - info: Site data built
+2025-08-29T12:17:55.125Z - info: Pages rebuilt
+2025-08-29T12:17:55.125Z - info: Website regeneration complete! Total build time: 1.301s
+2025-08-29T12:18:04.914Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index as some of its dependencies were changed since the last visit
+2025-08-29T12:18:05.379Z - info: Site data built
+2025-08-29T12:18:05.380Z - info: Lazy website regeneration complete! Total build time: 0.466s
+2025-08-29T12:18:16.258Z - info: Website generation started at 20:18:15
+2025-08-29T12:18:16.646Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-29T12:18:16.646Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-29T12:18:16.665Z - info: Building assets...
