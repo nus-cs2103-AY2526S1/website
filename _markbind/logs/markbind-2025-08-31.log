@@ -1,0 +1,338 @@
+2025-08-30T16:16:54.891Z - info: [00:16:54] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-08-30T16:16:54.909Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:16:54.910Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:16:54.910Z - info: 1. book/gitAndGithub/stage/index
+2025-08-30T16:16:54.910Z - info: 2. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-08-30T16:16:55.942Z - info: Rebuilding 2 pages
+2025-08-30T16:16:55.994Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 122, Column 22]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 380, Column 9]
+  Error: Unable to call `show_detour_preview`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:313:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+2025-08-30T16:16:55.997Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 122, Column 22]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 380, Column 9]
+  Error: Unable to call `show_detour_preview`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:313:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-08-30T16:16:55.997Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 122, Column 22]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 380, Column 9]
+  Error: Unable to call `show_detour_preview`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:313:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-08-30T16:16:56.069Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 122, Column 22]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 380, Column 9]
+  Error: Unable to call `show_detour_preview`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:313:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-08-30T16:16:56.105Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 122, Column 22]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 380, Column 9]
+  Error: Unable to call `show_detour_preview`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:313:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-08-30T16:16:56.105Z - error:  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 122, Column 22]
+  Template render error: (/Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md) [Line 380, Column 9]
+  Error: Unable to call `show_detour_preview`, which is undefined or falsey
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:313:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:85:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:231:38)
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:198:68)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:349:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:348:27)
+2025-08-30T16:16:56.324Z - info: Site data built
+2025-08-30T16:16:56.324Z - info: Pages rebuilt
+2025-08-30T16:16:56.324Z - info: Website regeneration complete! Total build time: 0.404s
+2025-08-30T16:17:59.159Z - info: [00:17:59] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-08-30T16:17:59.159Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:17:59.159Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:17:59.159Z - info: 1. book/gitAndGithub/stage/index
+2025-08-30T16:18:00.177Z - info: Rebuilding 1 pages
+2025-08-30T16:18:00.267Z - error: No such segment '#preview' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/text.md
+2025-08-30T16:18:00.400Z - info: Site data built
+2025-08-30T16:18:00.401Z - info: Pages rebuilt
+2025-08-30T16:18:00.401Z - info: Website regeneration complete! Total build time: 0.226s
+2025-08-30T16:18:39.521Z - info: [00:18:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:18:39.521Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:18:39.521Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:18:39.521Z - info: 1. book/gitAndGithub/stage/index
+2025-08-30T16:18:40.528Z - info: Rebuilding 1 pages
+2025-08-30T16:18:40.737Z - info: Site data built
+2025-08-30T16:18:40.738Z - info: Pages rebuilt
+2025-08-30T16:18:40.738Z - info: Website regeneration complete! Total build time: 0.211s
+2025-08-30T16:18:57.855Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:18:57.959Z - info: Site data built
+2025-08-30T16:18:57.959Z - info: Lazy website regeneration complete! Total build time: 0.105s
+2025-08-30T16:19:41.820Z - info: [00:19:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/text.md
+2025-08-30T16:19:41.821Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:19:41.821Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:19:41.822Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:19:42.833Z - info: No pages needed to be rebuilt
+2025-08-30T16:19:55.946Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:19:56.091Z - info: Site data built
+2025-08-30T16:19:56.091Z - info: Lazy website regeneration complete! Total build time: 0.145s
+2025-08-30T16:20:17.080Z - info: [00:20:17] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/text.md
+2025-08-30T16:20:17.080Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:20:17.080Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:20:17.080Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:20:18.090Z - info: No pages needed to be rebuilt
+2025-08-30T16:20:23.448Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:20:23.570Z - info: Site data built
+2025-08-30T16:20:23.570Z - info: Lazy website regeneration complete! Total build time: 0.122s
+2025-08-30T16:22:23.635Z - info: [00:22:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:22:23.646Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:22:23.657Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:22:23.660Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:22:23.691Z - info: [00:22:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/detour-unstagingChanges-fragment.md
+2025-08-30T16:22:23.691Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:22:23.691Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:22:23.691Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:22:24.681Z - info: No pages needed to be rebuilt
+2025-08-30T16:22:31.888Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:22:32.043Z - info: Site data built
+2025-08-30T16:22:32.043Z - info: Lazy website regeneration complete! Total build time: 0.155s
+2025-08-30T16:23:29.831Z - info: [00:23:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/stage/detour-unstagingChanges-fragment.md
+2025-08-30T16:23:29.832Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:23:29.832Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:23:29.833Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:23:30.840Z - info: No pages needed to be rebuilt
+2025-08-30T16:24:11.832Z - info: [00:24:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:24:11.840Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:24:11.843Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:24:11.843Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:24:12.852Z - info: No pages needed to be rebuilt
+2025-08-30T16:26:40.680Z - info: [00:26:40] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:26:40.683Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:26:40.684Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:26:40.685Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:26:41.693Z - info: No pages needed to be rebuilt
+2025-08-30T16:26:51.450Z - info: [00:26:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:26:51.450Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:26:51.450Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:26:51.451Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:26:52.461Z - info: No pages needed to be rebuilt
+2025-08-30T16:30:04.083Z - info: [00:30:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:30:04.084Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:30:04.084Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:30:04.084Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:30:05.096Z - info: No pages needed to be rebuilt
+2025-08-30T16:30:09.145Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:30:09.300Z - info: Site data built
+2025-08-30T16:30:09.300Z - info: Lazy website regeneration complete! Total build time: 0.155s
+2025-08-30T16:31:58.733Z - info: [00:31:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:31:58.735Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:31:58.740Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:31:58.740Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:31:59.749Z - info: No pages needed to be rebuilt
+2025-08-30T16:32:07.932Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:32:08.095Z - info: Site data built
+2025-08-30T16:32:08.096Z - info: Lazy website regeneration complete! Total build time: 0.164s
+2025-08-30T16:32:54.803Z - info: [00:32:54] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:32:54.803Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:32:54.803Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:32:54.803Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:32:55.810Z - info: No pages needed to be rebuilt
+2025-08-30T16:33:31.737Z - info: [00:33:31] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:33:31.737Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:33:31.738Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:33:31.738Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:33:32.753Z - info: No pages needed to be rebuilt
+2025-08-30T16:33:37.907Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:33:38.021Z - info: Site data built
+2025-08-30T16:33:38.021Z - info: Lazy website regeneration complete! Total build time: 0.114s
+2025-08-30T16:35:06.393Z - info: [00:35:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-08-30T16:35:06.395Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:35:06.395Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:35:06.395Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:35:07.408Z - info: No pages needed to be rebuilt
+2025-08-30T16:35:12.313Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:35:12.461Z - info: Site data built
+2025-08-30T16:35:12.461Z - info: Lazy website regeneration complete! Total build time: 0.149s
+2025-08-30T16:36:55.245Z - info: [00:36:55] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-08-30T16:36:55.254Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:36:55.256Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:36:55.257Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:36:56.276Z - info: No pages needed to be rebuilt
+2025-08-30T16:37:35.441Z - info: [00:37:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-08-30T16:37:35.442Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:37:35.442Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:37:35.442Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:37:36.447Z - info: No pages needed to be rebuilt
+2025-08-30T16:37:41.493Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:37:41.619Z - info: Site data built
+2025-08-30T16:37:41.619Z - info: Lazy website regeneration complete! Total build time: 0.126s
+2025-08-30T16:39:43.181Z - info: [00:39:43] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:39:43.182Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:39:43.183Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:39:43.183Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:39:44.190Z - info: No pages needed to be rebuilt
+2025-08-30T16:39:52.173Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:39:52.315Z - info: Site data built
+2025-08-30T16:39:52.315Z - info: Lazy website regeneration complete! Total build time: 0.142s
+2025-08-30T16:40:56.146Z - info: [00:40:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-08-30T16:40:56.147Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:40:56.148Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:40:56.148Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:40:57.162Z - info: No pages needed to be rebuilt
+2025-08-30T16:41:04.640Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:41:04.766Z - info: Site data built
+2025-08-30T16:41:04.766Z - info: Lazy website regeneration complete! Total build time: 0.126s
+2025-08-30T16:41:28.774Z - info: [00:41:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/common/macros.njk
+2025-08-30T16:41:28.774Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:41:28.774Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:41:28.774Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:41:29.787Z - info: No pages needed to be rebuilt
+2025-08-30T16:41:36.924Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/index as some of its dependencies were changed since the last visit
+2025-08-30T16:41:37.069Z - info: Site data built
+2025-08-30T16:41:37.069Z - info: Lazy website regeneration complete! Total build time: 0.145s
+2025-08-30T16:42:40.781Z - info: [00:42:40] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/detour-stagingFileDeletions-fragment.md
+2025-08-30T16:42:40.782Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:42:40.782Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:42:40.782Z - info: 1. ../book/gitAndGithub/commit/index
+2025-08-30T16:42:41.792Z - info: No pages needed to be rebuilt
+2025-08-30T16:42:53.596Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-08-30T16:42:53.953Z - info: Site data built
+2025-08-30T16:42:53.953Z - info: Lazy website regeneration complete! Total build time: 0.358s
+2025-08-30T16:43:18.599Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/recordingFolderHistory/index as some of its dependencies were changed since the last visit
+2025-08-30T16:43:19.085Z - info: Site data built
+2025-08-30T16:43:19.085Z - info: Lazy website regeneration complete! Total build time: 0.487s
+2025-08-30T16:43:37.264Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/index as some of its dependencies were changed since the last visit
+2025-08-30T16:43:37.413Z - info: Site data built
+2025-08-30T16:43:37.413Z - info: Lazy website regeneration complete! Total build time: 0.149s
+2025-08-30T16:46:26.472Z - info: [00:46:26] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-08-30T16:46:26.475Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:46:26.476Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:46:26.476Z - info: 1. book/gitAndGithub/init/index
+2025-08-30T16:46:26.476Z - info: 2. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-08-30T16:46:27.486Z - info: Rebuilding 2 pages
+2025-08-30T16:46:28.035Z - info: Site data built
+2025-08-30T16:46:28.035Z - info: Pages rebuilt
+2025-08-30T16:46:28.035Z - info: Website regeneration complete! Total build time: 0.552s
+2025-08-30T16:47:39.124Z - info: [00:47:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-08-30T16:47:39.126Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:47:39.127Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:47:39.127Z - info: 1. book/gitAndGithub/init/index
+2025-08-30T16:47:39.127Z - info: 2. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-08-30T16:47:40.136Z - info: Rebuilding 2 pages
+2025-08-30T16:47:40.677Z - info: Site data built
+2025-08-30T16:47:40.677Z - info: Pages rebuilt
+2025-08-30T16:47:40.677Z - info: Website regeneration complete! Total build time: 0.545s
+2025-08-30T16:47:56.960Z - info: [00:47:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-08-30T16:47:56.960Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:47:56.961Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:47:56.961Z - info: 1. book/gitAndGithub/init/index
+2025-08-30T16:47:56.961Z - info: 2. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-08-30T16:47:57.973Z - info: Rebuilding 2 pages
+2025-08-30T16:47:58.463Z - info: Site data built
+2025-08-30T16:47:58.463Z - info: Pages rebuilt
+2025-08-30T16:47:58.463Z - info: Website regeneration complete! Total build time: 0.491s
+2025-08-30T16:50:01.009Z - info: [00:50:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-08-30T16:50:01.009Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:50:01.010Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:50:01.010Z - info: 1. book/gitAndGithub/init/index
+2025-08-30T16:50:01.010Z - info: 2. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-08-30T16:50:02.020Z - info: Rebuilding 2 pages
+2025-08-30T16:50:02.513Z - info: Site data built
+2025-08-30T16:50:02.513Z - info: Pages rebuilt
+2025-08-30T16:50:02.513Z - info: Website regeneration complete! Total build time: 0.495s
+2025-08-30T16:50:16.914Z - info: [00:50:16] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-08-30T16:50:16.914Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:50:16.914Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:50:16.914Z - info: 1. book/gitAndGithub/init/index
+2025-08-30T16:50:16.914Z - info: 2. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-08-30T16:50:17.920Z - info: Rebuilding 2 pages
+2025-08-30T16:50:18.411Z - info: Site data built
+2025-08-30T16:50:18.411Z - info: Pages rebuilt
+2025-08-30T16:50:18.411Z - info: Website regeneration complete! Total build time: 0.492s
+2025-08-30T16:50:49.338Z - info: [00:50:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/init/text.md
+2025-08-30T16:50:49.339Z - info: Synchronizing opened pages list before reload
+2025-08-30T16:50:49.339Z - info: Current opened pages, from most-to-least recent:
+2025-08-30T16:50:49.339Z - info: 1. book/gitAndGithub/init/index
+2025-08-30T16:50:49.339Z - info: 2. book/gitAndGithub/trail/recordingFolderHistory/index
+2025-08-30T16:50:50.351Z - info: Rebuilding 2 pages
+2025-08-30T16:50:50.842Z - info: Site data built
+2025-08-30T16:50:50.842Z - info: Pages rebuilt
+2025-08-30T16:50:50.842Z - info: Website regeneration complete! Total build time: 0.493s
+2025-08-30T16:52:06.821Z - info: Website generation started at 00:52:05
+2025-08-30T16:52:07.310Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-08-30T16:52:07.310Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-08-30T16:52:07.330Z - info: Building assets...
