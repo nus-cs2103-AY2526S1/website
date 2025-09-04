@@ -1,0 +1,114 @@
+2025-09-04T16:00:30.439Z - info: [00:00:30] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2025-09-04T16:00:30.465Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:00:30.465Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:00:30.465Z - info: 1. admin/tp-pe
+2025-09-04T16:00:31.473Z - info: Rebuilding 1 pages
+2025-09-04T16:00:32.421Z - info: Site data built
+2025-09-04T16:00:32.421Z - info: Pages rebuilt
+2025-09-04T16:00:32.421Z - info: Website regeneration complete! Total build time: 0.949s
+2025-09-04T16:05:41.726Z - info: [00:05:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2025-09-04T16:05:41.730Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:05:41.731Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:05:41.731Z - info: 1. admin/tp-pe
+2025-09-04T16:05:42.744Z - info: Rebuilding 1 pages
+2025-09-04T16:05:43.641Z - info: Site data built
+2025-09-04T16:05:43.641Z - info: Pages rebuilt
+2025-09-04T16:05:43.641Z - info: Website regeneration complete! Total build time: 0.899s
+2025-09-04T16:09:01.876Z - info: [00:09:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2025-09-04T16:09:01.878Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:09:01.878Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:09:01.878Z - info: 1. admin/tp-pe
+2025-09-04T16:09:02.891Z - info: Rebuilding 1 pages
+2025-09-04T16:09:03.808Z - info: Site data built
+2025-09-04T16:09:03.808Z - info: Pages rebuilt
+2025-09-04T16:09:03.808Z - info: Website regeneration complete! Total build time: 0.92s
+2025-09-04T16:09:20.836Z - info: [00:09:20] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2025-09-04T16:09:20.837Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:09:20.837Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:09:20.837Z - info: 1. admin/tp-pe
+2025-09-04T16:09:21.843Z - info: Rebuilding 1 pages
+2025-09-04T16:09:22.722Z - info: Site data built
+2025-09-04T16:09:22.722Z - info: Pages rebuilt
+2025-09-04T16:09:22.722Z - info: Website regeneration complete! Total build time: 0.881s
+2025-09-04T16:10:12.444Z - info: [00:10:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2025-09-04T16:10:12.445Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:10:12.445Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:10:12.445Z - info: 1. admin/tp-pe
+2025-09-04T16:10:13.460Z - info: Rebuilding 1 pages
+2025-09-04T16:10:14.340Z - info: Site data built
+2025-09-04T16:10:14.340Z - info: Pages rebuilt
+2025-09-04T16:10:14.340Z - info: Website regeneration complete! Total build time: 0.882s
+2025-09-04T16:27:18.689Z - info: [00:27:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-ped-fragment.md
+2025-09-04T16:27:18.692Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:18.698Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:18.698Z - info: 1. admin/tp-pe
+2025-09-04T16:27:18.701Z - info: [00:27:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2025-09-04T16:27:18.701Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:18.701Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:18.701Z - info: 1. admin/tp-pe
+2025-09-04T16:27:18.702Z - info: [00:27:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2025-09-04T16:27:18.702Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:18.702Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:18.702Z - info: 1. admin/tp-pe
+2025-09-04T16:27:18.702Z - info: [00:27:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-grading-bugs-fragment.md
+2025-09-04T16:27:18.702Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:18.702Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:18.702Z - info: 1. admin/tp-pe
+2025-09-04T16:27:18.702Z - info: [00:27:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/site.json
+2025-09-04T16:27:18.702Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:18.703Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:18.703Z - info: 1. admin/tp-pe
+2025-09-04T16:27:18.703Z - info: [00:27:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-testing-fragment.md
+2025-09-04T16:27:18.703Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:18.703Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:18.703Z - info: 1. admin/tp-pe
+2025-09-04T16:27:18.704Z - info: [00:27:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2025-09-04T16:27:18.704Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:18.704Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:18.704Z - info: 1. admin/tp-pe
+2025-09-04T16:27:19.122Z - info: [00:27:19] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/combined/images/classDiagramsAllNotations.png
+2025-09-04T16:27:19.122Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:19.122Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:19.122Z - info: 1. admin/tp-pe
+2025-09-04T16:27:19.737Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-04T16:27:19.737Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-04T16:27:19.772Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-09-04T16:27:19.787Z - info: Rebuilding 1 pages
+2025-09-04T16:27:20.643Z - info: Pages or site config modified, updating pages...
+2025-09-04T16:27:20.757Z - info: Assets built
+2025-09-04T16:27:20.757Z - info: Site data built
+2025-09-04T16:27:20.757Z - info: Pages rebuilt
+2025-09-04T16:27:20.757Z - info: Website regeneration complete! Total build time: 1.047s
+2025-09-04T16:27:21.729Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe as some of its dependencies were changed since the last visit
+2025-09-04T16:27:22.797Z - info: Site data built
+2025-09-04T16:27:22.797Z - info: Lazy website regeneration complete! Total build time: 1.068s
+2025-09-04T16:27:22.798Z - info: Site data built
+2025-09-04T16:27:29.107Z - info: [00:27:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-ped-fragment.md
+2025-09-04T16:27:29.108Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:29.108Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:29.108Z - info: 1. admin/tp-pe
+2025-09-04T16:27:29.108Z - info: [00:27:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-fragment.md
+2025-09-04T16:27:29.108Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:29.108Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:29.108Z - info: 1. admin/tp-pe
+2025-09-04T16:27:29.109Z - info: [00:27:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-grading-bugs-fragment.md
+2025-09-04T16:27:29.109Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:29.109Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:29.109Z - info: 1. admin/tp-pe
+2025-09-04T16:27:29.109Z - info: [00:27:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-testing-fragment.md
+2025-09-04T16:27:29.109Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:29.109Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:29.109Z - info: 1. admin/tp-pe
+2025-09-04T16:27:30.111Z - info: Rebuilding 1 pages
+2025-09-04T16:27:31.043Z - info: Site data built
+2025-09-04T16:27:31.043Z - info: Pages rebuilt
+2025-09-04T16:27:31.043Z - info: Website regeneration complete! Total build time: 0.933s
+2025-09-04T16:27:38.404Z - info: [00:27:38] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tutors-info.md
+2025-09-04T16:27:38.405Z - info: Synchronizing opened pages list before reload
+2025-09-04T16:27:38.406Z - info: Current opened pages, from most-to-least recent:
+2025-09-04T16:27:38.406Z - info: 1. admin/tp-pe
+2025-09-04T16:27:39.413Z - info: No pages needed to be rebuilt
+2025-09-04T16:28:12.205Z - info: Website generation started at 00:28:10
+2025-09-04T16:28:12.726Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-04T16:28:12.726Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-04T16:28:12.746Z - info: Building assets...
