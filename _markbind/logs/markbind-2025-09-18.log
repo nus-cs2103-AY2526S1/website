@@ -409,3 +409,133 @@
 2025-09-18T09:47:10.691Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-09-18T09:47:10.692Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-09-18T09:47:10.711Z - info: Building assets...
+2025-09-18T09:47:13.601Z - info: Assets built
+2025-09-18T09:47:13.602Z - info: Generating pages...
+2025-09-18T09:47:19.788Z - debug:  
+2025-09-18T09:47:19.789Z - debug:  
+2025-09-18T09:47:23.269Z - debug:  
+2025-09-18T09:47:23.270Z - debug:  
+2025-09-18T09:47:23.270Z - debug:  
+2025-09-18T09:47:23.270Z - debug:  
+2025-09-18T09:47:23.270Z - debug:  
+2025-09-18T09:47:23.270Z - debug:  
+2025-09-18T09:47:23.270Z - debug:  
+2025-09-18T09:47:23.270Z - debug:  
+2025-09-18T09:47:23.270Z - debug:  
+2025-09-18T09:47:25.909Z - debug:  
+2025-09-18T09:47:26.168Z - debug:  
+2025-09-18T09:47:26.298Z - debug:  
+2025-09-18T09:47:26.314Z - debug:  
+2025-09-18T09:47:26.314Z - debug:  
+2025-09-18T09:47:26.317Z - debug:  
+2025-09-18T09:47:36.062Z - debug:  
+2025-09-18T09:48:36.068Z - debug:  
+2025-09-18T09:48:53.080Z - debug:  
+2025-09-18T09:48:53.099Z - debug:  
+2025-09-18T09:49:03.791Z - info: Pages built
+2025-09-18T09:49:03.878Z - info: Site data built
+2025-09-18T09:49:03.878Z - info: Website generation complete! Total build time: 114.981s
+2025-09-18T09:49:03.878Z - info: Build success!
+2025-09-18T09:49:29.219Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-09-18T10:03:35.430Z - info: Website generation (lazy) started at 18:03:34
+2025-09-18T10:03:35.961Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-18T10:03:35.961Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-18T10:03:35.981Z - info: Building assets...
+2025-09-18T10:03:38.905Z - info: Assets built
+2025-09-18T10:03:38.905Z - info: Generating landing page...
+2025-09-18T10:03:39.411Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-09-18T10:03:39.533Z - info: Site data built
+2025-09-18T10:03:39.533Z - info: Website generation (lazy) complete! Total build time: 5.469s
+2025-09-18T10:03:39.563Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-09-18T10:03:39.564Z - info: Press CTRL+C to stop ...
+2025-09-18T10:08:13.191Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week7/index as some of its dependencies were changed since the last visit
+2025-09-18T10:08:13.684Z - info: Site data built
+2025-09-18T10:08:13.684Z - info: Lazy website regeneration complete! Total build time: 0.495s
+2025-09-18T10:19:33.551Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week7/project as some of its dependencies were changed since the last visit
+2025-09-18T10:19:34.881Z - info: Site data built
+2025-09-18T10:19:34.881Z - info: Lazy website regeneration complete! Total build time: 1.332s
+2025-09-18T10:22:15.110Z - info: [18:22:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixE-gitHub.md
+2025-09-18T10:22:15.114Z - info: Synchronizing opened pages list before reload
+2025-09-18T10:22:15.118Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T10:22:15.120Z - info: 1. schedule/week7/project
+2025-09-18T10:22:16.143Z - info: Rebuilding 1 pages
+2025-09-18T10:22:17.631Z - info: Site data built
+2025-09-18T10:22:17.631Z - info: Pages rebuilt
+2025-09-18T10:22:17.631Z - info: Website regeneration complete! Total build time: 1.492s
+2025-09-18T10:26:33.961Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week7/tutorial as some of its dependencies were changed since the last visit
+2025-09-18T10:26:34.209Z - info: Site data built
+2025-09-18T10:26:34.209Z - info: Lazy website regeneration complete! Total build time: 0.249s
+2025-09-18T10:27:35.401Z - info: [18:27:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week7/tutorial-cs2103-fragment.md
+2025-09-18T10:27:35.412Z - info: Synchronizing opened pages list before reload
+2025-09-18T10:27:35.421Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T10:27:35.422Z - info: 1. schedule/week7/tutorial
+2025-09-18T10:27:36.437Z - info: Rebuilding 1 pages
+2025-09-18T10:27:36.641Z - info: Site data built
+2025-09-18T10:27:36.641Z - info: Pages rebuilt
+2025-09-18T10:27:36.641Z - info: Website regeneration complete! Total build time: 0.206s
+2025-09-18T10:28:34.387Z - info: [18:28:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week7/tutorial-cs2103-fragment.md
+2025-09-18T10:28:34.397Z - info: Synchronizing opened pages list before reload
+2025-09-18T10:28:34.399Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T10:28:34.399Z - info: 1. schedule/week7/tutorial
+2025-09-18T10:28:35.424Z - info: Rebuilding 1 pages
+2025-09-18T10:28:35.622Z - info: Site data built
+2025-09-18T10:28:35.622Z - info: Pages rebuilt
+2025-09-18T10:28:35.622Z - info: Website regeneration complete! Total build time: 0.204s
+2025-09-18T10:28:59.739Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week8/index as some of its dependencies were changed since the last visit
+2025-09-18T10:29:00.147Z - info: Site data built
+2025-09-18T10:29:00.147Z - info: Lazy website regeneration complete! Total build time: 0.408s
+2025-09-18T10:29:11.244Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week8/admin as some of its dependencies were changed since the last visit
+2025-09-18T10:29:11.494Z - info: Site data built
+2025-09-18T10:29:11.494Z - info: Lazy website regeneration complete! Total build time: 0.25s
+2025-09-18T10:29:19.148Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week8/topics as some of its dependencies were changed since the last visit
+2025-09-18T10:29:23.216Z - debug:  
+2025-09-18T10:29:23.332Z - debug:  
+2025-09-18T10:29:23.340Z - debug:  
+2025-09-18T10:29:23.362Z - debug:  
+2025-09-18T10:29:23.390Z - debug:  
+2025-09-18T10:29:23.468Z - debug:  
+2025-09-18T10:29:23.505Z - debug:  
+2025-09-18T10:29:23.542Z - debug:  
+2025-09-18T10:29:23.546Z - debug:  
+2025-09-18T10:29:23.562Z - debug:  
+2025-09-18T10:29:23.566Z - debug:  
+2025-09-18T10:29:23.598Z - debug:  
+2025-09-18T10:29:23.609Z - debug:  
+2025-09-18T10:29:23.609Z - debug:  
+2025-09-18T10:29:23.664Z - debug:  
+2025-09-18T10:29:23.833Z - info: Site data built
+2025-09-18T10:29:23.833Z - info: Lazy website regeneration complete! Total build time: 4.685s
+2025-09-18T10:30:35.609Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week8/project as some of its dependencies were changed since the last visit
+2025-09-18T10:30:36.699Z - info: Site data built
+2025-09-18T10:30:36.699Z - info: Lazy website regeneration complete! Total build time: 1.091s
+2025-09-18T10:31:04.951Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week8/tutorial as some of its dependencies were changed since the last visit
+2025-09-18T10:31:05.276Z - info: Site data built
+2025-09-18T10:31:05.276Z - info: Lazy website regeneration complete! Total build time: 0.325s
+2025-09-18T10:32:25.800Z - info: [18:32:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/common-tutorials-fragment.md
+2025-09-18T10:32:25.807Z - info: Synchronizing opened pages list before reload
+2025-09-18T10:32:25.810Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T10:32:25.811Z - info: 1. schedule/week8/tutorial
+2025-09-18T10:32:26.823Z - info: Rebuilding 1 pages
+2025-09-18T10:32:27.166Z - info: Site data built
+2025-09-18T10:32:27.166Z - info: Pages rebuilt
+2025-09-18T10:32:27.166Z - info: Website regeneration complete! Total build time: 0.345s
+2025-09-18T10:32:40.194Z - info: [18:32:40] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/common-tutorials-fragment.md
+2025-09-18T10:32:40.196Z - info: Synchronizing opened pages list before reload
+2025-09-18T10:32:40.196Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T10:32:40.196Z - info: 1. schedule/week8/tutorial
+2025-09-18T10:32:41.201Z - info: Rebuilding 1 pages
+2025-09-18T10:32:41.510Z - info: Site data built
+2025-09-18T10:32:41.510Z - info: Pages rebuilt
+2025-09-18T10:32:41.510Z - info: Website regeneration complete! Total build time: 0.31s
+2025-09-18T10:33:07.055Z - info: [18:33:07] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/common-tutorials-fragment.md
+2025-09-18T10:33:07.058Z - info: Synchronizing opened pages list before reload
+2025-09-18T10:33:07.059Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T10:33:07.060Z - info: 1. schedule/week8/tutorial
+2025-09-18T10:33:08.070Z - info: Rebuilding 1 pages
+2025-09-18T10:33:08.404Z - info: Site data built
+2025-09-18T10:33:08.404Z - info: Pages rebuilt
+2025-09-18T10:33:08.404Z - info: Website regeneration complete! Total build time: 0.337s
+2025-09-18T10:33:26.930Z - info: Website generation started at 18:33:25
+2025-09-18T10:33:27.759Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-18T10:33:27.760Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-18T10:33:27.791Z - info: Building assets...
