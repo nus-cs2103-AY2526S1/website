@@ -1,0 +1,411 @@
+2025-09-18T08:21:47.398Z - info: Website generation (lazy) started at 16:21:46
+2025-09-18T08:21:48.054Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-18T08:21:48.055Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-18T08:21:48.075Z - info: Building assets...
+2025-09-18T08:21:51.135Z - info: Assets built
+2025-09-18T08:21:51.136Z - info: Generating landing page...
+2025-09-18T08:21:51.600Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-09-18T08:21:51.669Z - info: Site data built
+2025-09-18T08:21:51.669Z - info: Website generation (lazy) complete! Total build time: 5.619s
+2025-09-18T08:21:51.681Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-09-18T08:21:51.681Z - info: Press CTRL+C to stop ...
+2025-09-18T08:22:42.124Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week7/index as some of its dependencies were changed since the last visit
+2025-09-18T08:22:42.578Z - info: Site data built
+2025-09-18T08:22:42.578Z - info: Lazy website regeneration complete! Total build time: 0.455s
+2025-09-18T08:22:47.642Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week7/topics as some of its dependencies were changed since the last visit
+2025-09-18T08:22:48.193Z - info: Site data built
+2025-09-18T08:22:48.193Z - info: Lazy website regeneration complete! Total build time: 0.551s
+2025-09-18T08:23:01.180Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:23:01.359Z - info: Site data built
+2025-09-18T08:23:01.359Z - info: Lazy website regeneration complete! Total build time: 0.179s
+2025-09-18T08:26:34.721Z - info: [16:26:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:26:34.724Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:26:34.725Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:26:34.725Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:26:34.726Z - info: 2. schedule/week7/topics
+2025-09-18T08:26:35.744Z - info: Rebuilding 1 pages
+2025-09-18T08:26:36.340Z - info: Site data built
+2025-09-18T08:26:36.340Z - info: Pages rebuilt
+2025-09-18T08:26:36.340Z - info: Website regeneration complete! Total build time: 0.598s
+2025-09-18T08:26:37.512Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:26:37.580Z - info: Site data built
+2025-09-18T08:26:37.580Z - info: Lazy website regeneration complete! Total build time: 0.069s
+2025-09-18T08:28:28.187Z - info: [16:28:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:28:28.190Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:28:28.190Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:28:28.190Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:28:28.190Z - info: 2. schedule/week7/topics
+2025-09-18T08:28:29.216Z - info: Rebuilding 1 pages
+2025-09-18T08:28:29.824Z - info: Site data built
+2025-09-18T08:28:29.824Z - info: Pages rebuilt
+2025-09-18T08:28:29.824Z - info: Website regeneration complete! Total build time: 0.621s
+2025-09-18T08:28:31.002Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:28:31.072Z - info: Site data built
+2025-09-18T08:28:31.072Z - info: Lazy website regeneration complete! Total build time: 0.071s
+2025-09-18T08:28:40.478Z - info: [16:28:40] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:28:40.478Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:28:40.478Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:28:40.479Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:28:40.479Z - info: 2. schedule/week7/topics
+2025-09-18T08:28:41.483Z - info: Rebuilding 1 pages
+2025-09-18T08:28:42.102Z - info: Site data built
+2025-09-18T08:28:42.102Z - info: Pages rebuilt
+2025-09-18T08:28:42.102Z - info: Website regeneration complete! Total build time: 0.622s
+2025-09-18T08:28:43.271Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:28:43.339Z - info: Site data built
+2025-09-18T08:28:43.339Z - info: Lazy website regeneration complete! Total build time: 0.068s
+2025-09-18T08:32:36.509Z - info: [16:32:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:32:36.516Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:32:36.518Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:32:36.518Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:32:36.518Z - info: 2. schedule/week7/topics
+2025-09-18T08:32:37.526Z - info: Rebuilding 1 pages
+2025-09-18T08:32:38.183Z - info: Site data built
+2025-09-18T08:32:38.183Z - info: Pages rebuilt
+2025-09-18T08:32:38.183Z - info: Website regeneration complete! Total build time: 0.66s
+2025-09-18T08:32:39.358Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:32:39.426Z - info: Site data built
+2025-09-18T08:32:39.426Z - info: Lazy website regeneration complete! Total build time: 0.068s
+2025-09-18T08:33:29.099Z - info: [16:33:29] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:33:29.102Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:33:29.106Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:33:29.107Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:33:29.108Z - info: 2. schedule/week7/topics
+2025-09-18T08:33:30.116Z - info: Rebuilding 1 pages
+2025-09-18T08:33:30.747Z - info: Site data built
+2025-09-18T08:33:30.747Z - info: Pages rebuilt
+2025-09-18T08:33:30.747Z - info: Website regeneration complete! Total build time: 0.634s
+2025-09-18T08:33:31.920Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:33:31.992Z - info: Site data built
+2025-09-18T08:33:31.992Z - info: Lazy website regeneration complete! Total build time: 0.072s
+2025-09-18T08:34:08.206Z - info: [16:34:08] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:34:08.214Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:34:08.216Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:34:08.216Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:34:08.217Z - info: 2. schedule/week7/topics
+2025-09-18T08:34:09.232Z - info: Rebuilding 1 pages
+2025-09-18T08:34:09.848Z - info: Site data built
+2025-09-18T08:34:09.848Z - info: Pages rebuilt
+2025-09-18T08:34:09.848Z - info: Website regeneration complete! Total build time: 0.621s
+2025-09-18T08:34:11.017Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:34:11.085Z - info: Site data built
+2025-09-18T08:34:11.085Z - info: Lazy website regeneration complete! Total build time: 0.068s
+2025-09-18T08:36:07.867Z - info: [16:36:07] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:36:07.874Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:36:07.878Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:36:07.879Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:36:07.879Z - info: 2. schedule/week7/topics
+2025-09-18T08:36:08.889Z - info: Rebuilding 1 pages
+2025-09-18T08:36:09.524Z - info: Site data built
+2025-09-18T08:36:09.524Z - info: Pages rebuilt
+2025-09-18T08:36:09.524Z - info: Website regeneration complete! Total build time: 0.637s
+2025-09-18T08:36:10.701Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:36:10.764Z - info: Site data built
+2025-09-18T08:36:10.764Z - info: Lazy website regeneration complete! Total build time: 0.063s
+2025-09-18T08:37:11.992Z - info: [16:37:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:37:11.996Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:37:11.998Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:37:11.998Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:37:11.999Z - info: 2. schedule/week7/topics
+2025-09-18T08:37:13.011Z - info: Rebuilding 1 pages
+2025-09-18T08:37:13.608Z - info: Site data built
+2025-09-18T08:37:13.609Z - info: Pages rebuilt
+2025-09-18T08:37:13.609Z - info: Website regeneration complete! Total build time: 0.601s
+2025-09-18T08:37:14.787Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:37:14.863Z - info: Site data built
+2025-09-18T08:37:14.863Z - info: Lazy website regeneration complete! Total build time: 0.076s
+2025-09-18T08:38:12.990Z - info: [16:38:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:38:12.995Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:38:12.997Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:38:12.998Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:38:12.998Z - info: 2. schedule/week7/topics
+2025-09-18T08:38:14.022Z - info: Rebuilding 1 pages
+2025-09-18T08:38:14.633Z - info: Site data built
+2025-09-18T08:38:14.633Z - info: Pages rebuilt
+2025-09-18T08:38:14.633Z - info: Website regeneration complete! Total build time: 0.613s
+2025-09-18T08:38:15.810Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:38:15.872Z - info: Site data built
+2025-09-18T08:38:15.872Z - info: Lazy website regeneration complete! Total build time: 0.062s
+2025-09-18T08:38:39.961Z - info: [16:38:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:38:39.966Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:38:39.970Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:38:39.970Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:38:39.970Z - info: 2. schedule/week7/topics
+2025-09-18T08:38:40.985Z - info: Rebuilding 1 pages
+2025-09-18T08:38:41.716Z - info: Site data built
+2025-09-18T08:38:41.716Z - info: Pages rebuilt
+2025-09-18T08:38:41.716Z - info: Website regeneration complete! Total build time: 0.735s
+2025-09-18T08:38:42.899Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:38:42.955Z - info: Site data built
+2025-09-18T08:38:42.955Z - info: Lazy website regeneration complete! Total build time: 0.056s
+2025-09-18T08:38:59.028Z - info: [16:38:59] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:38:59.029Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:38:59.030Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:38:59.030Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:38:59.030Z - info: 2. schedule/week7/topics
+2025-09-18T08:39:00.037Z - info: Rebuilding 1 pages
+2025-09-18T08:39:00.679Z - info: Site data built
+2025-09-18T08:39:00.679Z - info: Pages rebuilt
+2025-09-18T08:39:00.679Z - info: Website regeneration complete! Total build time: 0.645s
+2025-09-18T08:39:01.857Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:39:01.927Z - info: Site data built
+2025-09-18T08:39:01.927Z - info: Lazy website regeneration complete! Total build time: 0.07s
+2025-09-18T08:39:44.071Z - info: [16:39:44] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:39:44.076Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:39:44.077Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:39:44.077Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:39:44.077Z - info: 2. schedule/week7/topics
+2025-09-18T08:39:45.093Z - info: Rebuilding 1 pages
+2025-09-18T08:39:45.724Z - info: Site data built
+2025-09-18T08:39:45.724Z - info: Pages rebuilt
+2025-09-18T08:39:45.724Z - info: Website regeneration complete! Total build time: 0.634s
+2025-09-18T08:39:46.900Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:39:46.968Z - info: Site data built
+2025-09-18T08:39:46.968Z - info: Lazy website regeneration complete! Total build time: 0.068s
+2025-09-18T08:40:05.156Z - info: [16:40:05] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:40:05.159Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:40:05.159Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:40:05.159Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:40:05.160Z - info: 2. schedule/week7/topics
+2025-09-18T08:40:06.171Z - info: Rebuilding 1 pages
+2025-09-18T08:40:06.813Z - info: Site data built
+2025-09-18T08:40:06.813Z - info: Pages rebuilt
+2025-09-18T08:40:06.813Z - info: Website regeneration complete! Total build time: 0.645s
+2025-09-18T08:40:07.992Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:40:08.055Z - info: Site data built
+2025-09-18T08:40:08.055Z - info: Lazy website regeneration complete! Total build time: 0.063s
+2025-09-18T08:40:28.703Z - info: [16:40:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:40:28.707Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:40:28.709Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:40:28.710Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:40:28.710Z - info: 2. schedule/week7/topics
+2025-09-18T08:40:29.724Z - info: Rebuilding 1 pages
+2025-09-18T08:40:30.329Z - info: Site data built
+2025-09-18T08:40:30.329Z - info: Pages rebuilt
+2025-09-18T08:40:30.329Z - info: Website regeneration complete! Total build time: 0.608s
+2025-09-18T08:40:31.506Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:40:31.577Z - info: Site data built
+2025-09-18T08:40:31.577Z - info: Lazy website regeneration complete! Total build time: 0.071s
+2025-09-18T08:42:05.089Z - info: [16:42:05] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/revisionControl/forkingWorkflow/~$diagram.pptx
+2025-09-18T08:42:05.090Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:42:05.090Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:42:05.091Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:42:05.091Z - info: 2. schedule/week7/topics
+2025-09-18T08:42:06.198Z - info: Assets built
+2025-09-18T08:56:36.649Z - info: [16:56:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/revisionControl/forkingWorkflow/diagram.pptx
+2025-09-18T08:56:36.650Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:56:36.650Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:56:36.650Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:56:36.650Z - info: 2. schedule/week7/topics
+2025-09-18T08:56:37.658Z - info: Assets built
+2025-09-18T08:57:45.752Z - info: [16:57:45] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/images/diagram.png
+2025-09-18T08:57:45.755Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:57:45.757Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:57:45.758Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:57:45.758Z - info: 2. schedule/week7/topics
+2025-09-18T08:57:46.044Z - info: [16:57:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/images/diagram.png
+2025-09-18T08:57:46.044Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:57:46.044Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:57:46.045Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:57:46.045Z - info: 2. schedule/week7/topics
+2025-09-18T08:57:46.786Z - info: Assets built
+2025-09-18T08:59:18.122Z - info: [16:59:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:59:18.123Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:59:18.124Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:59:18.124Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:59:18.124Z - info: 2. schedule/week7/topics
+2025-09-18T08:59:19.165Z - info: Rebuilding 1 pages
+2025-09-18T08:59:19.825Z - info: Site data built
+2025-09-18T08:59:19.825Z - info: Pages rebuilt
+2025-09-18T08:59:19.825Z - info: Website regeneration complete! Total build time: 0.69s
+2025-09-18T08:59:21.005Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:59:21.087Z - info: Site data built
+2025-09-18T08:59:21.087Z - info: Lazy website regeneration complete! Total build time: 0.082s
+2025-09-18T08:59:39.109Z - info: [16:59:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T08:59:39.111Z - info: Synchronizing opened pages list before reload
+2025-09-18T08:59:39.114Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T08:59:39.115Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T08:59:39.117Z - info: 2. schedule/week7/topics
+2025-09-18T08:59:40.132Z - info: Rebuilding 1 pages
+2025-09-18T08:59:40.751Z - info: Site data built
+2025-09-18T08:59:40.751Z - info: Pages rebuilt
+2025-09-18T08:59:40.751Z - info: Website regeneration complete! Total build time: 0.622s
+2025-09-18T08:59:41.923Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T08:59:41.990Z - info: Site data built
+2025-09-18T08:59:41.991Z - info: Lazy website regeneration complete! Total build time: 0.068s
+2025-09-18T09:00:02.731Z - info: [17:00:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T09:00:02.733Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:00:02.734Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:00:02.734Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T09:00:02.734Z - info: 2. schedule/week7/topics
+2025-09-18T09:00:03.768Z - info: Rebuilding 1 pages
+2025-09-18T09:00:04.363Z - info: Site data built
+2025-09-18T09:00:04.363Z - info: Pages rebuilt
+2025-09-18T09:00:04.363Z - info: Website regeneration complete! Total build time: 0.598s
+2025-09-18T09:00:05.541Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/index as some of its dependencies were changed since the last visit
+2025-09-18T09:00:05.608Z - info: Site data built
+2025-09-18T09:00:05.608Z - info: Lazy website regeneration complete! Total build time: 0.067s
+2025-09-18T09:00:51.065Z - info: [17:00:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/_markbind/variables.md
+2025-09-18T09:00:51.069Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:00:51.071Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:00:51.071Z - info: 1. ../book/gitAndGithub/forkingWorkflow/index
+2025-09-18T09:00:51.071Z - info: 2. schedule/week7/topics
+2025-09-18T09:00:52.108Z - info: No pages needed to be rebuilt
+2025-09-18T09:03:54.981Z - info: [17:03:54] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/weeklyTextbookTopics-fragment.md
+2025-09-18T09:03:54.990Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:03:54.991Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:03:54.992Z - info: 1. schedule/week7/topics
+2025-09-18T09:03:56.006Z - info: Rebuilding 1 pages
+2025-09-18T09:03:56.614Z - info: Site data built
+2025-09-18T09:03:56.614Z - info: Pages rebuilt
+2025-09-18T09:03:56.614Z - info: Website regeneration complete! Total build time: 0.611s
+2025-09-18T09:04:46.198Z - info: [17:04:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/centralizedFlow/index.md
+2025-09-18T09:04:46.203Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:04:46.207Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:04:46.207Z - info: 1. schedule/week7/topics
+2025-09-18T09:04:46.212Z - info: [17:04:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/featureBranchFlow/index.md
+2025-09-18T09:04:46.212Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:04:46.212Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:04:46.212Z - info: 1. schedule/week7/topics
+2025-09-18T09:04:47.238Z - info: No pages needed to be rebuilt
+2025-09-18T09:07:06.395Z - info: [17:07:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/drcsVsCrcs/text.md
+2025-09-18T09:07:06.400Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:07:06.402Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:07:06.402Z - info: 1. schedule/week7/topics
+2025-09-18T09:07:07.416Z - info: Rebuilding 1 pages
+2025-09-18T09:07:08.044Z - info: Site data built
+2025-09-18T09:07:08.044Z - info: Pages rebuilt
+2025-09-18T09:07:08.044Z - info: Website regeneration complete! Total build time: 0.631s
+2025-09-18T09:08:02.972Z - info: [17:08:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/drcsVsCrcs/text.md
+2025-09-18T09:08:02.975Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:08:02.976Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:08:02.977Z - info: 1. schedule/week7/topics
+2025-09-18T09:08:03.984Z - info: Rebuilding 1 pages
+2025-09-18T09:08:04.595Z - info: Site data built
+2025-09-18T09:08:04.595Z - info: Pages rebuilt
+2025-09-18T09:08:04.595Z - info: Website regeneration complete! Total build time: 0.614s
+2025-09-18T09:08:10.022Z - info: [17:08:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/drcsVsCrcs/text.md
+2025-09-18T09:08:10.022Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:08:10.022Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:08:10.022Z - info: 1. schedule/week7/topics
+2025-09-18T09:08:11.024Z - info: Rebuilding 1 pages
+2025-09-18T09:08:11.504Z - info: Site data built
+2025-09-18T09:08:11.505Z - info: Pages rebuilt
+2025-09-18T09:08:11.505Z - info: Website regeneration complete! Total build time: 0.483s
+2025-09-18T09:09:03.499Z - info: [17:09:03] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/diagrams/revisionControl/forkingWorkflow/~$diagram.pptx
+2025-09-18T09:09:03.503Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:09:03.505Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:09:03.506Z - info: 1. schedule/week7/topics
+2025-09-18T09:09:04.657Z - debug: Assets removed
+2025-09-18T09:13:40.338Z - info: [17:13:40] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/drcsVsCrcs/text.md
+2025-09-18T09:13:40.360Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:13:40.363Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:13:40.364Z - info: 1. schedule/week7/topics
+2025-09-18T09:13:41.403Z - info: Rebuilding 1 pages
+2025-09-18T09:13:42.047Z - info: Site data built
+2025-09-18T09:13:42.047Z - info: Pages rebuilt
+2025-09-18T09:13:42.047Z - info: Website regeneration complete! Total build time: 0.651s
+2025-09-18T09:14:30.586Z - info: [17:14:30] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T09:14:30.590Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:14:30.591Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:14:30.591Z - info: 1. schedule/week7/topics
+2025-09-18T09:14:31.600Z - info: Rebuilding 1 pages
+2025-09-18T09:14:32.206Z - info: Site data built
+2025-09-18T09:14:32.206Z - info: Pages rebuilt
+2025-09-18T09:14:32.206Z - info: Website regeneration complete! Total build time: 0.61s
+2025-09-18T09:16:16.382Z - info: [17:16:16] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/featureBranchFlow/text.md
+2025-09-18T09:16:16.388Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:16:16.389Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:16:16.389Z - info: 1. schedule/week7/topics
+2025-09-18T09:16:16.400Z - info: [17:16:16] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T09:16:16.400Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:16:16.400Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:16:16.403Z - info: 1. schedule/week7/topics
+2025-09-18T09:16:17.402Z - info: Rebuilding 1 pages
+2025-09-18T09:16:18.033Z - info: Site data built
+2025-09-18T09:16:18.033Z - info: Pages rebuilt
+2025-09-18T09:16:18.033Z - info: Website regeneration complete! Total build time: 0.634s
+2025-09-18T09:16:38.115Z - info: [17:16:38] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/featureBranchFlow/text.md
+2025-09-18T09:16:38.122Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:16:38.125Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:16:38.125Z - info: 1. schedule/week7/topics
+2025-09-18T09:16:39.151Z - info: Rebuilding 1 pages
+2025-09-18T09:16:39.768Z - info: Site data built
+2025-09-18T09:16:39.768Z - info: Pages rebuilt
+2025-09-18T09:16:39.768Z - info: Website regeneration complete! Total build time: 0.62s
+2025-09-18T09:16:48.015Z - info: [17:16:48] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/featureBranchFlow/text.md
+2025-09-18T09:16:48.016Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:16:48.016Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:16:48.016Z - info: 1. schedule/week7/topics
+2025-09-18T09:16:49.024Z - info: Rebuilding 1 pages
+2025-09-18T09:16:49.603Z - info: Site data built
+2025-09-18T09:16:49.603Z - info: Pages rebuilt
+2025-09-18T09:16:49.603Z - info: Website regeneration complete! Total build time: 0.581s
+2025-09-18T09:17:57.609Z - info: [17:17:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/centralizedFlow/text.md
+2025-09-18T09:17:57.611Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:17:57.611Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:17:57.612Z - info: 1. schedule/week7/topics
+2025-09-18T09:17:58.621Z - info: Rebuilding 1 pages
+2025-09-18T09:17:59.231Z - info: Site data built
+2025-09-18T09:17:59.231Z - info: Pages rebuilt
+2025-09-18T09:17:59.231Z - info: Website regeneration complete! Total build time: 0.613s
+2025-09-18T09:18:28.060Z - info: [17:18:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/centralizedFlow/text.md
+2025-09-18T09:18:28.061Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:18:28.061Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:18:28.061Z - info: 1. schedule/week7/topics
+2025-09-18T09:18:29.074Z - info: Rebuilding 1 pages
+2025-09-18T09:18:29.691Z - info: Site data built
+2025-09-18T09:18:29.691Z - info: Pages rebuilt
+2025-09-18T09:18:29.691Z - info: Website regeneration complete! Total build time: 0.619s
+2025-09-18T09:19:52.722Z - info: [17:19:52] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/drcsVsCrcs/text.md
+2025-09-18T09:19:52.727Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:19:52.728Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:19:52.728Z - info: 1. schedule/week7/topics
+2025-09-18T09:19:53.747Z - info: Rebuilding 1 pages
+2025-09-18T09:19:54.355Z - info: Site data built
+2025-09-18T09:19:54.355Z - info: Pages rebuilt
+2025-09-18T09:19:54.355Z - info: Website regeneration complete! Total build time: 0.609s
+2025-09-18T09:20:42.479Z - info: [17:20:42] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/drcsVsCrcs/text.md
+2025-09-18T09:20:42.482Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:20:42.483Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:20:42.483Z - info: 1. schedule/week7/topics
+2025-09-18T09:20:43.493Z - info: Rebuilding 1 pages
+2025-09-18T09:20:44.141Z - info: Site data built
+2025-09-18T09:20:44.141Z - info: Pages rebuilt
+2025-09-18T09:20:44.141Z - info: Website regeneration complete! Total build time: 0.651s
+2025-09-18T09:20:59.232Z - info: [17:20:59] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/drcsVsCrcs/text.md
+2025-09-18T09:20:59.232Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:20:59.232Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:20:59.232Z - info: 1. schedule/week7/topics
+2025-09-18T09:21:00.249Z - info: Rebuilding 1 pages
+2025-09-18T09:21:00.841Z - info: Site data built
+2025-09-18T09:21:00.841Z - info: Pages rebuilt
+2025-09-18T09:21:00.841Z - info: Website regeneration complete! Total build time: 0.594s
+2025-09-18T09:23:11.764Z - info: [17:23:11] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T09:23:11.766Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:23:11.768Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:23:11.768Z - info: 1. schedule/week7/topics
+2025-09-18T09:23:12.775Z - info: Rebuilding 1 pages
+2025-09-18T09:23:13.427Z - info: Site data built
+2025-09-18T09:23:13.428Z - info: Pages rebuilt
+2025-09-18T09:23:13.428Z - info: Website regeneration complete! Total build time: 0.655s
+2025-09-18T09:24:21.768Z - info: [17:24:21] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T09:24:21.775Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:24:21.777Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:24:21.777Z - info: 1. schedule/week7/topics
+2025-09-18T09:24:22.786Z - info: Rebuilding 1 pages
+2025-09-18T09:24:23.429Z - info: Site data built
+2025-09-18T09:24:23.429Z - info: Pages rebuilt
+2025-09-18T09:24:23.429Z - info: Website regeneration complete! Total build time: 0.645s
+2025-09-18T09:24:46.345Z - info: [17:24:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/forkingWorkflow/text.md
+2025-09-18T09:24:46.346Z - info: Synchronizing opened pages list before reload
+2025-09-18T09:24:46.347Z - info: Current opened pages, from most-to-least recent:
+2025-09-18T09:24:46.347Z - info: 1. schedule/week7/topics
+2025-09-18T09:24:47.357Z - info: Rebuilding 1 pages
+2025-09-18T09:24:47.960Z - info: Site data built
+2025-09-18T09:24:47.960Z - info: Pages rebuilt
+2025-09-18T09:24:47.960Z - info: Website regeneration complete! Total build time: 0.605s
+2025-09-18T09:47:10.059Z - info: Website generation started at 17:47:08
+2025-09-18T09:47:10.691Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-18T09:47:10.692Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-18T09:47:10.711Z - info: Building assets...
