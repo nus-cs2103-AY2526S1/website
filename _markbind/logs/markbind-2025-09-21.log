@@ -1,0 +1,257 @@
+2025-09-20T16:12:03.694Z - info: Website generation (lazy) started at 00:12:02
+2025-09-20T16:12:04.269Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-20T16:12:04.270Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-20T16:12:04.290Z - info: Building assets...
+2025-09-20T16:12:07.049Z - info: Assets built
+2025-09-20T16:12:07.050Z - info: Generating landing page...
+2025-09-20T16:12:07.545Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-09-20T16:12:07.618Z - info: Site data built
+2025-09-20T16:12:07.618Z - info: Website generation (lazy) complete! Total build time: 5.183s
+2025-09-20T16:12:07.629Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-09-20T16:12:07.629Z - info: Press CTRL+C to stop ...
+2025-09-20T16:12:30.738Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-grading as some of its dependencies were changed since the last visit
+2025-09-20T16:12:30.929Z - info: Site data built
+2025-09-20T16:12:30.929Z - info: Lazy website regeneration complete! Total build time: 0.193s
+2025-09-20T16:12:39.559Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-w7 as some of its dependencies were changed since the last visit
+2025-09-20T16:12:39.812Z - info: Site data built
+2025-09-20T16:12:39.812Z - info: Lazy website regeneration complete! Total build time: 0.253s
+2025-09-20T16:12:47.002Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-w6 as some of its dependencies were changed since the last visit
+2025-09-20T16:12:47.511Z - info: Site data built
+2025-09-20T16:12:47.511Z - info: Lazy website regeneration complete! Total build time: 0.509s
+2025-09-20T16:13:53.840Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixD-help as some of its dependencies were changed since the last visit
+2025-09-20T16:13:54.060Z - info: Site data built
+2025-09-20T16:13:54.060Z - info: Lazy website regeneration complete! Total build time: 0.221s
+2025-09-20T16:37:01.862Z - info: [00:37:01] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+2025-09-20T16:37:01.863Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:37:01.864Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:37:01.864Z - info: 1. admin/appendixD-help
+2025-09-20T16:37:03.037Z - info: Assets built
+2025-09-20T16:38:01.381Z - info: [00:38:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+2025-09-20T16:38:01.381Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:38:01.381Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:38:01.381Z - info: 1. admin/appendixD-help
+2025-09-20T16:38:02.386Z - info: Assets built
+2025-09-20T16:39:00.302Z - info: [00:39:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+2025-09-20T16:39:00.302Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:39:00.302Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:39:00.303Z - info: 1. admin/appendixD-help
+2025-09-20T16:39:01.307Z - info: Assets built
+2025-09-20T16:39:25.519Z - info: [00:39:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+2025-09-20T16:39:25.519Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:39:25.519Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:39:25.520Z - info: 1. admin/appendixD-help
+2025-09-20T16:39:26.521Z - info: Assets built
+2025-09-20T16:46:19.364Z - info: [00:46:19] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting.md
+2025-09-20T16:46:19.368Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:46:19.369Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:46:19.369Z - info: 1. admin/appendixD-help
+2025-09-20T16:46:20.466Z - info: Pages or site config modified, updating pages...
+2025-09-20T16:46:21.603Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixD-help as some of its dependencies were changed since the last visit
+2025-09-20T16:46:21.790Z - info: Site data built
+2025-09-20T16:46:21.791Z - info: Lazy website regeneration complete! Total build time: 0.188s
+2025-09-20T16:49:53.623Z - info: [00:49:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2025-09-20T16:49:53.624Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:49:53.625Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:49:53.626Z - info: 1. admin/appendixD-help
+2025-09-20T16:49:53.630Z - info: [00:49:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+2025-09-20T16:49:53.631Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:49:53.631Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:49:53.631Z - info: 1. admin/appendixD-help
+2025-09-20T16:49:53.719Z - info: [00:49:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/common/macros.njk
+2025-09-20T16:49:53.719Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:49:53.719Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:49:53.719Z - info: 1. admin/appendixD-help
+2025-09-20T16:49:53.720Z - info: [00:49:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/weeklyAdminTopics-fragment.md
+2025-09-20T16:49:53.720Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:49:53.720Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:49:53.720Z - info: 1. admin/appendixD-help
+2025-09-20T16:49:53.721Z - info: [00:49:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2025-09-20T16:49:53.721Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:49:53.722Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:49:53.722Z - info: 1. admin/appendixD-help
+2025-09-20T16:49:53.723Z - info: [00:49:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting.md
+2025-09-20T16:49:53.723Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:49:53.724Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:49:53.724Z - info: 1. admin/appendixD-help
+2025-09-20T16:49:54.774Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-20T16:49:54.774Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-20T16:49:54.789Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-09-20T16:49:54.802Z - info: Rebuilding 1 pages
+2025-09-20T16:49:54.875Z - info: Assets built
+2025-09-20T16:49:54.936Z - info: Site data built
+2025-09-20T16:49:54.936Z - info: Pages rebuilt
+2025-09-20T16:49:54.936Z - info: Website regeneration complete! Total build time: 0.168s
+2025-09-20T16:50:00.332Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting as some of its dependencies were changed since the last visit
+2025-09-20T16:50:00.394Z - error: No such segment '#ts--S' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting.md
+2025-09-20T16:50:00.454Z - info: Site data built
+2025-09-20T16:50:00.454Z - info: Lazy website regeneration complete! Total build time: 0.122s
+2025-09-20T16:51:04.903Z - info: [00:51:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/common/macros.njk
+2025-09-20T16:51:04.910Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:51:04.912Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:51:04.913Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:51:06.034Z - info: Rebuilding 1 pages
+2025-09-20T16:51:06.078Z - info: Site data built
+2025-09-20T16:51:06.078Z - info: Pages rebuilt
+2025-09-20T16:51:06.078Z - info: Website regeneration complete! Total build time: 0.045s
+2025-09-20T16:52:03.771Z - info: [00:52:03] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2025-09-20T16:52:03.772Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:52:03.772Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:52:03.772Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:52:04.791Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-20T16:52:04.792Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-20T16:52:04.829Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-09-20T16:52:04.831Z - info: Rebuilding 1 pages
+2025-09-20T16:52:04.964Z - info: Site data built
+2025-09-20T16:52:04.964Z - info: Pages rebuilt
+2025-09-20T16:52:04.964Z - info: Website regeneration complete! Total build time: 0.19s
+2025-09-20T16:53:32.457Z - info: [00:53:32] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2025-09-20T16:53:32.465Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:53:32.466Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:53:32.467Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:53:33.488Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-20T16:53:33.489Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-20T16:53:33.523Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-09-20T16:53:33.527Z - info: Rebuilding 1 pages
+2025-09-20T16:53:33.602Z - info: Site data built
+2025-09-20T16:53:33.602Z - info: Pages rebuilt
+2025-09-20T16:53:33.602Z - info: Website regeneration complete! Total build time: 0.13s
+2025-09-20T16:53:55.807Z - info: [00:53:55] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2025-09-20T16:53:55.808Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:53:55.808Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:53:55.808Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:53:56.824Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-20T16:53:56.824Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-20T16:53:56.847Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-09-20T16:53:56.850Z - info: Rebuilding 1 pages
+2025-09-20T16:53:56.918Z - info: Site data built
+2025-09-20T16:53:56.918Z - info: Pages rebuilt
+2025-09-20T16:53:56.918Z - info: Website regeneration complete! Total build time: 0.103s
+2025-09-20T16:54:40.615Z - info: [00:54:40] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/variables.md
+2025-09-20T16:54:40.616Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:54:40.616Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:54:40.617Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:54:41.632Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-20T16:54:41.633Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-20T16:54:41.653Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-09-20T16:54:41.658Z - info: Rebuilding 1 pages
+2025-09-20T16:54:41.724Z - info: Site data built
+2025-09-20T16:54:41.724Z - info: Pages rebuilt
+2025-09-20T16:54:41.724Z - info: Website regeneration complete! Total build time: 0.105s
+2025-09-20T16:55:02.001Z - info: [00:55:02] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting.md
+2025-09-20T16:55:02.001Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:55:02.001Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:55:02.001Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:55:03.015Z - info: Rebuilding 1 pages
+2025-09-20T16:55:03.095Z - info: Site data built
+2025-09-20T16:55:03.095Z - info: Pages rebuilt
+2025-09-20T16:55:03.095Z - info: Website regeneration complete! Total build time: 0.081s
+2025-09-20T16:56:07.187Z - info: [00:56:07] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/common/macros.njk
+2025-09-20T16:56:07.188Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:56:07.189Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:56:07.189Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:56:08.310Z - info: Rebuilding 1 pages
+2025-09-20T16:56:08.351Z - info: Site data built
+2025-09-20T16:56:08.352Z - info: Pages rebuilt
+2025-09-20T16:56:08.352Z - info: Website regeneration complete! Total build time: 0.042s
+2025-09-20T16:56:35.907Z - info: [00:56:35] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/common/macros.njk
+2025-09-20T16:56:35.915Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:56:35.917Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:56:35.917Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:56:37.070Z - info: Rebuilding 1 pages
+2025-09-20T16:56:37.124Z - info: Site data built
+2025-09-20T16:56:37.124Z - info: Pages rebuilt
+2025-09-20T16:56:37.124Z - info: Website regeneration complete! Total build time: 0.055s
+2025-09-20T16:56:51.521Z - info: [00:56:51] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/common/macros.njk
+2025-09-20T16:56:51.521Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:56:51.521Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:56:51.522Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:56:52.660Z - info: Rebuilding 1 pages
+2025-09-20T16:56:52.704Z - info: Site data built
+2025-09-20T16:56:52.704Z - info: Pages rebuilt
+2025-09-20T16:56:52.704Z - info: Website regeneration complete! Total build time: 0.045s
+2025-09-20T16:57:32.032Z - info: [00:57:32] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting.md
+2025-09-20T16:57:32.032Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:57:32.032Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:57:32.032Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:57:33.043Z - info: Rebuilding 1 pages
+2025-09-20T16:57:33.124Z - info: Site data built
+2025-09-20T16:57:33.124Z - info: Pages rebuilt
+2025-09-20T16:57:33.124Z - info: Website regeneration complete! Total build time: 0.083s
+2025-09-20T16:58:12.563Z - info: [00:58:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting.md
+2025-09-20T16:58:12.563Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:58:12.563Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:58:12.563Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:58:13.572Z - info: Rebuilding 1 pages
+2025-09-20T16:58:13.658Z - info: Site data built
+2025-09-20T16:58:13.658Z - info: Pages rebuilt
+2025-09-20T16:58:13.658Z - info: Website regeneration complete! Total build time: 0.087s
+2025-09-20T16:58:56.867Z - info: [00:58:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting.md
+2025-09-20T16:58:56.868Z - info: Synchronizing opened pages list before reload
+2025-09-20T16:58:56.868Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T16:58:56.869Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T16:58:57.872Z - info: Rebuilding 1 pages
+2025-09-20T16:58:57.989Z - info: Site data built
+2025-09-20T16:58:57.989Z - info: Pages rebuilt
+2025-09-20T16:58:57.989Z - info: Website regeneration complete! Total build time: 0.118s
+2025-09-20T17:03:47.159Z - info: [01:03:47] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting.md
+2025-09-20T17:03:47.160Z - info: Synchronizing opened pages list before reload
+2025-09-20T17:03:47.161Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T17:03:47.161Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T17:03:47.161Z - info: [01:03:47] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+2025-09-20T17:03:47.162Z - info: Synchronizing opened pages list before reload
+2025-09-20T17:03:47.162Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T17:03:47.162Z - info: 1. admin/appendixG-troubleshooting
+2025-09-20T17:03:48.175Z - info: Rebuilding 1 pages
+2025-09-20T17:03:48.280Z - info: Site data built
+2025-09-20T17:03:48.280Z - info: Pages rebuilt
+2025-09-20T17:03:48.280Z - info: Website regeneration complete! Total build time: 0.108s
+2025-09-20T17:04:39.415Z - info: [01:04:39] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+2025-09-20T17:04:39.416Z - info: Synchronizing opened pages list before reload
+2025-09-20T17:04:39.416Z - info: No pages are currently opened
+2025-09-20T17:04:40.428Z - info: No pages needed to be rebuilt
+2025-09-20T17:04:45.898Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting as some of its dependencies were changed since the last visit
+2025-09-20T17:04:46.006Z - info: Site data built
+2025-09-20T17:04:46.006Z - info: Lazy website regeneration complete! Total build time: 0.108s
+2025-09-20T17:04:48.940Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/programmingLanguages as some of its dependencies were changed since the last visit
+2025-09-20T17:04:49.072Z - info: Site data built
+2025-09-20T17:04:49.072Z - info: Lazy website regeneration complete! Total build time: 0.132s
+2025-09-20T17:05:21.054Z - info: [01:05:21] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+2025-09-20T17:05:21.055Z - info: Synchronizing opened pages list before reload
+2025-09-20T17:05:21.055Z - info: No pages are currently opened
+2025-09-20T17:05:22.067Z - info: No pages needed to be rebuilt
+2025-09-20T17:07:09.318Z - info: [01:07:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+2025-09-20T17:07:09.320Z - info: Synchronizing opened pages list before reload
+2025-09-20T17:07:09.320Z - info: No pages are currently opened
+2025-09-20T17:07:10.338Z - info: No pages needed to be rebuilt
+2025-09-20T17:07:59.150Z - info: [01:07:59] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting.md
+2025-09-20T17:07:59.150Z - info: Synchronizing opened pages list before reload
+2025-09-20T17:07:59.150Z - info: No pages are currently opened
+2025-09-20T17:07:59.150Z - info: [01:07:59] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/troubleshooting-fragment.md
+2025-09-20T17:07:59.150Z - info: Synchronizing opened pages list before reload
+2025-09-20T17:07:59.150Z - info: No pages are currently opened
+2025-09-20T17:08:00.167Z - info: No pages needed to be rebuilt
+2025-09-20T17:08:05.208Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixG-troubleshooting as some of its dependencies were changed since the last visit
+2025-09-20T17:08:05.307Z - info: Site data built
+2025-09-20T17:08:05.307Z - info: Lazy website regeneration complete! Total build time: 0.1s
+2025-09-20T17:08:08.673Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index as some of its dependencies were changed since the last visit
+2025-09-20T17:08:09.080Z - info: Site data built
+2025-09-20T17:08:09.080Z - info: Lazy website regeneration complete! Total build time: 0.408s
+2025-09-20T17:08:11.412Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week6/index as some of its dependencies were changed since the last visit
+2025-09-20T17:08:11.746Z - info: Site data built
+2025-09-20T17:08:11.746Z - info: Lazy website regeneration complete! Total build time: 0.335s
+2025-09-20T17:08:13.882Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week6/project as some of its dependencies were changed since the last visit
+2025-09-20T17:08:15.084Z - info: Site data built
+2025-09-20T17:08:15.084Z - info: Lazy website regeneration complete! Total build time: 1.203s
+2025-09-20T17:09:23.160Z - info: [01:09:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/ip-tasks-fragment.md
+2025-09-20T17:09:23.161Z - info: Synchronizing opened pages list before reload
+2025-09-20T17:09:23.162Z - info: Current opened pages, from most-to-least recent:
+2025-09-20T17:09:23.162Z - info: 1. schedule/week6/project
+2025-09-20T17:09:24.178Z - info: Rebuilding 1 pages
+2025-09-20T17:09:25.528Z - info: Site data built
+2025-09-20T17:09:25.528Z - info: Pages rebuilt
+2025-09-20T17:09:25.528Z - info: Website regeneration complete! Total build time: 1.352s
+2025-09-20T17:10:40.114Z - info: Website generation started at 01:10:38
+2025-09-20T17:10:40.529Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-09-20T17:10:40.529Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-09-20T17:10:40.549Z - info: Building assets...
