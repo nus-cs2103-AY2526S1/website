@@ -242,3 +242,31 @@ fatal: fetch-pack: invalid index-pack output
 2025-10-02T09:35:41.022Z - info: Build success!
 2025-10-02T09:44:42.668Z - info: Website generation started at 17:44:41
 2025-10-02T09:44:42.996Z - info: Building assets...
+2025-10-02T09:44:44.200Z - info: Assets built
+2025-10-02T09:44:44.200Z - info: Generating pages...
+2025-10-02T09:44:48.635Z - debug:  
+2025-10-02T09:44:48.635Z - debug:  
+2025-10-02T09:44:52.065Z - debug:  
+2025-10-02T09:44:52.066Z - debug:  
+2025-10-02T09:44:52.066Z - debug:  
+2025-10-02T09:44:52.066Z - debug:  
+2025-10-02T09:44:52.066Z - debug:  
+2025-10-02T09:44:52.066Z - debug:  
+2025-10-02T09:44:52.066Z - debug:  
+2025-10-02T09:44:52.066Z - debug:  
+2025-10-02T09:44:52.066Z - debug:  
+2025-10-02T09:44:54.028Z - debug:  
+2025-10-02T09:44:54.331Z - debug:  
+2025-10-02T09:44:54.339Z - debug:  
+2025-10-02T09:44:54.411Z - debug:  
+2025-10-02T09:44:54.449Z - debug:  
+2025-10-02T09:44:54.462Z - debug:  
+2025-10-02T09:45:04.630Z - debug:  
+2025-10-02T09:46:10.294Z - debug:  
+2025-10-02T09:46:28.368Z - debug:  
+2025-10-02T09:46:28.513Z - debug:  
+2025-10-02T09:46:40.303Z - info: Pages built
+2025-10-02T09:46:40.379Z - info: Site data built
+2025-10-02T09:46:40.379Z - info: Website generation complete! Total build time: 118.471s
+2025-10-02T09:46:40.379Z - info: Build success!
+2025-10-02T09:47:05.653Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
