@@ -1,0 +1,122 @@
+2025-10-08T10:24:11.342Z - info: Website generation (lazy) started at 18:24:10
+2025-10-08T10:24:11.895Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-08T10:24:11.895Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-08T10:24:11.914Z - info: Building assets...
+2025-10-08T10:24:15.101Z - info: Assets built
+2025-10-08T10:24:15.103Z - info: Generating landing page...
+2025-10-08T10:24:15.796Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-08T10:24:15.859Z - info: Site data built
+2025-10-08T10:24:15.859Z - info: Website generation (lazy) complete! Total build time: 5.794s
+2025-10-08T10:24:15.865Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-10-08T10:24:15.865Z - info: Press CTRL+C to stop ...
+2025-10-08T10:24:23.803Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/uml-reference-sheet as some of its dependencies were changed since the last visit
+2025-10-08T10:24:23.946Z - info: Site data built
+2025-10-08T10:24:23.946Z - info: Lazy website regeneration complete! Total build time: 0.144s
+2025-10-08T10:25:18.294Z - info: [18:25:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/uml/Slide5.png
+2025-10-08T10:25:18.296Z - info: Synchronizing opened pages list before reload
+2025-10-08T10:25:18.297Z - info: Current opened pages, from most-to-least recent:
+2025-10-08T10:25:18.297Z - info: 1. admin/uml-reference-sheet
+2025-10-08T10:25:18.297Z - info: 2. index
+2025-10-08T10:25:19.307Z - info: Assets built
+2025-10-08T10:26:25.197Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exam-reference-sheet as some of its dependencies were changed since the last visit
+2025-10-08T10:26:25.274Z - info: Site data built
+2025-10-08T10:26:25.274Z - info: Lazy website regeneration complete! Total build time: 0.078s
+2025-10-08T10:27:16.047Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/index as some of its dependencies were changed since the last visit
+2025-10-08T10:27:16.186Z - info: Site data built
+2025-10-08T10:27:16.187Z - info: Lazy website regeneration complete! Total build time: 0.14s
+2025-10-08T10:27:26.059Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/modeling as some of its dependencies were changed since the last visit
+2025-10-08T10:27:29.003Z - debug:  
+2025-10-08T10:27:29.210Z - debug:  
+2025-10-08T10:27:29.218Z - debug:  
+2025-10-08T10:27:29.248Z - debug:  
+2025-10-08T10:27:29.255Z - debug:  
+2025-10-08T10:27:29.257Z - debug:  
+2025-10-08T10:27:29.266Z - debug:  
+2025-10-08T10:27:29.266Z - debug:  
+2025-10-08T10:27:29.266Z - debug:  
+2025-10-08T10:27:29.324Z - debug:  
+2025-10-08T10:27:29.460Z - info: Site data built
+2025-10-08T10:27:29.460Z - info: Lazy website regeneration complete! Total build time: 3.402s
+2025-10-08T10:28:15.704Z - info: [18:28:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingBehaviors/useCaseDiagrams/text.md
+2025-10-08T10:28:15.706Z - info: Synchronizing opened pages list before reload
+2025-10-08T10:28:15.711Z - info: Current opened pages, from most-to-least recent:
+2025-10-08T10:28:15.712Z - info: 1. se-book-adapted/chapters/modeling
+2025-10-08T10:28:16.718Z - info: Rebuilding 1 pages
+2025-10-08T10:28:17.478Z - info: Site data built
+2025-10-08T10:28:17.478Z - info: Pages rebuilt
+2025-10-08T10:28:17.478Z - info: Website regeneration complete! Total build time: 0.762s
+2025-10-08T10:29:57.230Z - info: [18:29:57] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingBehaviors/useCaseDiagrams/text.md
+2025-10-08T10:29:57.233Z - info: Synchronizing opened pages list before reload
+2025-10-08T10:29:57.235Z - info: Current opened pages, from most-to-least recent:
+2025-10-08T10:29:57.235Z - info: 1. se-book-adapted/chapters/modeling
+2025-10-08T10:29:58.240Z - info: Rebuilding 1 pages
+2025-10-08T10:29:59.453Z - debug:  
+2025-10-08T10:29:59.521Z - info: Site data built
+2025-10-08T10:29:59.521Z - info: Pages rebuilt
+2025-10-08T10:29:59.521Z - info: Website regeneration complete! Total build time: 1.283s
+2025-10-08T10:32:12.758Z - info: [18:32:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingBehaviors/useCaseDiagrams/text.md
+2025-10-08T10:32:12.760Z - info: Synchronizing opened pages list before reload
+2025-10-08T10:32:12.761Z - info: Current opened pages, from most-to-least recent:
+2025-10-08T10:32:12.761Z - info: 1. se-book-adapted/chapters/modeling
+2025-10-08T10:32:13.768Z - info: Rebuilding 1 pages
+2025-10-08T10:32:15.384Z - debug:  
+2025-10-08T10:32:15.543Z - info: Site data built
+2025-10-08T10:32:15.543Z - info: Pages rebuilt
+2025-10-08T10:32:15.543Z - info: Website regeneration complete! Total build time: 1.778s
+2025-10-08T10:33:00.491Z - info: [18:33:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingBehaviors/useCaseDiagrams/text.md
+2025-10-08T10:33:00.491Z - info: Synchronizing opened pages list before reload
+2025-10-08T10:33:00.492Z - info: Current opened pages, from most-to-least recent:
+2025-10-08T10:33:00.492Z - info: 1. se-book-adapted/chapters/modeling
+2025-10-08T10:33:01.503Z - info: Rebuilding 1 pages
+2025-10-08T10:33:02.263Z - info: Site data built
+2025-10-08T10:33:02.263Z - info: Pages rebuilt
+2025-10-08T10:33:02.264Z - info: Website regeneration complete! Total build time: 0.763s
+2025-10-08T10:33:53.291Z - info: [18:33:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingBehaviors/useCaseDiagrams/text.md
+2025-10-08T10:33:53.292Z - info: Synchronizing opened pages list before reload
+2025-10-08T10:33:53.292Z - info: Current opened pages, from most-to-least recent:
+2025-10-08T10:33:53.292Z - info: 1. se-book-adapted/chapters/modeling
+2025-10-08T10:33:54.298Z - info: Rebuilding 1 pages
+2025-10-08T10:33:55.749Z - debug:  
+2025-10-08T10:33:55.921Z - info: Site data built
+2025-10-08T10:33:55.921Z - info: Pages rebuilt
+2025-10-08T10:33:55.921Z - info: Website regeneration complete! Total build time: 1.625s
+2025-10-08T10:36:18.492Z - info: [18:36:18] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingBehaviors/useCaseDiagrams/text.md
+2025-10-08T10:36:18.495Z - info: Synchronizing opened pages list before reload
+2025-10-08T10:36:18.495Z - info: Current opened pages, from most-to-least recent:
+2025-10-08T10:36:18.496Z - info: 1. se-book-adapted/chapters/modeling
+2025-10-08T10:36:19.526Z - info: Rebuilding 1 pages
+2025-10-08T10:36:21.189Z - debug:  
+2025-10-08T10:36:21.289Z - info: Site data built
+2025-10-08T10:36:21.289Z - info: Pages rebuilt
+2025-10-08T10:36:21.289Z - info: Website regeneration complete! Total build time: 1.772s
+2025-10-08T10:36:34.976Z - info: [18:36:34] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingBehaviors/useCaseDiagrams/text.md
+2025-10-08T10:36:34.978Z - info: Synchronizing opened pages list before reload
+2025-10-08T10:36:34.978Z - info: Current opened pages, from most-to-least recent:
+2025-10-08T10:36:34.978Z - info: 1. se-book-adapted/chapters/modeling
+2025-10-08T10:36:35.982Z - info: Rebuilding 1 pages
+2025-10-08T10:36:37.563Z - debug:  
+2025-10-08T10:36:37.743Z - info: Site data built
+2025-10-08T10:36:37.743Z - info: Pages rebuilt
+2025-10-08T10:36:37.743Z - info: Website regeneration complete! Total build time: 1.764s
+2025-10-08T10:36:49.577Z - info: [18:36:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingBehaviors/useCaseDiagrams/text.md
+2025-10-08T10:36:49.577Z - info: Synchronizing opened pages list before reload
+2025-10-08T10:36:49.577Z - info: Current opened pages, from most-to-least recent:
+2025-10-08T10:36:49.577Z - info: 1. se-book-adapted/chapters/modeling
+2025-10-08T10:36:50.582Z - info: Rebuilding 1 pages
+2025-10-08T10:36:52.172Z - debug:  
+2025-10-08T10:36:52.330Z - info: Site data built
+2025-10-08T10:36:52.331Z - info: Pages rebuilt
+2025-10-08T10:36:52.331Z - info: Website regeneration complete! Total build time: 1.751s
+2025-10-08T10:37:20.420Z - info: [18:37:20] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/modeling/modelingBehaviors/useCaseDiagrams/text.md
+2025-10-08T10:37:20.423Z - info: Synchronizing opened pages list before reload
+2025-10-08T10:37:20.424Z - info: Current opened pages, from most-to-least recent:
+2025-10-08T10:37:20.424Z - info: 1. se-book-adapted/chapters/modeling
+2025-10-08T10:37:21.432Z - info: Rebuilding 1 pages
+2025-10-08T10:37:23.097Z - debug:  
+2025-10-08T10:37:23.243Z - info: Site data built
+2025-10-08T10:37:23.243Z - info: Pages rebuilt
+2025-10-08T10:37:23.243Z - info: Website regeneration complete! Total build time: 1.813s
+2025-10-08T10:39:22.776Z - info: Website generation started at 18:39:21
+2025-10-08T10:39:23.236Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-08T10:39:23.237Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-08T10:39:23.257Z - info: Building assets...
