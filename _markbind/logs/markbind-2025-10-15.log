@@ -1,0 +1,201 @@
+2025-10-14T17:08:59.973Z - info: Website generation (lazy) started at 01:08:58
+2025-10-14T17:09:00.562Z - warn: Unable to load plugin customviews, skipping...
+Error: Cannot find module 'customviews'
+Require stack:
+- /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/plugins/PluginManager.js
+- /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/linkProcessor.js
+- /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js
+- /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js
+- /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Site/index.js
+- /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/index.js
+- /opt/homebrew/lib/node_modules/markbind-cli/src/cmd/build.js
+- /opt/homebrew/lib/node_modules/markbind-cli/index.js
+2025-10-14T17:09:00.576Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-14T17:09:00.576Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-14T17:09:00.595Z - info: Building assets...
+2025-10-14T17:09:03.044Z - info: Assets built
+2025-10-14T17:09:03.045Z - info: Generating landing page...
+2025-10-14T17:09:03.473Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-14T17:09:03.544Z - info: Site data built
+2025-10-14T17:09:03.544Z - info: Website generation (lazy) complete! Total build time: 4.829s
+2025-10-14T17:09:03.557Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-10-14T17:09:03.557Z - info: Press CTRL+C to stop ...
+2025-10-14T17:09:43.004Z - info: [01:09:43] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/markbind/plugins/customviews.js
+2025-10-14T17:09:43.007Z - info: Synchronizing opened pages list before reload
+2025-10-14T17:09:43.009Z - info: Current opened pages, from most-to-least recent:
+2025-10-14T17:09:43.010Z - info: 1. index
+2025-10-14T17:09:43.129Z - info: [01:09:43] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_markbind/plugins/customviews.js
+2025-10-14T17:09:43.129Z - info: Synchronizing opened pages list before reload
+2025-10-14T17:09:43.129Z - info: Current opened pages, from most-to-least recent:
+2025-10-14T17:09:43.129Z - info: 1. index
+2025-10-14T17:09:44.124Z - debug: Assets removed
+2025-10-14T17:09:44.195Z - info: Assets built
+2025-10-14T17:10:13.515Z - info: Website generation (lazy) started at 01:10:12
+2025-10-14T17:10:13.891Z - warn: Unable to load plugin customviews, skipping...
+SyntaxError: Unexpected token 'export'
+2025-10-14T17:10:13.907Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-14T17:10:13.907Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-14T17:10:13.927Z - info: Building assets...
+2025-10-14T17:10:16.940Z - info: Assets built
+2025-10-14T17:10:16.941Z - info: Generating landing page...
+2025-10-14T17:10:17.374Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-14T17:10:17.447Z - info: Site data built
+2025-10-14T17:10:17.447Z - info: Website generation (lazy) complete! Total build time: 4.859s
+2025-10-14T17:10:17.453Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-10-14T17:10:17.453Z - info: Press CTRL+C to stop ...
+2025-10-14T17:14:38.241Z - info: [01:14:38] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/customviews.config.json
+2025-10-14T17:14:38.245Z - info: Synchronizing opened pages list before reload
+2025-10-14T17:14:38.246Z - info: Current opened pages, from most-to-least recent:
+2025-10-14T17:14:38.246Z - info: 1. index
+2025-10-14T17:14:38.396Z - info: [01:14:38] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/customviews/customviews.config.json
+2025-10-14T17:14:38.397Z - info: Synchronizing opened pages list before reload
+2025-10-14T17:14:38.397Z - info: Current opened pages, from most-to-least recent:
+2025-10-14T17:14:38.397Z - info: 1. index
+2025-10-14T17:14:39.396Z - debug: Assets removed
+2025-10-14T17:14:39.450Z - info: Assets built
+2025-10-14T17:14:48.338Z - info: Website generation (lazy) started at 01:14:47
+2025-10-14T17:14:48.693Z - warn: Unable to load plugin customviews, skipping...
+SyntaxError: Unexpected token 'export'
+2025-10-14T17:14:48.707Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-14T17:14:48.707Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-14T17:14:48.727Z - info: Building assets...
+2025-10-14T17:14:51.175Z - info: Assets built
+2025-10-14T17:14:51.176Z - info: Generating landing page...
+2025-10-14T17:14:51.598Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-14T17:14:51.668Z - info: Site data built
+2025-10-14T17:14:51.668Z - info: Website generation (lazy) complete! Total build time: 4.344s
+2025-10-14T17:14:51.674Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-10-14T17:14:51.674Z - info: Press CTRL+C to stop ...
+2025-10-15T08:09:28.336Z - info: Website generation (lazy) started at 16:09:27
+2025-10-15T08:09:29.000Z - warn: Unable to load plugin customviews, skipping...
+SyntaxError: Unexpected token 'export'
+2025-10-15T08:09:29.015Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-15T08:09:29.016Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-15T08:09:29.036Z - info: Building assets...
+2025-10-15T08:09:31.487Z - info: Assets built
+2025-10-15T08:09:31.487Z - info: Generating landing page...
+2025-10-15T08:09:31.972Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-15T08:09:32.054Z - info: Site data built
+2025-10-15T08:09:32.054Z - info: Website generation (lazy) complete! Total build time: 4.849s
+2025-10-15T08:09:32.067Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-10-15T08:09:32.067Z - info: Press CTRL+C to stop ...
+2025-10-15T08:10:10.936Z - info: [16:10:10] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/customviews.config.json
+2025-10-15T08:10:10.936Z - info: Synchronizing opened pages list before reload
+2025-10-15T08:10:10.937Z - info: Current opened pages, from most-to-least recent:
+2025-10-15T08:10:10.937Z - info: 1. index
+2025-10-15T08:10:11.068Z - info: [16:10:11] Reload for file deletion: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/customviews/customviews.config.json
+2025-10-15T08:10:11.068Z - info: Synchronizing opened pages list before reload
+2025-10-15T08:10:11.068Z - info: Current opened pages, from most-to-least recent:
+2025-10-15T08:10:11.068Z - info: 1. index
+2025-10-15T08:10:12.063Z - info: Assets built
+2025-10-15T08:10:12.127Z - debug: Assets removed
+2025-10-15T08:10:20.609Z - info: Website generation (lazy) started at 16:10:19
+2025-10-15T08:10:20.918Z - warn: Unable to load plugin customviews, skipping...
+SyntaxError: Unexpected token 'export'
+2025-10-15T08:10:20.934Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-15T08:10:20.934Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-15T08:10:20.954Z - info: Building assets...
+2025-10-15T08:10:23.296Z - info: Assets built
+2025-10-15T08:10:23.296Z - info: Generating landing page...
+2025-10-15T08:10:23.706Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-15T08:10:23.768Z - info: Site data built
+2025-10-15T08:10:23.768Z - info: Website generation (lazy) complete! Total build time: 4.034s
+2025-10-15T08:10:23.774Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-10-15T08:10:23.774Z - info: Press CTRL+C to stop ...
+2025-10-15T08:15:01.680Z - info: [16:15:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/site.json
+2025-10-15T08:15:01.684Z - info: Synchronizing opened pages list before reload
+2025-10-15T08:15:01.685Z - info: Current opened pages, from most-to-least recent:
+2025-10-15T08:15:01.686Z - info: 1. index
+2025-10-15T08:15:03.181Z - info: Pages or site config modified, updating pages...
+2025-10-15T08:15:04.298Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index as some of its dependencies were changed since the last visit
+2025-10-15T08:15:04.719Z - info: Site data built
+2025-10-15T08:15:04.719Z - info: Lazy website regeneration complete! Total build time: 0.421s
+2025-10-15T08:15:04.720Z - info: Site data built
+2025-10-15T08:17:08.377Z - info: [16:17:08] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/site.json
+2025-10-15T08:17:08.379Z - info: Synchronizing opened pages list before reload
+2025-10-15T08:17:08.380Z - info: Current opened pages, from most-to-least recent:
+2025-10-15T08:17:08.382Z - info: 1. index
+2025-10-15T08:17:11.492Z - info: Website generation (lazy) started at 16:17:10
+2025-10-15T08:17:11.844Z - warn: Unable to load plugin customviews, skipping...
+SyntaxError: Unexpected token 'export'
+2025-10-15T08:17:11.860Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-15T08:17:11.860Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-15T08:17:11.883Z - info: Building assets...
+2025-10-15T08:17:14.308Z - info: Assets built
+2025-10-15T08:17:14.308Z - info: Generating landing page...
+2025-10-15T08:17:14.716Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-15T08:17:14.790Z - info: Site data built
+2025-10-15T08:17:14.790Z - info: Website generation (lazy) complete! Total build time: 4.361s
+2025-10-15T08:17:14.797Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-10-15T08:17:14.797Z - info: Press CTRL+C to stop ...
+2025-10-15T08:17:47.367Z - info: Website generation started at 16:17:46
+2025-10-15T08:17:47.604Z - warn: Unable to load plugin customviews, skipping...
+SyntaxError: Unexpected token 'export'
+2025-10-15T08:17:47.618Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-15T08:17:47.619Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-15T08:17:47.638Z - info: Building assets...
+2025-10-15T08:17:49.977Z - info: Assets built
+2025-10-15T08:17:49.978Z - info: Generating pages...
+2025-10-15T08:18:23.757Z - info: Website generation (lazy) started at 16:18:22
+2025-10-15T08:18:24.035Z - warn: Unable to load plugin customviews, skipping...
+SyntaxError: Unexpected token 'export'
+2025-10-15T08:18:24.068Z - info: Building assets...
+2025-10-15T08:18:25.326Z - info: Assets built
+2025-10-15T08:18:25.326Z - info: Generating landing page...
+2025-10-15T08:18:25.840Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-15T08:18:25.909Z - info: Site data built
+2025-10-15T08:18:25.909Z - info: Website generation (lazy) complete! Total build time: 2.945s
+2025-10-15T08:18:25.915Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-10-15T08:18:25.916Z - info: Press CTRL+C to stop ...
+2025-10-15T14:36:54.586Z - info: Website generation (lazy) started at 22:36:53
+2025-10-15T14:36:55.135Z - info: Building assets...
+2025-10-15T14:36:56.755Z - info: Assets built
+2025-10-15T14:36:56.756Z - info: Generating landing page...
+2025-10-15T14:36:57.195Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-15T14:36:57.263Z - info: Site data built
+2025-10-15T14:36:57.263Z - info: Website generation (lazy) complete! Total build time: 3.505s
+2025-10-15T14:36:57.275Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-10-15T14:36:57.275Z - info: Press CTRL+C to stop ...
+2025-10-15T14:37:10.656Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week10/index as some of its dependencies were changed since the last visit
+2025-10-15T14:37:11.148Z - info: Site data built
+2025-10-15T14:37:11.148Z - info: Lazy website regeneration complete! Total build time: 0.493s
+2025-10-15T14:37:16.242Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week10/admin as some of its dependencies were changed since the last visit
+2025-10-15T14:37:16.393Z - info: Site data built
+2025-10-15T14:37:16.394Z - info: Lazy website regeneration complete! Total build time: 0.152s
+2025-10-15T14:37:24.973Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week9/index as some of its dependencies were changed since the last visit
+2025-10-15T14:37:25.357Z - info: Site data built
+2025-10-15T14:37:25.357Z - info: Lazy website regeneration complete! Total build time: 0.385s
+2025-10-15T14:37:28.986Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week9/admin as some of its dependencies were changed since the last visit
+2025-10-15T14:37:29.097Z - info: Site data built
+2025-10-15T14:37:29.097Z - info: Lazy website regeneration complete! Total build time: 0.111s
+2025-10-15T14:37:43.185Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week9/project as some of its dependencies were changed since the last visit
+2025-10-15T14:37:44.161Z - info: Site data built
+2025-10-15T14:37:44.161Z - info: Lazy website regeneration complete! Total build time: 0.978s
+2025-10-15T14:38:27.171Z - info: [22:38:27] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/weeklyAdminTasks-fragment.md
+2025-10-15T14:38:27.175Z - info: Synchronizing opened pages list before reload
+2025-10-15T14:38:27.183Z - info: Current opened pages, from most-to-least recent:
+2025-10-15T14:38:27.186Z - info: 1. schedule/week10/admin
+2025-10-15T14:38:28.212Z - info: Rebuilding 1 pages
+2025-10-15T14:38:28.441Z - info: Site data built
+2025-10-15T14:38:28.441Z - info: Pages rebuilt
+2025-10-15T14:38:28.441Z - info: Website regeneration complete! Total build time: 0.232s
+2025-10-15T14:38:32.179Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week10/topics as some of its dependencies were changed since the last visit
+2025-10-15T14:38:34.512Z - debug:  
+2025-10-15T14:38:34.618Z - info: Site data built
+2025-10-15T14:38:34.618Z - info: Lazy website regeneration complete! Total build time: 2.44s
+2025-10-15T14:39:05.624Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week10/project as some of its dependencies were changed since the last visit
+2025-10-15T14:39:06.878Z - info: Site data built
+2025-10-15T14:39:06.879Z - info: Lazy website regeneration complete! Total build time: 1.256s
+2025-10-15T14:40:44.605Z - info: [22:40:44] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/_course-CS2103/weeklyTpTasks-fragment.md
+2025-10-15T14:40:44.607Z - info: Synchronizing opened pages list before reload
+2025-10-15T14:40:44.609Z - info: Current opened pages, from most-to-least recent:
+2025-10-15T14:40:44.610Z - info: 1. schedule/week10/project
+2025-10-15T14:40:45.743Z - info: Rebuilding 1 pages
+2025-10-15T14:40:46.680Z - info: Site data built
+2025-10-15T14:40:46.680Z - info: Pages rebuilt
+2025-10-15T14:40:46.680Z - info: Website regeneration complete! Total build time: 0.938s
+2025-10-15T14:41:26.464Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week10/tutorial as some of its dependencies were changed since the last visit
+2025-10-15T14:41:26.809Z - info: Site data built
+2025-10-15T14:41:26.809Z - info: Lazy website regeneration complete! Total build time: 0.345s
+2025-10-15T14:44:28.003Z - info: Website generation started at 22:44:27
+2025-10-15T14:44:28.398Z - info: Building assets...
