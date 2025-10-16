@@ -199,3 +199,32 @@ SyntaxError: Unexpected token 'export'
 2025-10-15T14:41:26.809Z - info: Lazy website regeneration complete! Total build time: 0.345s
 2025-10-15T14:44:28.003Z - info: Website generation started at 22:44:27
 2025-10-15T14:44:28.398Z - info: Building assets...
+2025-10-15T14:44:29.699Z - info: Assets built
+2025-10-15T14:44:29.699Z - info: Generating pages...
+2025-10-15T14:44:37.944Z - debug:  
+2025-10-15T14:44:37.944Z - debug:  
+2025-10-15T14:44:37.944Z - debug:  
+2025-10-15T14:44:41.322Z - debug:  
+2025-10-15T14:44:41.322Z - debug:  
+2025-10-15T14:44:41.322Z - debug:  
+2025-10-15T14:44:41.322Z - debug:  
+2025-10-15T14:44:41.322Z - debug:  
+2025-10-15T14:44:41.322Z - debug:  
+2025-10-15T14:44:41.322Z - debug:  
+2025-10-15T14:44:41.322Z - debug:  
+2025-10-15T14:44:41.322Z - debug:  
+2025-10-15T14:44:43.729Z - debug:  
+2025-10-15T14:44:43.986Z - debug:  
+2025-10-15T14:44:44.001Z - debug:  
+2025-10-15T14:44:44.022Z - debug:  
+2025-10-15T14:44:44.084Z - debug:  
+2025-10-15T14:44:44.105Z - debug:  
+2025-10-15T14:44:54.867Z - debug:  
+2025-10-15T14:45:57.569Z - debug:  
+2025-10-15T14:46:09.782Z - debug:  
+2025-10-15T14:46:09.802Z - debug:  
+2025-10-15T14:46:19.288Z - info: Pages built
+2025-10-15T14:46:19.372Z - info: Site data built
+2025-10-15T14:46:19.372Z - info: Website generation complete! Total build time: 111.964s
+2025-10-15T14:46:19.372Z - info: Build success!
+2025-10-15T14:46:46.180Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
