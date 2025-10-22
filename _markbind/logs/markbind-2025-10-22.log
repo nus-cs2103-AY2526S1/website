@@ -1,0 +1,169 @@
+2025-10-22T15:02:30.171Z - info: Website generation (lazy) started at 23:02:28
+2025-10-22T15:02:30.728Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-22T15:02:30.729Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-22T15:02:30.748Z - info: Building assets...
+2025-10-22T15:02:33.474Z - info: Assets built
+2025-10-22T15:02:33.474Z - info: Generating landing page...
+2025-10-22T15:02:34.065Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-22T15:02:34.140Z - info: Site data built
+2025-10-22T15:02:34.140Z - info: Website generation (lazy) complete! Total build time: 5.184s
+2025-10-22T15:02:34.150Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-10-22T15:02:34.150Z - info: Press CTRL+C to stop ...
+2025-10-22T15:02:52.039Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week11/index as some of its dependencies were changed since the last visit
+2025-10-22T15:02:52.669Z - info: Site data built
+2025-10-22T15:02:52.669Z - info: Lazy website regeneration complete! Total build time: 0.632s
+2025-10-22T15:06:03.707Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week11/admin as some of its dependencies were changed since the last visit
+2025-10-22T15:06:04.075Z - info: Site data built
+2025-10-22T15:06:04.075Z - info: Lazy website regeneration complete! Total build time: 0.369s
+2025-10-22T15:08:10.037Z - info: [23:08:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-10-22T15:08:10.038Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:08:10.039Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:08:10.039Z - info: 1. schedule/week11/admin
+2025-10-22T15:08:11.045Z - info: Rebuilding 1 pages
+2025-10-22T15:08:11.394Z - info: Site data built
+2025-10-22T15:08:11.394Z - info: Pages rebuilt
+2025-10-22T15:08:11.394Z - info: Website regeneration complete! Total build time: 0.35s
+2025-10-22T15:08:34.676Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams as some of its dependencies were changed since the last visit
+2025-10-22T15:08:35.038Z - info: Site data built
+2025-10-22T15:08:35.038Z - info: Lazy website regeneration complete! Total build time: 0.363s
+2025-10-22T15:11:26.491Z - info: [23:11:26] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-10-22T15:11:26.493Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:11:26.494Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:11:26.495Z - info: 1. admin/exams
+2025-10-22T15:11:26.495Z - info: 2. schedule/week11/admin
+2025-10-22T15:11:27.504Z - info: Rebuilding 2 pages
+2025-10-22T15:11:28.032Z - info: Site data built
+2025-10-22T15:11:28.032Z - info: Pages rebuilt
+2025-10-22T15:11:28.032Z - info: Website regeneration complete! Total build time: 0.531s
+2025-10-22T15:11:58.087Z - info: [23:11:58] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-10-22T15:11:58.087Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:11:58.088Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:11:58.088Z - info: 1. admin/exams
+2025-10-22T15:11:58.088Z - info: 2. schedule/week11/admin
+2025-10-22T15:11:59.107Z - info: Rebuilding 2 pages
+2025-10-22T15:11:59.619Z - info: Site data built
+2025-10-22T15:11:59.619Z - info: Pages rebuilt
+2025-10-22T15:11:59.619Z - info: Website regeneration complete! Total build time: 0.514s
+2025-10-22T15:12:03.583Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exam-reference-sheet as some of its dependencies were changed since the last visit
+2025-10-22T15:12:03.684Z - info: Site data built
+2025-10-22T15:12:03.684Z - info: Lazy website regeneration complete! Total build time: 0.101s
+2025-10-22T15:14:27.147Z - info: [23:14:27] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-10-22T15:14:27.148Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:14:27.148Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:14:27.149Z - info: 1. admin/exam-reference-sheet
+2025-10-22T15:14:27.149Z - info: 2. admin/exams
+2025-10-22T15:14:27.149Z - info: 3. schedule/week11/admin
+2025-10-22T15:14:28.155Z - info: Rebuilding 2 pages
+2025-10-22T15:14:28.676Z - info: Site data built
+2025-10-22T15:14:28.676Z - info: Pages rebuilt
+2025-10-22T15:14:28.676Z - info: Website regeneration complete! Total build time: 0.523s
+2025-10-22T15:14:53.168Z - info: [23:14:53] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-10-22T15:14:53.169Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:14:53.170Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:14:53.170Z - info: 1. admin/exam-reference-sheet
+2025-10-22T15:14:53.170Z - info: 2. admin/exams
+2025-10-22T15:14:53.170Z - info: 3. schedule/week11/admin
+2025-10-22T15:14:54.186Z - info: Rebuilding 2 pages
+2025-10-22T15:14:54.717Z - info: Site data built
+2025-10-22T15:14:54.717Z - info: Pages rebuilt
+2025-10-22T15:14:54.718Z - info: Website regeneration complete! Total build time: 0.535s
+2025-10-22T15:16:49.882Z - info: [23:16:49] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-10-22T15:16:49.883Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:16:49.884Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:16:49.884Z - info: 1. admin/exams
+2025-10-22T15:16:49.884Z - info: 2. schedule/week11/admin
+2025-10-22T15:16:50.894Z - info: Rebuilding 2 pages
+2025-10-22T15:16:51.425Z - info: Site data built
+2025-10-22T15:16:51.425Z - info: Pages rebuilt
+2025-10-22T15:16:51.425Z - info: Website regeneration complete! Total build time: 0.533s
+2025-10-22T15:18:00.688Z - info: [23:18:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-10-22T15:18:00.690Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:18:00.691Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:18:00.691Z - info: 1. admin/exams
+2025-10-22T15:18:00.691Z - info: 2. schedule/week11/admin
+2025-10-22T15:18:01.698Z - info: Rebuilding 2 pages
+2025-10-22T15:18:02.226Z - info: Site data built
+2025-10-22T15:18:02.226Z - info: Pages rebuilt
+2025-10-22T15:18:02.226Z - info: Website regeneration complete! Total build time: 0.53s
+2025-10-22T15:19:06.457Z - info: [23:19:06] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-10-22T15:19:06.457Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:19:06.458Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:19:06.458Z - info: 1. admin/exams
+2025-10-22T15:19:06.458Z - info: 2. schedule/week11/admin
+2025-10-22T15:19:07.478Z - info: Rebuilding 2 pages
+2025-10-22T15:19:08.005Z - info: Site data built
+2025-10-22T15:19:08.005Z - info: Pages rebuilt
+2025-10-22T15:19:08.005Z - info: Website regeneration complete! Total build time: 0.528s
+2025-10-22T15:25:12.995Z - info: [23:25:12] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-10-22T15:25:13.000Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:25:13.002Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:25:13.004Z - info: 1. admin/exams
+2025-10-22T15:25:13.004Z - info: 2. schedule/week11/admin
+2025-10-22T15:25:14.011Z - info: Rebuilding 2 pages
+2025-10-22T15:25:14.547Z - info: Site data built
+2025-10-22T15:25:14.547Z - info: Pages rebuilt
+2025-10-22T15:25:14.547Z - info: Website regeneration complete! Total build time: 0.537s
+2025-10-22T15:25:24.180Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week11/topics as some of its dependencies were changed since the last visit
+2025-10-22T15:25:24.897Z - info: Site data built
+2025-10-22T15:25:24.897Z - info: Lazy website regeneration complete! Total build time: 0.718s
+2025-10-22T15:26:04.151Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week11/project as some of its dependencies were changed since the last visit
+2025-10-22T15:26:06.338Z - info: Site data built
+2025-10-22T15:26:06.338Z - info: Lazy website regeneration complete! Total build time: 2.187s
+2025-10-22T15:28:25.166Z - info: [23:28:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-ped-fragment.md
+2025-10-22T15:28:25.169Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:28:25.175Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:28:25.176Z - info: 1. schedule/week11/project
+2025-10-22T15:28:25.176Z - info: 2. admin/exams
+2025-10-22T15:28:26.188Z - info: Rebuilding 1 pages
+2025-10-22T15:28:28.319Z - info: Site data built
+2025-10-22T15:28:28.319Z - info: Pages rebuilt
+2025-10-22T15:28:28.319Z - info: Website regeneration complete! Total build time: 2.133s
+2025-10-22T15:33:50.443Z - info: [23:33:50] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2025-10-22T15:33:50.444Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:33:50.445Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:33:50.445Z - info: 1. schedule/week11/project
+2025-10-22T15:33:50.445Z - info: 2. admin/exams
+2025-10-22T15:33:51.462Z - info: Rebuilding 1 pages
+2025-10-22T15:33:53.602Z - info: Site data built
+2025-10-22T15:33:53.602Z - info: Pages rebuilt
+2025-10-22T15:33:53.602Z - info: Website regeneration complete! Total build time: 2.142s
+2025-10-22T15:38:25.604Z - info: [23:38:25] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-tasks-fragment.md
+2025-10-22T15:38:25.605Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:38:25.606Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:38:25.607Z - info: 1. schedule/week11/project
+2025-10-22T15:38:25.607Z - info: 2. admin/exams
+2025-10-22T15:38:26.614Z - info: Rebuilding 1 pages
+2025-10-22T15:38:28.764Z - info: Site data built
+2025-10-22T15:38:28.764Z - info: Pages rebuilt
+2025-10-22T15:38:28.764Z - info: Website regeneration complete! Total build time: 2.153s
+2025-10-22T15:39:02.522Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week11/tutorial as some of its dependencies were changed since the last visit
+2025-10-22T15:39:02.695Z - info: Site data built
+2025-10-22T15:39:02.695Z - info: Lazy website regeneration complete! Total build time: 0.174s
+2025-10-22T15:39:44.667Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week12/index as some of its dependencies were changed since the last visit
+2025-10-22T15:39:45.084Z - info: Site data built
+2025-10-22T15:39:45.084Z - info: Lazy website regeneration complete! Total build time: 0.417s
+2025-10-22T15:40:15.347Z - info: [23:40:15] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week12/notices-cs2103-fragment.md
+2025-10-22T15:40:15.350Z - info: Synchronizing opened pages list before reload
+2025-10-22T15:40:15.350Z - info: Current opened pages, from most-to-least recent:
+2025-10-22T15:40:15.351Z - info: 1. schedule/week12/index
+2025-10-22T15:40:15.351Z - info: 2. admin/exams
+2025-10-22T15:40:16.360Z - info: Rebuilding 1 pages
+2025-10-22T15:40:16.801Z - info: Site data built
+2025-10-22T15:40:16.801Z - info: Pages rebuilt
+2025-10-22T15:40:16.801Z - info: Website regeneration complete! Total build time: 0.444s
+2025-10-22T15:40:41.565Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week12/admin as some of its dependencies were changed since the last visit
+2025-10-22T15:40:41.886Z - info: Site data built
+2025-10-22T15:40:41.886Z - info: Lazy website regeneration complete! Total build time: 0.322s
+2025-10-22T15:40:48.941Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week12/topics as some of its dependencies were changed since the last visit
+2025-10-22T15:40:49.045Z - info: Site data built
+2025-10-22T15:40:49.045Z - info: Lazy website regeneration complete! Total build time: 0.104s
+2025-10-22T15:40:54.089Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week12/project as some of its dependencies were changed since the last visit
+2025-10-22T15:40:56.003Z - info: Site data built
+2025-10-22T15:40:56.003Z - info: Lazy website regeneration complete! Total build time: 1.914s
+2025-10-22T15:41:02.049Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/schedule/week12/tutorial as some of its dependencies were changed since the last visit
+2025-10-22T15:41:02.186Z - info: Site data built
+2025-10-22T15:41:02.186Z - info: Lazy website regeneration complete! Total build time: 0.137s
+2025-10-22T15:42:14.754Z - info: Website generation started at 23:42:13
+2025-10-22T15:42:15.203Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/book/_markbind/variables.md'
+2025-10-22T15:42:15.203Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2526S1!website.git/_markbind/variables.md'
+2025-10-22T15:42:15.223Z - info: Building assets...
