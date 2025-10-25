@@ -524,3 +524,32 @@ Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/
 2025-10-25T06:56:23.194Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-10-25T06:56:23.195Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-10-25T06:56:23.241Z - info: Building assets...
+2025-10-25T06:56:26.668Z - info: Assets built
+2025-10-25T06:56:26.669Z - info: Generating pages...
+2025-10-25T06:56:31.359Z - debug:  
+2025-10-25T06:56:31.672Z - debug:  
+2025-10-25T06:56:31.672Z - debug:  
+2025-10-25T06:56:34.360Z - debug:  
+2025-10-25T06:56:34.360Z - debug:  
+2025-10-25T06:56:34.360Z - debug:  
+2025-10-25T06:56:34.360Z - debug:  
+2025-10-25T06:56:34.360Z - debug:  
+2025-10-25T06:56:34.360Z - debug:  
+2025-10-25T06:56:34.360Z - debug:  
+2025-10-25T06:56:34.360Z - debug:  
+2025-10-25T06:56:34.360Z - debug:  
+2025-10-25T06:56:37.252Z - debug:  
+2025-10-25T06:56:37.287Z - debug:  
+2025-10-25T06:56:37.306Z - debug:  
+2025-10-25T06:56:37.330Z - debug:  
+2025-10-25T06:56:37.344Z - debug:  
+2025-10-25T06:56:37.372Z - debug:  
+2025-10-25T06:56:47.806Z - debug:  
+2025-10-25T06:57:49.911Z - debug:  
+2025-10-25T06:58:02.223Z - debug:  
+2025-10-25T06:58:02.541Z - debug:  
+2025-10-25T06:58:13.853Z - info: Pages built
+2025-10-25T06:58:13.937Z - info: Site data built
+2025-10-25T06:58:13.937Z - info: Website generation complete! Total build time: 112.36s
+2025-10-25T06:58:13.938Z - info: Build success!
+2025-10-25T06:58:40.703Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
