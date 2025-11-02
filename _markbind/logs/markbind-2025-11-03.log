@@ -59,3 +59,36 @@
 2025-11-02T17:41:14.791Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-11-02T17:41:14.792Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-11-02T17:41:14.811Z - info: Building assets...
+2025-11-02T17:41:18.132Z - info: Assets built
+2025-11-02T17:41:18.133Z - info: Generating pages...
+2025-11-02T17:41:25.123Z - debug:  
+2025-11-02T17:41:25.401Z - debug:  
+2025-11-02T17:41:25.402Z - debug:  
+2025-11-02T17:41:28.636Z - debug:  
+2025-11-02T17:41:28.636Z - debug:  
+2025-11-02T17:41:28.636Z - debug:  
+2025-11-02T17:41:28.636Z - debug:  
+2025-11-02T17:41:28.636Z - debug:  
+2025-11-02T17:41:28.637Z - debug:  
+2025-11-02T17:41:28.637Z - debug:  
+2025-11-02T17:41:28.637Z - debug:  
+2025-11-02T17:41:28.637Z - debug:  
+2025-11-02T17:41:31.042Z - debug:  
+2025-11-02T17:41:31.046Z - debug:  
+2025-11-02T17:41:31.051Z - debug:  
+2025-11-02T17:41:31.061Z - debug:  
+2025-11-02T17:41:31.065Z - debug:  
+2025-11-02T17:41:31.103Z - debug:  
+2025-11-02T17:41:41.557Z - debug:  
+2025-11-02T17:42:44.057Z - debug:  
+2025-11-02T17:42:56.903Z - debug:  
+2025-11-02T17:42:56.973Z - debug:  
+2025-11-02T17:43:06.610Z - info: Pages built
+2025-11-02T17:43:06.687Z - info: Site data built
+2025-11-02T17:43:06.687Z - info: Website generation complete! Total build time: 113.429s
+2025-11-02T17:43:06.687Z - info: Build success!
+2025-11-02T17:43:32.843Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-11-02T17:47:46.462Z - info: Website generation started at 01:47:45
+2025-11-02T17:47:47.093Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-11-02T17:47:47.093Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-11-02T17:47:47.117Z - info: Building assets...
