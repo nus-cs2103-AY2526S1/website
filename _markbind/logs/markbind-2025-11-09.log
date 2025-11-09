@@ -49,3 +49,66 @@
 2025-11-09T04:46:04.407Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-11-09T04:46:04.407Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-11-09T04:46:04.428Z - info: Building assets...
+2025-11-09T04:46:07.107Z - info: Assets built
+2025-11-09T04:46:07.107Z - info: Generating pages...
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:16.611Z - debug:  
+2025-11-09T04:46:20.069Z - debug:  
+2025-11-09T04:46:20.166Z - debug:  
+2025-11-09T04:46:20.182Z - debug:  
+2025-11-09T04:46:20.200Z - debug:  
+2025-11-09T04:46:20.237Z - debug:  
+2025-11-09T04:46:20.252Z - debug:  
+2025-11-09T04:46:30.722Z - debug:  
+2025-11-09T04:47:33.360Z - debug:  
+2025-11-09T04:47:45.436Z - debug:  
+2025-11-09T04:47:45.678Z - debug:  
+2025-11-09T04:47:56.085Z - info: Pages built
+2025-11-09T04:47:56.165Z - info: Site data built
+2025-11-09T04:47:56.166Z - info: Website generation complete! Total build time: 113.842s
+2025-11-09T04:47:56.166Z - info: Build success!
+2025-11-09T04:48:21.482Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
+2025-11-09T05:03:53.398Z - info: Website generation (lazy) started at 13:03:51
+2025-11-09T05:03:53.872Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-11-09T05:03:53.872Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-11-09T05:03:53.896Z - info: Building assets...
+2025-11-09T05:03:56.486Z - info: Assets built
+2025-11-09T05:03:56.487Z - info: Generating landing page...
+2025-11-09T05:03:56.847Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-11-09T05:03:56.921Z - info: Site data built
+2025-11-09T05:03:56.921Z - info: Website generation (lazy) complete! Total build time: 4.939s
+2025-11-09T05:03:56.936Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-11-09T05:03:56.936Z - info: Press CTRL+C to stop ...
+2025-11-09T05:04:38.987Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe as some of its dependencies were changed since the last visit
+2025-11-09T05:04:40.215Z - info: Site data built
+2025-11-09T05:04:40.216Z - info: Lazy website regeneration complete! Total build time: 1.23s
+2025-11-09T05:09:46.280Z - info: [13:09:46] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-bug-triaging-guidelines-fragment.md
+2025-11-09T05:09:46.310Z - info: Synchronizing opened pages list before reload
+2025-11-09T05:09:46.317Z - info: Current opened pages, from most-to-least recent:
+2025-11-09T05:09:46.319Z - info: 1. admin/tp-pe
+2025-11-09T05:09:47.340Z - info: Rebuilding 1 pages
+2025-11-09T05:09:48.549Z - info: Site data built
+2025-11-09T05:09:48.550Z - info: Pages rebuilt
+2025-11-09T05:09:48.550Z - info: Website regeneration complete! Total build time: 1.212s
+2025-11-09T05:13:41.165Z - info: [13:13:41] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/tp-pe-bug-triaging-guidelines-fragment.md
+2025-11-09T05:13:41.182Z - info: Synchronizing opened pages list before reload
+2025-11-09T05:13:41.187Z - info: Current opened pages, from most-to-least recent:
+2025-11-09T05:13:41.191Z - info: 1. admin/tp-pe
+2025-11-09T05:13:42.219Z - info: Rebuilding 1 pages
+2025-11-09T05:13:43.250Z - info: Site data built
+2025-11-09T05:13:43.250Z - info: Pages rebuilt
+2025-11-09T05:13:43.250Z - info: Website regeneration complete! Total build time: 1.047s
+2025-11-09T05:14:37.332Z - info: Website generation started at 13:14:36
+2025-11-09T05:14:37.866Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-11-09T05:14:37.866Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-11-09T05:14:37.885Z - info: Building assets...
