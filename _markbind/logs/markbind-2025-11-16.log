@@ -1,0 +1,29 @@
+2025-11-16T07:45:16.251Z - info: Website generation (lazy) started at 15:45:15
+2025-11-16T07:45:16.795Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-11-16T07:45:16.796Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-11-16T07:45:16.815Z - info: Building assets...
+2025-11-16T07:45:19.975Z - info: Assets built
+2025-11-16T07:45:19.976Z - info: Generating landing page...
+2025-11-16T07:45:20.319Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-11-16T07:45:20.393Z - info: Site data built
+2025-11-16T07:45:20.393Z - info: Website generation (lazy) complete! Total build time: 5.334s
+2025-11-16T07:45:20.405Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-11-16T07:45:20.405Z - info: Press CTRL+C to stop ...
+2025-11-16T07:45:28.991Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-11-16T07:45:29.366Z - info: Site data built
+2025-11-16T07:45:29.367Z - info: Lazy website regeneration complete! Total build time: 0.376s
+2025-11-16T07:45:32.329Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/backingUpOnCloud/index as some of its dependencies were changed since the last visit
+2025-11-16T07:45:32.772Z - info: Site data built
+2025-11-16T07:45:32.772Z - info: Lazy website regeneration complete! Total build time: 0.443s
+2025-11-16T07:45:56.171Z - info: [15:45:56] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/githubPrep/text.md
+2025-11-16T07:45:56.172Z - info: Synchronizing opened pages list before reload
+2025-11-16T07:45:56.173Z - info: Current opened pages, from most-to-least recent:
+2025-11-16T07:45:56.173Z - info: 1. book/gitAndGithub/trail/backingUpOnCloud/index
+2025-11-16T07:45:57.178Z - info: Rebuilding 1 pages
+2025-11-16T07:45:57.560Z - info: Site data built
+2025-11-16T07:45:57.560Z - info: Pages rebuilt
+2025-11-16T07:45:57.560Z - info: Website regeneration complete! Total build time: 0.384s
+2025-11-16T07:46:31.621Z - info: Website generation started at 15:46:30
+2025-11-16T07:46:31.968Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-11-16T07:46:31.968Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-11-16T07:46:31.987Z - info: Building assets...
