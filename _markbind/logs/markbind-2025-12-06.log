@@ -1,0 +1,20 @@
+2025-12-06T07:26:30.025Z - info: Website generation (lazy) started at 15:26:28
+2025-12-06T07:26:30.710Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
+2025-12-06T07:26:30.710Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
+2025-12-06T07:26:30.730Z - info: Building assets...
+2025-12-06T07:26:33.295Z - info: Assets built
+2025-12-06T07:26:33.296Z - info: Generating landing page...
+2025-12-06T07:26:33.614Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-12-06T07:26:33.688Z - info: Site data built
+2025-12-06T07:26:33.688Z - info: Website generation (lazy) complete! Total build time: 4.919s
+2025-12-06T07:26:34.709Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:49981
+2025-12-06T07:26:34.710Z - info: Press CTRL+C to stop ...
+2025-12-06T07:26:41.055Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/git-trail/index as some of its dependencies were changed since the last visit
+2025-12-06T07:26:41.411Z - info: Site data built
+2025-12-06T07:26:41.411Z - info: Lazy website regeneration complete! Total build time: 0.356s
+2025-12-06T07:26:45.051Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/backingUpOnCloud/index as some of its dependencies were changed since the last visit
+2025-12-06T07:26:45.417Z - info: Site data built
+2025-12-06T07:26:45.417Z - info: Lazy website regeneration complete! Total build time: 0.366s
+2025-12-06T07:26:48.945Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/remoteRepos/index as some of its dependencies were changed since the last visit
+2025-12-06T07:26:49.025Z - info: Site data built
+2025-12-06T07:26:49.025Z - info: Lazy website regeneration complete! Total build time: 0.08s
